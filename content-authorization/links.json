@@ -1,0 +1,786 @@
+{
+	"SweetEscape": {
+		"LOW": "https://cdn.glitch.me/f7b40744-1ee2-48f2-9565-f7904cb75e1c/SweetEscape_LOW.webm",
+		"MID": "https://cdn.glitch.me/f7b40744-1ee2-48f2-9565-f7904cb75e1c/SweetEscape_MID.webm",
+		"HIGH": "https://cdn.glitch.me/f7b40744-1ee2-48f2-9565-f7904cb75e1c/SweetEscape_HIGH.webm",
+		"ULTRA": "https://cdn.glitch.me/f7b40744-1ee2-48f2-9565-f7904cb75e1c/SweetEscape_HIGH.webm",
+		"Audio": "https://cdn.glitch.me/f7b40744-1ee2-48f2-9565-f7904cb75e1c/SweetEscape.ogg"
+	},
+	"Womanizer": {
+		"LOW": "https://cdn.staging.glitch.me/67e754bf-896c-4e2f-b24e-095c44012f2e/Womanizer_LOW.webm",
+		"MID": "https://cdn.staging.glitch.me/67e754bf-896c-4e2f-b24e-095c44012f2e/Womanizer_MID.webm",
+		"HIGH": "https://cdn.staging.glitch.me/67e754bf-896c-4e2f-b24e-095c44012f2e/Womanizer_HIGH.webm",
+		"ULTRA": "https://cdn.staging.glitch.me/67e754bf-896c-4e2f-b24e-095c44012f2e/Womanizer_ULTRA.webm",
+		"Audio": "https://cdn.staging.glitch.me/67e754bf-896c-4e2f-b24e-095c44012f2e/Womanizer.ogg"
+	},
+	"TheLazySong": {
+		"LOW": "https://cdn.staging.glitch.me/68eb4aa4-e5e0-4767-b956-70031fbfb8a2/TheLazySong1_LOW.webm",
+		"MID": "https://cdn.staging.glitch.me/68eb4aa4-e5e0-4767-b956-70031fbfb8a2/TheLazySong1_MID.webm",
+		"HIGH": "https://cdn.staging.glitch.me/68eb4aa4-e5e0-4767-b956-70031fbfb8a2/TheLazySong1_HIGH.webm",
+		"ULTRA": "https://cdn.staging.glitch.me/68eb4aa4-e5e0-4767-b956-70031fbfb8a2/TheLazySong1_HIGH.webm",
+		"Audio": "https://cdn.discordapp.com/attachments/833077639131955210/985179246307709030/TheLazySong.ogg"
+	},
+	"SOS": {
+		"LOW": "https://cdn.glitch.me/f7b40744-1ee2-48f2-9565-f7904cb75e1c/1SOS_LOW.webm",
+		"MID": "https://cdn.glitch.me/f7b40744-1ee2-48f2-9565-f7904cb75e1c/1SOS_MID.webm",
+		"HIGH": "https://cdn.glitch.me/f7b40744-1ee2-48f2-9565-f7904cb75e1c/1SOS_HIGH.webm",
+		"ULTRA": "https://cdn.glitch.me/f7b40744-1ee2-48f2-9565-f7904cb75e1c/1SOS_HIGH.webm",
+		"Audio": "https://cdn.glitch.me/f7b40744-1ee2-48f2-9565-f7904cb75e1c/SOS.ogg"
+	},
+	"GonnaMake": {
+		"LOW": "https://cdn.glitch.com/985cf90c-5f1b-4e8e-8d50-a623651a4b4b/clean.GonnaMake_LOW.webm",
+		"MID": "https://cdn.glitch.com/985cf90c-5f1b-4e8e-8d50-a623651a4b4b/clean.GonnaMake_MID.webm",
+		"HIGH": "https://cdn.glitch.com/985cf90c-5f1b-4e8e-8d50-a623651a4b4b/clean.GonnaMake_HIGH.webm",
+		"ULTRA": "https://cdn.glitch.com/985cf90c-5f1b-4e8e-8d50-a623651a4b4b/clean.GonnaMake_ULTRA.webm",
+		"Audio": "https://cdn.glitch.com/985cf90c-5f1b-4e8e-8d50-a623651a4b4b/GonnaMake.ogg"
+	},
+	"BeautifulLiar": {
+		"LOW": "https://cdn.glitch.com/f2501b94-ff89-4784-84e4-c6499f81f09e/beautifulliar_LOW.webm",
+		"MID": "https://cdn.glitch.com/f2501b94-ff89-4784-84e4-c6499f81f09e/beautifulliar_MID.webm",
+		"HIGH": "https://cdn.glitch.com/f2501b94-ff89-4784-84e4-c6499f81f09e/beautifulliar_ULTRA.webm",
+		"ULTRA": "https://cdn.glitch.com/f2501b94-ff89-4784-84e4-c6499f81f09e/beautifulliar_ULTRA.webm",
+		"Audio": "https://cdn.glitch.com/f2501b94-ff89-4784-84e4-c6499f81f09e/beautifulliar.ogg"
+	},
+	"LightsOffMU": {
+		"LOW": "https://cdn.discordapp.com/attachments/833077639131955210/973665806728720424/LightsOffMU_LOW.webm",
+		"MID": "https://cdn.discordapp.com/attachments/833077639131955210/973665807684997140/LightsOffMU_MID.webm",
+		"HIGH": "https://cdn.discordapp.com/attachments/833077639131955210/973665808746168320/LightsOffMU_HIGH.webm",
+		"ULTRA": "https://cdn.discordapp.com/attachments/833077639131955210/973665808746168320/LightsOffMU_HIGH.webm",
+		"Audio": "https://cdn.discordapp.com/attachments/833077639131955210/973667966610710638/LightsOffMU.ogg"
+	},
+	"AintNoOtherMan": {
+		"LOW": "https://cdn.discordapp.com/attachments/985517246162010163/985521706695294976/AintNoOtherMan_LOW.webm",
+		"MID": "https://cdn.discordapp.com/attachments/985517246162010163/985521710130425907/AintNoOtherMan_MID.webm",
+		"HIGH": "https://cdn.staging.glitch.me/68eb4aa4-e5e0-4767-b956-70031fbfb8a2/AintNoOtherMan_HIGH.webm",
+		"ULTRA": "https://cdn.staging.glitch.me/68eb4aa4-e5e0-4767-b956-70031fbfb8a2/AintNoOtherMan_HIGH.webm",
+		"Audio": "https://cdn.discordapp.com/attachments/985517246162010163/985521587665125386/AintNoOtherMan.ogg"
+	},
+	"Tightrope": {
+		"LOW": "https://cdn.glitch.me/c6807563-9703-4452-bd7b-b06e822ec772/tightrope_LOW.webm",
+		"MID": "https://cdn.glitch.me/c6807563-9703-4452-bd7b-b06e822ec772/tightrope_MID.webm",
+		"HIGH": "https://cdn.glitch.me/c6807563-9703-4452-bd7b-b06e822ec772/tightrope_ULTRA.webm",
+		"ULTRA": "https://cdn.glitch.me/c6807563-9703-4452-bd7b-b06e822ec772/tightrope_ULTRA.webm",
+		"Audio": "https://cdn.glitch.me/c6807563-9703-4452-bd7b-b06e822ec772/tightrope.ogg"
+	},
+	"SympathyDevil": {
+		"LOW": "https://cdn.discordapp.com/attachments/833077639131955210/981288808723140618/SympathyDevil_LOW.webm",
+		"MID": "https://cdn.discordapp.com/attachments/833077639131955210/981288813261373451/SympathyDevil_MID.webm",
+		"HIGH": "https://cdn.glitch.me/74d1b509-76cf-4cdb-9e55-de00cb08ff11/SympathyDevil_HIGH.webm",
+		"ULTRA": "https://cdn.glitch.me/74d1b509-76cf-4cdb-9e55-de00cb08ff11/SympathyDevil_HIGH.webm",
+		"Audio": "https://cdn.discordapp.com/attachments/833077639131955210/981288818328096789/SympathyDevil.ogg"
+	},
+	"ABBAAsGoodAsNew": {
+		"LOW": "https://cdn.glitch.me/f7b40744-1ee2-48f2-9565-f7904cb75e1c/ABBAAsGoodAsNew_LOW.webm",
+		"MID": "https://cdn.glitch.me/f7b40744-1ee2-48f2-9565-f7904cb75e1c/ABBAAsGoodAsNew_MID.webm",
+		"HIGH": "https://cdn.glitch.me/f7b40744-1ee2-48f2-9565-f7904cb75e1c/ABBAAsGoodAsNew_HIGH.webm",
+		"ULTRA": "https://cdn.glitch.me/f7b40744-1ee2-48f2-9565-f7904cb75e1c/ABBAAsGoodAsNew_HIGH.webm",
+		"Audio": "https://cdn.glitch.me/f7b40744-1ee2-48f2-9565-f7904cb75e1c/ABBAAsGoodAsNew.ogg"
+	},
+	"JDCGee": {
+		"LOW": "https://cdn.glitch.me/74d1b509-76cf-4cdb-9e55-de00cb08ff11/JDCGee_LOW.webm",
+		"MID": "https://cdn.glitch.me/74d1b509-76cf-4cdb-9e55-de00cb08ff11/JDCGee_MID.webm",
+		"HIGH": "https://cdn.glitch.me/74d1b509-76cf-4cdb-9e55-de00cb08ff11/JDCGee_HIGH.webm",
+		"ULTRA": "https://cdn.glitch.me/74d1b509-76cf-4cdb-9e55-de00cb08ff11/JDCGee_ULTRA.webm",
+		"Audio": "https://cdn.glitch.me/74d1b509-76cf-4cdb-9e55-de00cb08ff11/JDCGee.ogg"
+	},
+	"RunTheShow": {
+		"LOW": "https://cdn.glitch.me/74d1b509-76cf-4cdb-9e55-de00cb08ff11/RunTheShow_LOW.webm",
+		"MID": "https://cdn.glitch.me/74d1b509-76cf-4cdb-9e55-de00cb08ff11/RunTheShow_MID.webm",
+		"HIGH": "https://cdn.glitch.me/74d1b509-76cf-4cdb-9e55-de00cb08ff11/RunTheShow_HIGH.webm",
+		"ULTRA": "https://cdn.glitch.me/74d1b509-76cf-4cdb-9e55-de00cb08ff11/RunTheShow_HIGH.webm",
+		"Audio": "https://cdn.discordapp.com/attachments/833077639131955210/989579713854976000/RunTheShow.ogg"
+	},
+	"WhatMakesYouBeautiful": {
+		"LOW": "https://cdn.staging.glitch.me/68eb4aa4-e5e0-4767-b956-70031fbfb8a2/WhatMakesYouBeautiful_LOW.webm",
+		"MID": "https://cdn.staging.glitch.me/68eb4aa4-e5e0-4767-b956-70031fbfb8a2/WhatMakesYouBeautiful_MID.webm",
+		"HIGH": "https://cdn.staging.glitch.me/68eb4aa4-e5e0-4767-b956-70031fbfb8a2/WhatMakesYouBeautiful_HIGH.webm",
+		"ULTRA": "https://cdn.staging.glitch.me/68eb4aa4-e5e0-4767-b956-70031fbfb8a2/WhatMakesYouBeautiful_ULTRA.webm",
+		"Audio": "https://cdn.discordapp.com/attachments/887991751778910238/992190594371821598/whatmakesyoubeautiful.ogg"
+	},
+	"FunHouseDLC": {
+		"LOW": "https://cdn.staging.glitch.me/68eb4aa4-e5e0-4767-b956-70031fbfb8a2/FunHouseDLC_LOW.webm",
+		"MID": "https://cdn.staging.glitch.me/68eb4aa4-e5e0-4767-b956-70031fbfb8a2/FunHouseDLC_LOW.webm",
+		"HIGH": "https://cdn.staging.glitch.me/68eb4aa4-e5e0-4767-b956-70031fbfb8a2/FunHouseDLC_HIGH.webm",
+		"ULTRA": "https://cdn.staging.glitch.me/68eb4aa4-e5e0-4767-b956-70031fbfb8a2/FunHouseDLC_ULTRA.webm",
+		"Audio": "https://cdn.discordapp.com/attachments/887991751778910238/989918353806213181/funhousedlc.ogg"
+	},
+	"TheTimeOfMyLife": {
+		"LOW": "https://cdn.staging.glitch.me/68eb4aa4-e5e0-4767-b956-70031fbfb8a2/TheTimeOfMyLife_LOW.webm",
+		"MID": "https://cdn.staging.glitch.me/68eb4aa4-e5e0-4767-b956-70031fbfb8a2/TheTimeOfMyLife_MID.webm",
+		"HIGH": "https://cdn.staging.glitch.me/68eb4aa4-e5e0-4767-b956-70031fbfb8a2/TheTimeOfMyLife_HIGH.webm",
+		"ULTRA": "https://cdn.staging.glitch.me/68eb4aa4-e5e0-4767-b956-70031fbfb8a2/TheTimeOfMyLife_ULTRA.webm",
+		"Audio": "https://cdn.discordapp.com/attachments/833077639131955210/982286842294575164/TheTimeOfMyLife.ogg"
+	},
+	"SexyAndIKnowItDLC": {
+		"LOW": "https://cdn.discordapp.com/attachments/992917606833061979/992918820467527760/SexyAndIKnowItDLC_LOW.webm",
+		"MID": "https://cdn.discordapp.com/attachments/992917606833061979/992918880924205206/SexyAndIKnowItDLC_MID.webm",
+		"HIGH": "https://cdn.discordapp.com/attachments/992917606833061979/992919624930832444/SexyAndIKnowItDLC_HIGH.webm",
+		"ULTRA": "https://cdn.staging.glitch.me/68eb4aa4-e5e0-4767-b956-70031fbfb8a2/SexyAndIKnowItDLC_ULTRA.webm",
+		"Audio": "https://cdn.discordapp.com/attachments/992917606833061979/992918129963446292/SexyAndIKnowItDLC.ogg"
+	},
+	"Superstition": {
+		"LOW": "https://cdn.staging.glitch.me/68eb4aa4-e5e0-4767-b956-70031fbfb8a2/Superstition_LOW.webm",
+		"MID": "https://cdn.staging.glitch.me/68eb4aa4-e5e0-4767-b956-70031fbfb8a2/Superstition_MID.webm",
+		"HIGH": "https://cdn.staging.glitch.me/68eb4aa4-e5e0-4767-b956-70031fbfb8a2/Superstition_HIGH.webm",
+		"ULTRA": "https://cdn.staging.glitch.me/68eb4aa4-e5e0-4767-b956-70031fbfb8a2/Superstition_ULTRA.webm",
+		"Audio": "https://cdn.discordapp.com/attachments/685517864706637965/997861444018262086/4836b9f94f801f024549d304d1d5facc.ogg"
+	},
+	"SavageLove": {
+		"LOW": "https://cdn.staging.glitch.me/68eb4aa4-e5e0-4767-b956-70031fbfb8a2/SavageLove_LOW.webm",
+		"MID": "https://cdn.staging.glitch.me/68eb4aa4-e5e0-4767-b956-70031fbfb8a2/SavageLove_MID.webm",
+		"HIGH": "https://cdn.staging.glitch.me/68eb4aa4-e5e0-4767-b956-70031fbfb8a2/SavageLove_HIGH.webm",
+		"ULTRA": "https://cdn.staging.glitch.me/68eb4aa4-e5e0-4767-b956-70031fbfb8a2/SavageLove_ULTRA.webm",
+		"Audio": "https://cdn.staging.glitch.me/68eb4aa4-e5e0-4767-b956-70031fbfb8a2/SavageLove.ogg"
+	},
+	"PumpUpTheJam": {
+		"LOW": "https://cdn.staging.glitch.me/68eb4aa4-e5e0-4767-b956-70031fbfb8a2/SavageLove_LOW.webm",
+		"MID": "https://cdn.staging.glitch.me/68eb4aa4-e5e0-4767-b956-70031fbfb8a2/SavageLove_LOW.webm",
+		"HIGH": "https://cdn.staging.glitch.me/68eb4aa4-e5e0-4767-b956-70031fbfb8a2/SavageLove_LOW.webm",
+		"ULTRA": "https://cdn.staging.glitch.me/68eb4aa4-e5e0-4767-b956-70031fbfb8a2/SavageLove_LOW.webm",
+		"Audio": "https://cdn.staging.glitch.me/68eb4aa4-e5e0-4767-b956-70031fbfb8a2/PumpUpTheJam.ogg"
+	},
+	"Apache": {
+		"LOW": "https://cdn.staging.glitch.me/68eb4aa4-e5e0-4767-b956-70031fbfb8a2/Apache_LOW.webm",
+		"MID": "https://cdn.staging.glitch.me/68eb4aa4-e5e0-4767-b956-70031fbfb8a2/Apache_LOW.webm",
+		"HIGH": "https://cdn.staging.glitch.me/68eb4aa4-e5e0-4767-b956-70031fbfb8a2/Apache_LOW.webm",
+		"ULTRA": "https://cdn.staging.glitch.me/68eb4aa4-e5e0-4767-b956-70031fbfb8a2/Apache_LOW.webm",
+		"Audio": "https://cdn.staging.glitch.me/68eb4aa4-e5e0-4767-b956-70031fbfb8a2/Apache.ogg"
+	},
+	"Natoo": {
+		"LOW": "https://cdn.staging.glitch.me/68eb4aa4-e5e0-4767-b956-70031fbfb8a2/Natoo_LOW.webm",
+		"MID": "https://cdn.staging.glitch.me/68eb4aa4-e5e0-4767-b956-70031fbfb8a2/Natoo_LOW.webm",
+		"HIGH": "https://cdn.staging.glitch.me/68eb4aa4-e5e0-4767-b956-70031fbfb8a2/Natoo_LOW.webm",
+		"ULTRA": "https://cdn.staging.glitch.me/68eb4aa4-e5e0-4767-b956-70031fbfb8a2/Natoo_LOW.webm",
+		"Audio": "https://cdn.staging.glitch.me/68eb4aa4-e5e0-4767-b956-70031fbfb8a2/Natoo.ogg"
+	},
+	"MugsyBaloney": {
+		"LOW": "https://cdn.staging.glitch.me/68eb4aa4-e5e0-4767-b956-70031fbfb8a2/TheTimeOfMyLife_LOW.webm",
+		"MID": "https://cdn.staging.glitch.me/68eb4aa4-e5e0-4767-b956-70031fbfb8a2/TheTimeOfMyLife_LOW.webm",
+		"HIGH": "https://cdn.staging.glitch.me/68eb4aa4-e5e0-4767-b956-70031fbfb8a2/TheTimeOfMyLife_LOW.webm",
+		"ULTRA": "https://cdn.staging.glitch.me/68eb4aa4-e5e0-4767-b956-70031fbfb8a2/TheTimeOfMyLife_LOW.webm",
+		"Audio": "https://cdn.staging.glitch.me/68eb4aa4-e5e0-4767-b956-70031fbfb8a2/MugsyBaloney.ogg"
+	},
+	"Kurio": {
+		"LOW": "https://cdn.staging.glitch.me/68eb4aa4-e5e0-4767-b956-70031fbfb8a2/Kurio_LOW.webm",
+		"MID": "https://cdn.staging.glitch.me/68eb4aa4-e5e0-4767-b956-70031fbfb8a2/Kurio_LOW.webm",
+		"HIGH": "https://cdn.staging.glitch.me/68eb4aa4-e5e0-4767-b956-70031fbfb8a2/Kurio_LOW.webm",
+		"ULTRA": "https://cdn.staging.glitch.me/68eb4aa4-e5e0-4767-b956-70031fbfb8a2/Kurio_LOW.webm",
+		"Audio": "https://cdn.staging.glitch.me/68eb4aa4-e5e0-4767-b956-70031fbfb8a2/Kurio.ogg"
+	},
+	"AThousandDances": {
+		"LOW": "https://cdn.staging.glitch.me/68eb4aa4-e5e0-4767-b956-70031fbfb8a2/AThousandDances_LOW.webm",
+		"MID": "https://cdn.staging.glitch.me/68eb4aa4-e5e0-4767-b956-70031fbfb8a2/AThousandDances_LOW.webm",
+		"HIGH": "https://cdn.staging.glitch.me/68eb4aa4-e5e0-4767-b956-70031fbfb8a2/AThousandDances_LOW.webm",
+		"ULTRA": "https://cdn.staging.glitch.me/68eb4aa4-e5e0-4767-b956-70031fbfb8a2/AThousandDances_LOW.webm",
+		"Audio": "https://cdn.staging.glitch.me/68eb4aa4-e5e0-4767-b956-70031fbfb8a2/AThousandDances.ogg"
+	},
+	"AboutThatBass": {
+		"LOW": "https://cdn.staging.glitch.me/68eb4aa4-e5e0-4767-b956-70031fbfb8a2/AboutThatBass_LOW.webm",
+		"MID": "https://cdn.staging.glitch.me/68eb4aa4-e5e0-4767-b956-70031fbfb8a2/AboutThatBass_LOW.webm",
+		"HIGH": "https://cdn.staging.glitch.me/68eb4aa4-e5e0-4767-b956-70031fbfb8a2/AboutThatBass_LOW.webm",
+		"ULTRA": "https://cdn.staging.glitch.me/68eb4aa4-e5e0-4767-b956-70031fbfb8a2/AboutThatBass_LOW.webm",
+		"Audio": "https://cdn.staging.glitch.me/68eb4aa4-e5e0-4767-b956-70031fbfb8a2/AboutThatBass.ogg"
+	},
+	"WalkThisWay": {
+		"LOW": "https://cdn.staging.glitch.me/68eb4aa4-e5e0-4767-b956-70031fbfb8a2/WalkThisWay_LOW.webm",
+		"MID": "https://cdn.staging.glitch.me/68eb4aa4-e5e0-4767-b956-70031fbfb8a2/WalkThisWay_LOW.webm",
+		"HIGH": "https://cdn.staging.glitch.me/68eb4aa4-e5e0-4767-b956-70031fbfb8a2/WalkThisWay_LOW.webm",
+		"ULTRA": "https://cdn.staging.glitch.me/68eb4aa4-e5e0-4767-b956-70031fbfb8a2/WalkThisWay_LOW.webm",
+		"Audio": "https://cdn.staging.glitch.me/68eb4aa4-e5e0-4767-b956-70031fbfb8a2/WalkThisWay.ogg"
+	},
+	"WalkThisWayALT": {
+		"LOW": "https://cdn.staging.glitch.me/68eb4aa4-e5e0-4767-b956-70031fbfb8a2/WalkThisWayALT_LOW.webm",
+		"MID": "https://cdn.staging.glitch.me/68eb4aa4-e5e0-4767-b956-70031fbfb8a2/WalkThisWayALT_LOW.webm",
+		"HIGH": "https://cdn.staging.glitch.me/68eb4aa4-e5e0-4767-b956-70031fbfb8a2/WalkThisWayALT_LOW.webm",
+		"ULTRA": "https://cdn.staging.glitch.me/68eb4aa4-e5e0-4767-b956-70031fbfb8a2/WalkThisWayALT_LOW.webm",
+		"Audio": "https://cdn.staging.glitch.me/68eb4aa4-e5e0-4767-b956-70031fbfb8a2/WalkThisWayALT.ogg"
+	},
+	"AmIWrong": {
+		"LOW": "https://cdn.glitch.com/1bbce30c-caf5-407a-90b6-3e8e8910622f%2Famiwronglow.webm",
+		"MID": "https://cdn.glitch.com/1bbce30c-caf5-407a-90b6-3e8e8910622f%2Famiwronglow.webm",
+		"HIGH": "https://cdn.glitch.com/1bbce30c-caf5-407a-90b6-3e8e8910622f%2Famiwronglow.webm",
+		"ULTRA": "https://cdn.glitch.com/1bbce30c-caf5-407a-90b6-3e8e8910622f%2Famiwronglow.webm",
+		"Audio": "https://cdn.glitch.com/1bbce30c-caf5-407a-90b6-3e8e8910622f%2Famiwrong.ogg"
+	},
+	"AmericanoFAN": {
+		"LOW": "https://cdn.glitch.com/1bbce30c-caf5-407a-90b6-3e8e8910622f%2Famericanofan%20low.webm",
+		"MID": "https://cdn.glitch.com/1bbce30c-caf5-407a-90b6-3e8e8910622f%2Famericanofan%20low.webm",
+		"HIGH": "https://cdn.glitch.com/1bbce30c-caf5-407a-90b6-3e8e8910622f%2Famericanofan%20low.webm",
+		"ULTRA": "https://cdn.glitch.com/1bbce30c-caf5-407a-90b6-3e8e8910622f%2Famericanofan%20low.webm",
+		"Audio": "https://cdn.glitch.com/1bbce30c-caf5-407a-90b6-3e8e8910622f%2Famericano.ogg"
+	},
+	"Americano": {
+		"LOW": "https://cdn.glitch.com/1bbce30c-caf5-407a-90b6-3e8e8910622f%2Famericano%20low.webm",
+		"MID": "https://cdn.glitch.com/1bbce30c-caf5-407a-90b6-3e8e8910622f%2Famericano%20low.webm",
+		"HIGH": "https://cdn.glitch.com/1bbce30c-caf5-407a-90b6-3e8e8910622f%2Famericano%20low.webm",
+		"ULTRA": "https://cdn.glitch.com/1bbce30c-caf5-407a-90b6-3e8e8910622f%2Famericano%20low.webm",
+		"Audio": "https://cdn.glitch.com/1bbce30c-caf5-407a-90b6-3e8e8910622f%2Famericano.ogg"
+	},
+	"AnimalsALT": {
+		"LOW": "https://cdn.staging.glitch.me/68eb4aa4-e5e0-4767-b956-70031fbfb8a2/AnimalsALT_LOW.webm",
+		"MID": "https://cdn.staging.glitch.me/68eb4aa4-e5e0-4767-b956-70031fbfb8a2/AnimalsALT_LOW.webm",
+		"HIGH": "https://cdn.staging.glitch.me/68eb4aa4-e5e0-4767-b956-70031fbfb8a2/AnimalsALT_LOW.webm",
+		"ULTRA": "https://cdn.staging.glitch.me/68eb4aa4-e5e0-4767-b956-70031fbfb8a2/AnimalsALT_LOW.webm",
+		"Audio": "https://cdn.staging.glitch.me/68eb4aa4-e5e0-4767-b956-70031fbfb8a2/AnimalsALT.ogg"
+	},
+	"BetterWhen": {
+		"LOW": "https://cdn.glitch.com/1bbce30c-caf5-407a-90b6-3e8e8910622f%2Fbetterwhenlow.webm",
+		"MID": "https://cdn.glitch.com/1bbce30c-caf5-407a-90b6-3e8e8910622f%2Fbetterwhenlow.webm",
+		"HIGH": "https://cdn.glitch.com/1bbce30c-caf5-407a-90b6-3e8e8910622f%2Fbetterwhenlow.webm",
+		"ULTRA": "https://cdn.glitch.com/1bbce30c-caf5-407a-90b6-3e8e8910622f%2Fbetterwhenlow.webm",
+		"Audio": "https://cdn.glitch.com/1bbce30c-caf5-407a-90b6-3e8e8910622f%2Fbetterw.ogg"
+	},
+	"Blame": {
+		"LOW": "https://cdn.staging.glitch.me/68eb4aa4-e5e0-4767-b956-70031fbfb8a2/Blame_LOW.webm",
+		"MID": "https://cdn.staging.glitch.me/68eb4aa4-e5e0-4767-b956-70031fbfb8a2/Blame_LOW.webm",
+		"HIGH": "https://cdn.staging.glitch.me/68eb4aa4-e5e0-4767-b956-70031fbfb8a2/Blame_LOW.webm",
+		"ULTRA": "https://cdn.staging.glitch.me/68eb4aa4-e5e0-4767-b956-70031fbfb8a2/Blame_LOW.webm",
+		"Audio": "https://cdn.staging.glitch.me/68eb4aa4-e5e0-4767-b956-70031fbfb8a2/Blame.ogg"
+	},
+	"CircusALT": {
+		"LOW": "https://cdn.staging.glitch.me/68eb4aa4-e5e0-4767-b956-70031fbfb8a2/CircusALT_LOW.webm",
+		"MID": "https://cdn.staging.glitch.me/68eb4aa4-e5e0-4767-b956-70031fbfb8a2/CircusALT_LOW.webm",
+		"HIGH": "https://cdn.staging.glitch.me/68eb4aa4-e5e0-4767-b956-70031fbfb8a2/CircusALT_LOW.webm",
+		"ULTRA": "https://cdn.staging.glitch.me/68eb4aa4-e5e0-4767-b956-70031fbfb8a2/CircusALT_LOW.webm",
+		"Audio": "https://cdn.staging.glitch.me/68eb4aa4-e5e0-4767-b956-70031fbfb8a2/CircusALT.ogg"
+	},
+	"WantToWantMe": {
+		"LOW": "https://cdn.staging.glitch.me/68eb4aa4-e5e0-4767-b956-70031fbfb8a2/WantToWantMe_LOW.webm",
+		"MID": "https://cdn.staging.glitch.me/68eb4aa4-e5e0-4767-b956-70031fbfb8a2/WantToWantMe_LOW.webm",
+		"HIGH": "https://cdn.staging.glitch.me/68eb4aa4-e5e0-4767-b956-70031fbfb8a2/WantToWantMe_LOW.webm",
+		"ULTRA": "https://cdn.staging.glitch.me/68eb4aa4-e5e0-4767-b956-70031fbfb8a2/WantToWantMe_LOW.webm",
+		"Audio": "https://cdn.staging.glitch.me/68eb4aa4-e5e0-4767-b956-70031fbfb8a2/WantToWantMe.ogg"
+	},
+	"NoControl": {
+		"LOW": "https://cdn.staging.glitch.me/68eb4aa4-e5e0-4767-b956-70031fbfb8a2/NoControl_LOW.webm",
+		"MID": "https://cdn.staging.glitch.me/68eb4aa4-e5e0-4767-b956-70031fbfb8a2/NoControl_LOW.webm",
+		"HIGH": "https://cdn.staging.glitch.me/68eb4aa4-e5e0-4767-b956-70031fbfb8a2/NoControl_LOW.webm",
+		"ULTRA": "https://cdn.staging.glitch.me/68eb4aa4-e5e0-4767-b956-70031fbfb8a2/NoControl_LOW.webm",
+		"Audio": "https://cdn.staging.glitch.me/68eb4aa4-e5e0-4767-b956-70031fbfb8a2/NoControl.ogg"
+	},
+	"Hangover": {
+		"LOW": "https://cdn.staging.glitch.me/68eb4aa4-e5e0-4767-b956-70031fbfb8a2/Hangover_LOW.webm",
+		"MID": "https://cdn.staging.glitch.me/68eb4aa4-e5e0-4767-b956-70031fbfb8a2/Hangover_LOW.webm",
+		"HIGH": "https://cdn.staging.glitch.me/68eb4aa4-e5e0-4767-b956-70031fbfb8a2/Hangover_LOW.webm",
+		"ULTRA": "https://cdn.staging.glitch.me/68eb4aa4-e5e0-4767-b956-70031fbfb8a2/Hangover_LOW.webm",
+		"Audio": "https://cdn.staging.glitch.me/68eb4aa4-e5e0-4767-b956-70031fbfb8a2/Hangover.ogg"
+	},
+	"ThisIsHow": {
+		"LOW": "https://cdn.glitch.com/1bbce30c-caf5-407a-90b6-3e8e8910622f%2Fthisishow%20low.webm",
+		"MID": "https://cdn.glitch.com/1bbce30c-caf5-407a-90b6-3e8e8910622f%2Fthisishow%20low.webm",
+		"HIGH": "https://cdn.glitch.com/1bbce30c-caf5-407a-90b6-3e8e8910622f%2Fthisishow%20low.webm",
+		"ULTRA": "https://cdn.glitch.com/1bbce30c-caf5-407a-90b6-3e8e8910622f%2Fthisishow%20low.webm",
+		"Audio": "https://cdn.glitch.com/1bbce30c-caf5-407a-90b6-3e8e8910622f%2Fthisishow.ogg"
+	},
+	"ThisIsHowALT": {
+		"LOW": "https://cdn.glitch.com/1bbce30c-caf5-407a-90b6-3e8e8910622f%2Fthisishowalt%20low.webm",
+		"MID": "https://cdn.glitch.com/1bbce30c-caf5-407a-90b6-3e8e8910622f%2Fthisishowalt%20low.webm",
+		"HIGH": "https://cdn.glitch.com/1bbce30c-caf5-407a-90b6-3e8e8910622f%2Fthisishowalt%20low.webm",
+		"ULTRA": "https://cdn.glitch.com/1bbce30c-caf5-407a-90b6-3e8e8910622f%2Fthisishowalt%20low.webm",
+		"Audio": "https://cdn.glitch.com/1bbce30c-caf5-407a-90b6-3e8e8910622f%2Fthisishowalt.ogg"
+	},
+	"ProfesseurDLC": {
+		"LOW": "https://cdn.glitch.com/1bbce30c-caf5-407a-90b6-3e8e8910622f%2Fprof%20low.webm",
+		"MID": "https://cdn.glitch.com/1bbce30c-caf5-407a-90b6-3e8e8910622f%2Fprof%20low.webm",
+		"HIGH": "https://cdn.glitch.com/1bbce30c-caf5-407a-90b6-3e8e8910622f%2Fprof%20low.webm",
+		"ULTRA": "https://cdn.glitch.com/1bbce30c-caf5-407a-90b6-3e8e8910622f%2Fprof%20low.webm",
+		"Audio": "https://cdn.glitch.com/1bbce30c-caf5-407a-90b6-3e8e8910622f%2Fprofeseur.ogg"
+	},
+	"Birthday": {
+		"LOW": "https://cdn.staging.glitch.me/68eb4aa4-e5e0-4767-b956-70031fbfb8a2/Birthday_LOW.webm",
+		"MID": "https://cdn.staging.glitch.me/68eb4aa4-e5e0-4767-b956-70031fbfb8a2/Birthday_LOW.webm",
+		"HIGH": "https://cdn.staging.glitch.me/68eb4aa4-e5e0-4767-b956-70031fbfb8a2/Birthday_LOW.webm",
+		"ULTRA": "https://cdn.staging.glitch.me/68eb4aa4-e5e0-4767-b956-70031fbfb8a2/Birthday_LOW.webm",
+		"Audio": "https://cdn.staging.glitch.me/68eb4aa4-e5e0-4767-b956-70031fbfb8a2/Birthday.ogg"
+	},
+	"BadRomance": {
+		"LOW": "https://cdn.staging.glitch.me/68eb4aa4-e5e0-4767-b956-70031fbfb8a2/BadRomance_LOW.webm",
+		"MID": "https://cdn.staging.glitch.me/68eb4aa4-e5e0-4767-b956-70031fbfb8a2/BadRomance_LOW.webm",
+		"HIGH": "https://cdn.staging.glitch.me/68eb4aa4-e5e0-4767-b956-70031fbfb8a2/BadRomance_LOW.webm",
+		"ULTRA": "https://cdn.staging.glitch.me/68eb4aa4-e5e0-4767-b956-70031fbfb8a2/BadRomance_LOW.webm",
+		"Audio": "https://cdn.staging.glitch.me/68eb4aa4-e5e0-4767-b956-70031fbfb8a2/BadRomance.ogg"
+	},
+	"EyeOfTheTiger": {
+		"LOW": "https://cdn.glitch.com/1bbce30c-caf5-407a-90b6-3e8e8910622f%2Feyeofthe%20low.webm",
+		"MID": "https://cdn.glitch.com/1bbce30c-caf5-407a-90b6-3e8e8910622f%2Feyeofthe%20low.webm",
+		"HIGH": "https://cdn.glitch.com/1bbce30c-caf5-407a-90b6-3e8e8910622f%2Feyeofthe%20low.webm",
+		"ULTRA": "https://cdn.glitch.com/1bbce30c-caf5-407a-90b6-3e8e8910622f%2Feyeofthe%20low.webm",
+		"Audio": "https://cdn.glitch.com/1bbce30c-caf5-407a-90b6-3e8e8910622f%2Feyeofthetiger.ogg"
+	},
+	"GirlsJustWant": {
+		"LOW": "https://cdn.glitch.com/1bbce30c-caf5-407a-90b6-3e8e8910622f%2Fgirlsjust.webm",
+		"MID": "https://cdn.glitch.com/1bbce30c-caf5-407a-90b6-3e8e8910622f%2Fgirlsjust.webm",
+		"HIGH": "https://cdn.glitch.com/1bbce30c-caf5-407a-90b6-3e8e8910622f%2Fgirlsjust.webm",
+		"ULTRA": "https://cdn.glitch.com/1bbce30c-caf5-407a-90b6-3e8e8910622f%2Fgirlsjust.webm",
+		"Audio": "https://cdn.glitch.com/1bbce30c-caf5-407a-90b6-3e8e8910622f%2Fgirlsjust.ogg"
+	},
+	"Lollipop": {
+		"LOW": "https://cdn.glitch.com/1bbce30c-caf5-407a-90b6-3e8e8910622f%2Flolipop%20low.webm",
+		"MID": "https://cdn.glitch.com/1bbce30c-caf5-407a-90b6-3e8e8910622f%2Flolipop%20low.webm",
+		"HIGH": "https://cdn.glitch.com/1bbce30c-caf5-407a-90b6-3e8e8910622f%2Flolipop%20low.webm",
+		"ULTRA": "https://cdn.glitch.com/1bbce30c-caf5-407a-90b6-3e8e8910622f%2Flolipop%20low.webm",
+		"Audio": "https://cdn.glitch.com/1bbce30c-caf5-407a-90b6-3e8e8910622f%2Flolipop.ogg"
+	},
+	"SaintPatrick": {
+		"LOW": "https://cdn.staging.glitch.me/68eb4aa4-e5e0-4767-b956-70031fbfb8a2/SaintPatrick_LOW.webm",
+		"MID": "https://cdn.staging.glitch.me/68eb4aa4-e5e0-4767-b956-70031fbfb8a2/SaintPatrick_LOW.webm",
+		"HIGH": "https://cdn.staging.glitch.me/68eb4aa4-e5e0-4767-b956-70031fbfb8a2/SaintPatrick_LOW.webm",
+		"ULTRA": "https://cdn.staging.glitch.me/68eb4aa4-e5e0-4767-b956-70031fbfb8a2/SaintPatrick_LOW.webm",
+		"Audio": "https://cdn.staging.glitch.me/68eb4aa4-e5e0-4767-b956-70031fbfb8a2/SaintPatrick.ogg"
+	},
+	"Sorry": {
+		"LOW": "https://cdn.glitch.com/1bbce30c-caf5-407a-90b6-3e8e8910622f%2Fsorrylow.webm",
+		"MID": "https://cdn.glitch.com/1bbce30c-caf5-407a-90b6-3e8e8910622f%2Fsorrylow.webm",
+		"HIGH": "https://cdn.glitch.com/1bbce30c-caf5-407a-90b6-3e8e8910622f%2Fsorrylow.webm",
+		"ULTRA": "https://cdn.glitch.com/1bbce30c-caf5-407a-90b6-3e8e8910622f%2Fsorrylow.webm",
+		"Audio": "https://cdn.glitch.com/1bbce30c-caf5-407a-90b6-3e8e8910622f%2Fsorry.ogg"
+	},
+	"BoomDLC": {
+		"LOW": "https://cdn.staging.glitch.me/68eb4aa4-e5e0-4767-b956-70031fbfb8a2/BoomDLC_LOW.webm",
+		"MID": "https://cdn.staging.glitch.me/68eb4aa4-e5e0-4767-b956-70031fbfb8a2/BoomDLC_LOW.webm",
+		"HIGH": "https://cdn.staging.glitch.me/68eb4aa4-e5e0-4767-b956-70031fbfb8a2/BoomDLC_LOW.webm",
+		"ULTRA": "https://cdn.staging.glitch.me/68eb4aa4-e5e0-4767-b956-70031fbfb8a2/BoomDLC_LOW.webm",
+		"Audio": "https://cdn.staging.glitch.me/68eb4aa4-e5e0-4767-b956-70031fbfb8a2/BoomDLC.ogg"
+	},
+	"CantHurryLove": {
+		"LOW": "https://cdn.glitch.com/1bbce30c-caf5-407a-90b6-3e8e8910622f%2Fucanthurrylow.webm",
+		"MID": "https://cdn.glitch.com/1bbce30c-caf5-407a-90b6-3e8e8910622f%2Fucanthurrylow.webm",
+		"HIGH": "https://cdn.glitch.com/1bbce30c-caf5-407a-90b6-3e8e8910622f%2Fucanthurrylow.webm",
+		"ULTRA": "https://cdn.glitch.com/1bbce30c-caf5-407a-90b6-3e8e8910622f%2Fucanthurrylow.webm",
+		"Audio": "https://cdn.glitch.com/1bbce30c-caf5-407a-90b6-3e8e8910622f%2Fcanthurry.ogg"
+	},
+	"DontWorry": {
+		"LOW": "https://cdn.staging.glitch.me/68eb4aa4-e5e0-4767-b956-70031fbfb8a2/DontWorry_LOW.webm",
+		"MID": "https://cdn.staging.glitch.me/68eb4aa4-e5e0-4767-b956-70031fbfb8a2/DontWorry_LOW.webm",
+		"HIGH": "https://cdn.staging.glitch.me/68eb4aa4-e5e0-4767-b956-70031fbfb8a2/DontWorry_LOW.webm",
+		"ULTRA": "https://cdn.staging.glitch.me/68eb4aa4-e5e0-4767-b956-70031fbfb8a2/DontWorry_LOW.webm",
+		"Audio": "https://cdn.staging.glitch.me/68eb4aa4-e5e0-4767-b956-70031fbfb8a2/DontWorry.ogg"
+	},
+	"SummerALT": {
+		"LOW": "https://cdn.staging.glitch.me/68eb4aa4-e5e0-4767-b956-70031fbfb8a2/SummerALT_LOW.webm",
+		"MID": "https://cdn.staging.glitch.me/68eb4aa4-e5e0-4767-b956-70031fbfb8a2/SummerALT_LOW.webm",
+		"HIGH": "https://cdn.staging.glitch.me/68eb4aa4-e5e0-4767-b956-70031fbfb8a2/SummerALT_LOW.webm",
+		"ULTRA": "https://cdn.staging.glitch.me/68eb4aa4-e5e0-4767-b956-70031fbfb8a2/SummerALT_LOW.webm",
+		"Audio": "https://cdn.staging.glitch.me/68eb4aa4-e5e0-4767-b956-70031fbfb8a2/SummerALT.ogg"
+	},
+	"TurnUpTheLoveFAN": {
+		"LOW": "https://cdn.glitch.com/1bbce30c-caf5-407a-90b6-3e8e8910622f%2Fclean.turnupthelovefan%20low.webm",
+		"MID": "https://cdn.glitch.com/1bbce30c-caf5-407a-90b6-3e8e8910622f%2Fclean.turnupthelovefan%20low.webm",
+		"HIGH": "https://cdn.glitch.com/1bbce30c-caf5-407a-90b6-3e8e8910622f%2Fclean.turnupthelovefan%20low.webm",
+		"ULTRA": "https://cdn.glitch.com/1bbce30c-caf5-407a-90b6-3e8e8910622f%2Fclean.turnupthelovefan%20low.webm",
+		"Audio": "https://cdn.glitch.com/1bbce30c-caf5-407a-90b6-3e8e8910622f%2Fturnupthelovealt.ogg"
+	},
+	"AmericanBoy": {
+		"LOW": "https://cdn.staging.glitch.me/68eb4aa4-e5e0-4767-b956-70031fbfb8a2/AmericanBoy_LOW.webm",
+		"MID": "https://cdn.staging.glitch.me/68eb4aa4-e5e0-4767-b956-70031fbfb8a2/AmericanBoy_MID.webm",
+		"HIGH": "https://cdn.staging.glitch.me/68eb4aa4-e5e0-4767-b956-70031fbfb8a2/AmericanBoy_HIGH.webm",
+		"ULTRA": "https://cdn.staging.glitch.me/68eb4aa4-e5e0-4767-b956-70031fbfb8a2/AmericanBoy_ULTRA.webm",
+		"Audio": "https://cdn.staging.glitch.me/68eb4aa4-e5e0-4767-b956-70031fbfb8a2/AmericanBoy.ogg"
+	},
+	"Animals": {
+		"LOW": "https://cdn.staging.glitch.me/68eb4aa4-e5e0-4767-b956-70031fbfb8a2/Animals_LOW.webm",
+		"MID": "https://cdn.staging.glitch.me/68eb4aa4-e5e0-4767-b956-70031fbfb8a2/Animals_LOW.webm",
+		"HIGH": "https://cdn.staging.glitch.me/68eb4aa4-e5e0-4767-b956-70031fbfb8a2/Animals_LOW.webm",
+		"ULTRA": "https://cdn.staging.glitch.me/68eb4aa4-e5e0-4767-b956-70031fbfb8a2/Animals_LOW.webm",
+		"Audio": "https://cdn.staging.glitch.me/68eb4aa4-e5e0-4767-b956-70031fbfb8a2/Animals.ogg"
+	},
+	"SorryALT": {
+		"LOW": "https://cdn.staging.glitch.me/68eb4aa4-e5e0-4767-b956-70031fbfb8a2/SorryALT_LOW.webm",
+		"MID": "https://cdn.staging.glitch.me/68eb4aa4-e5e0-4767-b956-70031fbfb8a2/SorryALT_LOW.webm",
+		"HIGH": "https://cdn.staging.glitch.me/68eb4aa4-e5e0-4767-b956-70031fbfb8a2/SorryALT_LOW.webm",
+		"ULTRA": "https://cdn.staging.glitch.me/68eb4aa4-e5e0-4767-b956-70031fbfb8a2/SorryALT_LOW.webm",
+		"Audio": "https://cdn.staging.glitch.me/68eb4aa4-e5e0-4767-b956-70031fbfb8a2/SorryALT.ogg"
+	},
+	"ToTheMall": {
+		"LOW": "https://cdn.staging.glitch.me/68eb4aa4-e5e0-4767-b956-70031fbfb8a2/Animals_LOW.webm",
+		"MID": "https://cdn.staging.glitch.me/68eb4aa4-e5e0-4767-b956-70031fbfb8a2/Animals_LOW.webm",
+		"HIGH": "https://cdn.staging.glitch.me/68eb4aa4-e5e0-4767-b956-70031fbfb8a2/Animals_LOW.webm",
+		"ULTRA": "https://cdn.staging.glitch.me/68eb4aa4-e5e0-4767-b956-70031fbfb8a2/Animals_LOW.webm",
+		"Audio": "https://cdn.staging.glitch.me/68eb4aa4-e5e0-4767-b956-70031fbfb8a2/Animals.ogg"
+	},
+	"Oath": {
+		"LOW": "https://cdn.glitch.com/1bbce30c-caf5-407a-90b6-3e8e8910622f%2Foaht%20low.webm",
+		"MID": "https://cdn.glitch.com/1bbce30c-caf5-407a-90b6-3e8e8910622f%2Foaht%20low.webm",
+		"HIGH": "https://cdn.glitch.com/1bbce30c-caf5-407a-90b6-3e8e8910622f%2Foaht%20low.webm",
+		"ULTRA": "https://cdn.glitch.com/1bbce30c-caf5-407a-90b6-3e8e8910622f%2Foaht%20low.webm",
+		"Audio": "https://cdn.glitch.com/1bbce30c-caf5-407a-90b6-3e8e8910622f%2Foath.ogg"
+	},
+	"IWasMadeQUAT": {
+		"LOW": "https://cdn.glitch.com/1bbce30c-caf5-407a-90b6-3e8e8910622f%2Fiwasmade%20low.webm",
+		"MID": "https://cdn.glitch.com/1bbce30c-caf5-407a-90b6-3e8e8910622f%2Fiwasmade%20low.webm",
+		"HIGH": "https://cdn.glitch.com/1bbce30c-caf5-407a-90b6-3e8e8910622f%2Fiwasmade%20low.webm",
+		"ULTRA": "https://cdn.glitch.com/1bbce30c-caf5-407a-90b6-3e8e8910622f%2Fiwasmade%20low.webm",
+		"Audio": "https://cdn.glitch.com/1bbce30c-caf5-407a-90b6-3e8e8910622f%2Fiwasmade.ogg"
+	},
+	"MoodALT": {
+		"LOW": "https://cdn.staging.glitch.me/68eb4aa4-e5e0-4767-b956-70031fbfb8a2/MoodALT_LOW.webm",
+		"MID": "https://cdn.staging.glitch.me/68eb4aa4-e5e0-4767-b956-70031fbfb8a2/MoodALT_LOW.webm",
+		"HIGH": "https://cdn.staging.glitch.me/68eb4aa4-e5e0-4767-b956-70031fbfb8a2/MoodALT_LOW.webm",
+		"ULTRA": "https://cdn.staging.glitch.me/68eb4aa4-e5e0-4767-b956-70031fbfb8a2/MoodALT_LOW.webm",
+		"Audio": "https://cdn.staging.glitch.me/68eb4aa4-e5e0-4767-b956-70031fbfb8a2/MoodALT.ogg"
+	},
+	"StarshipsALT": {
+		"LOW": "https://cdn.staging.glitch.me/68eb4aa4-e5e0-4767-b956-70031fbfb8a2/StarshipsALT_LOW.webm",
+		"MID": "https://cdn.staging.glitch.me/68eb4aa4-e5e0-4767-b956-70031fbfb8a2/StarshipsALT_LOW.webm",
+		"HIGH": "https://cdn.staging.glitch.me/68eb4aa4-e5e0-4767-b956-70031fbfb8a2/StarshipsALT_LOW.webm",
+		"ULTRA": "https://cdn.staging.glitch.me/68eb4aa4-e5e0-4767-b956-70031fbfb8a2/StarshipsALT_LOW.webm",
+		"Audio": "https://cdn.staging.glitch.me/68eb4aa4-e5e0-4767-b956-70031fbfb8a2/StarshipsALT.ogg"
+	},
+	"OnaTanczyDlaMnie": {
+		"LOW": "https://cdn.glitch.com/1bbce30c-caf5-407a-90b6-3e8e8910622f%2Fonadan%20low.webm",
+		"MID": "https://cdn.glitch.com/1bbce30c-caf5-407a-90b6-3e8e8910622f%2Fonadan%20low.webm",
+		"HIGH": "https://cdn.glitch.com/1bbce30c-caf5-407a-90b6-3e8e8910622f%2Fonadan%20low.webm",
+		"ULTRA": "https://cdn.glitch.com/1bbce30c-caf5-407a-90b6-3e8e8910622f%2Fonadan%20low.webm",
+		"Audio": "https://cdn.glitch.com/1bbce30c-caf5-407a-90b6-3e8e8910622f%2Fonadanca.ogg"
+	},
+	"JamboMambo": {
+		"LOW": "https://cdn.glitch.com/1bbce30c-caf5-407a-90b6-3e8e8910622f%2Fjambom%20low.webm",
+		"MID": "https://cdn.glitch.com/1bbce30c-caf5-407a-90b6-3e8e8910622f%2Fjambom%20low.webm",
+		"HIGH": "https://cdn.glitch.com/1bbce30c-caf5-407a-90b6-3e8e8910622f%2Fjambom%20low.webm",
+		"ULTRA": "https://cdn.glitch.com/1bbce30c-caf5-407a-90b6-3e8e8910622f%2Fjambom%20low.webm",
+		"Audio": "https://cdn.glitch.com/1bbce30c-caf5-407a-90b6-3e8e8910622f%2Fjambomambo.ogg"
+	},
+	"ThatPowerOSCDLC": {
+		"LOW": "https://cdn.glitch.com/1bbce30c-caf5-407a-90b6-3e8e8910622f%2Fthatpowerosc%20low.webm",
+		"MID": "https://cdn.glitch.com/1bbce30c-caf5-407a-90b6-3e8e8910622f%2Fthatpowerosc%20low.webm",
+		"HIGH": "https://cdn.glitch.com/1bbce30c-caf5-407a-90b6-3e8e8910622f%2Fthatpowerosc%20low.webm",
+		"ULTRA": "https://cdn.glitch.com/1bbce30c-caf5-407a-90b6-3e8e8910622f%2Fthatpowerosc%20low.webm",
+		"Audio": "https://cdn.glitch.com/1bbce30c-caf5-407a-90b6-3e8e8910622f%2Fthatpowerosc.ogg"
+	},
+	"GotMeDancing": {
+		"LOW": "https://cdn.staging.glitch.me/68eb4aa4-e5e0-4767-b956-70031fbfb8a2/GotMeDancing_LOW.webm",
+		"MID": "https://cdn.staging.glitch.me/68eb4aa4-e5e0-4767-b956-70031fbfb8a2/GotMeDancing_LOW.webm",
+		"HIGH": "https://cdn.staging.glitch.me/68eb4aa4-e5e0-4767-b956-70031fbfb8a2/GotMeDancing_LOW.webm",
+		"ULTRA": "https://cdn.staging.glitch.me/68eb4aa4-e5e0-4767-b956-70031fbfb8a2/GotMeDancing_LOW.webm",
+		"Audio": "https://cdn.staging.glitch.me/68eb4aa4-e5e0-4767-b956-70031fbfb8a2/GotMeDancing.ogg"
+	},
+	"Youth": {
+		"LOW": "https://cdn.staging.glitch.me/68eb4aa4-e5e0-4767-b956-70031fbfb8a2/Youth_LOW.webm",
+		"MID": "https://cdn.staging.glitch.me/68eb4aa4-e5e0-4767-b956-70031fbfb8a2/Youth_LOW.webm",
+		"HIGH": "https://cdn.staging.glitch.me/68eb4aa4-e5e0-4767-b956-70031fbfb8a2/Youth_LOW.webm",
+		"ULTRA": "https://cdn.staging.glitch.me/68eb4aa4-e5e0-4767-b956-70031fbfb8a2/Youth_LOW.webm",
+		"Audio": "https://cdn.staging.glitch.me/68eb4aa4-e5e0-4767-b956-70031fbfb8a2/Youth.ogg"
+	},
+	"JustMaxBL": {
+		"LOW": "https://cdn.staging.glitch.me/68eb4aa4-e5e0-4767-b956-70031fbfb8a2/JustMaxBL_LOW.webm",
+		"MID": "https://cdn.staging.glitch.me/68eb4aa4-e5e0-4767-b956-70031fbfb8a2/JustMaxBL_LOW.webm",
+		"HIGH": "https://cdn.staging.glitch.me/68eb4aa4-e5e0-4767-b956-70031fbfb8a2/JustMaxBL_LOW.webm",
+		"ULTRA": "https://cdn.staging.glitch.me/68eb4aa4-e5e0-4767-b956-70031fbfb8a2/JustMaxBL_LOW.webm",
+		"Audio": "https://cdn.staging.glitch.me/68eb4aa4-e5e0-4767-b956-70031fbfb8a2/JustMaxBL.ogg"
+	},
+	"LetItGoDLC": {
+		"LOW": "https://cdn.staging.glitch.me/68eb4aa4-e5e0-4767-b956-70031fbfb8a2/LetItGoDLC_LOW.webm",
+		"MID": "https://cdn.staging.glitch.me/68eb4aa4-e5e0-4767-b956-70031fbfb8a2/LetItGoDLC_LOW.webm",
+		"HIGH": "https://cdn.staging.glitch.me/68eb4aa4-e5e0-4767-b956-70031fbfb8a2/LetItGoDLC_LOW.webm",
+		"ULTRA": "https://cdn.staging.glitch.me/68eb4aa4-e5e0-4767-b956-70031fbfb8a2/LetItGoDLC_LOW.webm",
+		"Audio": "https://cdn.staging.glitch.me/68eb4aa4-e5e0-4767-b956-70031fbfb8a2/LetItGoDLC.ogg"
+	},
+	"IGotAFeelingALT": {
+		"LOW": "https://cdn.staging.glitch.me/68eb4aa4-e5e0-4767-b956-70031fbfb8a2/IGotAFeelingALT_LOW.webm",
+		"MID": "https://cdn.staging.glitch.me/68eb4aa4-e5e0-4767-b956-70031fbfb8a2/IGotAFeelingALT_LOW.webm",
+		"HIGH": "https://cdn.staging.glitch.me/68eb4aa4-e5e0-4767-b956-70031fbfb8a2/IGotAFeelingALT_LOW.webm",
+		"ULTRA": "https://cdn.staging.glitch.me/68eb4aa4-e5e0-4767-b956-70031fbfb8a2/IGotAFeelingALT_LOW.webm",
+		"Audio": "https://cdn.staging.glitch.me/68eb4aa4-e5e0-4767-b956-70031fbfb8a2/IGotAFeelingALT.ogg"
+	},
+	"JustDanceOSC": {
+		"LOW": "https://cdn.staging.glitch.me/68eb4aa4-e5e0-4767-b956-70031fbfb8a2/JustDanceOSC_LOW.webm",
+		"MID": "https://cdn.staging.glitch.me/68eb4aa4-e5e0-4767-b956-70031fbfb8a2/JustDanceOSC_LOW.webm",
+		"HIGH": "https://cdn.staging.glitch.me/68eb4aa4-e5e0-4767-b956-70031fbfb8a2/JustDanceOSC_LOW.webm",
+		"ULTRA": "https://cdn.staging.glitch.me/68eb4aa4-e5e0-4767-b956-70031fbfb8a2/JustDanceOSC_LOW.webm",
+		"Audio": "https://cdn.staging.glitch.me/68eb4aa4-e5e0-4767-b956-70031fbfb8a2/JustDanceOSC.ogg"
+	},
+	"AngryBirds": {
+		"LOW": "https://cdn.staging.glitch.me/68eb4aa4-e5e0-4767-b956-70031fbfb8a2/AngryBirds_LOW.webm",
+		"MID": "https://cdn.staging.glitch.me/68eb4aa4-e5e0-4767-b956-70031fbfb8a2/AngryBirds_LOW.webm",
+		"HIGH": "https://cdn.staging.glitch.me/68eb4aa4-e5e0-4767-b956-70031fbfb8a2/AngryBirds_LOW.webm",
+		"ULTRA": "https://cdn.staging.glitch.me/68eb4aa4-e5e0-4767-b956-70031fbfb8a2/AngryBirds_LOW.webm",
+		"Audio": "https://cdn.staging.glitch.me/68eb4aa4-e5e0-4767-b956-70031fbfb8a2/AngryBirds.ogg"
+	},
+	"YoureTheOne": {
+		"LOW": "https://cdn.staging.glitch.me/68eb4aa4-e5e0-4767-b956-70031fbfb8a2/YoureTheOne_LOW.webm",
+		"MID": "https://cdn.staging.glitch.me/68eb4aa4-e5e0-4767-b956-70031fbfb8a2/YoureTheOne_LOW.webm",
+		"HIGH": "https://cdn.staging.glitch.me/68eb4aa4-e5e0-4767-b956-70031fbfb8a2/YoureTheOne_LOW.webm",
+		"ULTRA": "https://cdn.staging.glitch.me/68eb4aa4-e5e0-4767-b956-70031fbfb8a2/YoureTheOne_LOW.webm",
+		"Audio": "https://cdn.staging.glitch.me/68eb4aa4-e5e0-4767-b956-70031fbfb8a2/YoureTheOne.ogg"
+	},
+	"LeanOnALT": {
+		"LOW": "https://cdn.staging.glitch.me/68eb4aa4-e5e0-4767-b956-70031fbfb8a2/LeanOnALT_LOW.webm",
+		"MID": "https://cdn.staging.glitch.me/68eb4aa4-e5e0-4767-b956-70031fbfb8a2/LeanOnALT_LOW.webm",
+		"HIGH": "https://cdn.staging.glitch.me/68eb4aa4-e5e0-4767-b956-70031fbfb8a2/LeanOnALT_LOW.webm",
+		"ULTRA": "https://cdn.staging.glitch.me/68eb4aa4-e5e0-4767-b956-70031fbfb8a2/LeanOnALT_LOW.webm",
+		"Audio": "https://cdn.staging.glitch.me/68eb4aa4-e5e0-4767-b956-70031fbfb8a2/LeanOnALT.ogg"
+	},
+	"KIDSDayO": {
+		"LOW": "https://cdn.staging.glitch.me/68eb4aa4-e5e0-4767-b956-70031fbfb8a2/KIDSDayO_LOW.webm",
+		"MID": "https://cdn.staging.glitch.me/68eb4aa4-e5e0-4767-b956-70031fbfb8a2/KIDSDayO_LOW.webm",
+		"HIGH": "https://cdn.staging.glitch.me/68eb4aa4-e5e0-4767-b956-70031fbfb8a2/KIDSDayO_LOW.webm",
+		"ULTRA": "https://cdn.staging.glitch.me/68eb4aa4-e5e0-4767-b956-70031fbfb8a2/KIDSDayO_LOW.webm",
+		"Audio": "https://cdn.staging.glitch.me/68eb4aa4-e5e0-4767-b956-70031fbfb8a2/KIDSDayO.ogg"
+	},
+	"TurnUpTheLoveALT": {
+		"LOW": "https://cdn.staging.glitch.me/68eb4aa4-e5e0-4767-b956-70031fbfb8a2/TurnUpTheLoveALT_LOW.webm",
+		"MID": "https://cdn.staging.glitch.me/68eb4aa4-e5e0-4767-b956-70031fbfb8a2/TurnUpTheLoveALT_LOW.webm",
+		"HIGH": "https://cdn.staging.glitch.me/68eb4aa4-e5e0-4767-b956-70031fbfb8a2/TurnUpTheLoveALT_LOW.webm",
+		"ULTRA": "https://cdn.staging.glitch.me/68eb4aa4-e5e0-4767-b956-70031fbfb8a2/TurnUpTheLoveALT_LOW.webm",
+		"Audio": "https://cdn.staging.glitch.me/68eb4aa4-e5e0-4767-b956-70031fbfb8a2/TurnUpTheLoveALT.ogg"
+	},
+	"IDidItAgainQUAT": {
+		"LOW": "https://cdn.staging.glitch.me/68eb4aa4-e5e0-4767-b956-70031fbfb8a2/IDidItAgainQUAT_LOW.webm",
+		"MID": "https://cdn.staging.glitch.me/68eb4aa4-e5e0-4767-b956-70031fbfb8a2/IDidItAgainQUAT_LOW.webm",
+		"HIGH": "https://cdn.staging.glitch.me/68eb4aa4-e5e0-4767-b956-70031fbfb8a2/IDidItAgainQUAT_LOW.webm",
+		"ULTRA": "https://cdn.staging.glitch.me/68eb4aa4-e5e0-4767-b956-70031fbfb8a2/IDidItAgainQUAT_LOW.webm",
+		"Audio": "https://cdn.staging.glitch.me/68eb4aa4-e5e0-4767-b956-70031fbfb8a2/IDidItAgainQUAT.ogg"
+	},
+	"OnNePortePas": {
+		"LOW": "https://cdn.staging.glitch.me/68eb4aa4-e5e0-4767-b956-70031fbfb8a2/OnNePortePas_LOW.webm",
+		"MID": "https://cdn.staging.glitch.me/68eb4aa4-e5e0-4767-b956-70031fbfb8a2/OnNePortePas_LOW.webm",
+		"HIGH": "https://cdn.staging.glitch.me/68eb4aa4-e5e0-4767-b956-70031fbfb8a2/OnNePortePas_LOW.webm",
+		"ULTRA": "https://cdn.staging.glitch.me/68eb4aa4-e5e0-4767-b956-70031fbfb8a2/OnNePortePas_LOW.webm",
+		"Audio": "https://cdn.staging.glitch.me/68eb4aa4-e5e0-4767-b956-70031fbfb8a2/OnNePortePas.ogg"
+	},
+	"TheGreatest": {
+		"LOW": "https://cdn.staging.glitch.me/68eb4aa4-e5e0-4767-b956-70031fbfb8a2/TheGreatest_LOW.webm",
+		"MID": "https://cdn.staging.glitch.me/68eb4aa4-e5e0-4767-b956-70031fbfb8a2/TheGreatest_LOW.webm",
+		"HIGH": "https://cdn.staging.glitch.me/68eb4aa4-e5e0-4767-b956-70031fbfb8a2/TheGreatest_LOW.webm",
+		"ULTRA": "https://cdn.staging.glitch.me/68eb4aa4-e5e0-4767-b956-70031fbfb8a2/TheGreatest_LOW.webm",
+		"Audio": "https://cdn.staging.glitch.me/68eb4aa4-e5e0-4767-b956-70031fbfb8a2/TheGreatest.ogg"
+	},
+	"WakaWakaALT": {
+		"LOW": "https://cdn.staging.glitch.me/68eb4aa4-e5e0-4767-b956-70031fbfb8a2/WakaWakaALT_LOW.webm",
+		"MID": "https://cdn.staging.glitch.me/68eb4aa4-e5e0-4767-b956-70031fbfb8a2/WakaWakaALT_LOW.webm",
+		"HIGH": "https://cdn.staging.glitch.me/68eb4aa4-e5e0-4767-b956-70031fbfb8a2/WakaWakaALT_LOW.webm",
+		"ULTRA": "https://cdn.staging.glitch.me/68eb4aa4-e5e0-4767-b956-70031fbfb8a2/WakaWakaALT_LOW.webm",
+		"Audio": "https://cdn.staging.glitch.me/68eb4aa4-e5e0-4767-b956-70031fbfb8a2/WakaWakaALT.ogg"
+	},
+	"TeenageDream": {
+		"LOW": "https://cdn.staging.glitch.me/68eb4aa4-e5e0-4767-b956-70031fbfb8a2/TeenageDream_LOW.webm",
+		"MID": "https://cdn.staging.glitch.me/68eb4aa4-e5e0-4767-b956-70031fbfb8a2/TeenageDream_LOW.webm",
+		"HIGH": "https://cdn.staging.glitch.me/68eb4aa4-e5e0-4767-b956-70031fbfb8a2/TeenageDream_LOW.webm",
+		"ULTRA": "https://cdn.staging.glitch.me/68eb4aa4-e5e0-4767-b956-70031fbfb8a2/TeenageDream_LOW.webm",
+		"Audio": "https://cdn.staging.glitch.me/68eb4aa4-e5e0-4767-b956-70031fbfb8a2/TeenageDream.ogg"
+	},
+	"HandClapFAN": {
+		"LOW": "https://cdn.staging.glitch.me/68eb4aa4-e5e0-4767-b956-70031fbfb8a2/HandClapFAN_LOW.webm",
+		"MID": "https://cdn.staging.glitch.me/68eb4aa4-e5e0-4767-b956-70031fbfb8a2/HandClapFAN_LOW.webm",
+		"HIGH": "https://cdn.staging.glitch.me/68eb4aa4-e5e0-4767-b956-70031fbfb8a2/HandClapFAN_LOW.webm",
+		"ULTRA": "https://cdn.staging.glitch.me/68eb4aa4-e5e0-4767-b956-70031fbfb8a2/HandClapFAN_LOW.webm",
+		"Audio": "https://cdn.staging.glitch.me/68eb4aa4-e5e0-4767-b956-70031fbfb8a2/HandClapFAN.ogg"
+	},
+	"Gibberish": {
+		"LOW": "https://cdn.staging.glitch.me/68eb4aa4-e5e0-4767-b956-70031fbfb8a2/Gibberish_LOW.webm",
+		"MID": "https://cdn.staging.glitch.me/68eb4aa4-e5e0-4767-b956-70031fbfb8a2/Gibberish_LOW.webm",
+		"HIGH": "https://cdn.staging.glitch.me/68eb4aa4-e5e0-4767-b956-70031fbfb8a2/Gibberish_LOW.webm",
+		"ULTRA": "https://cdn.staging.glitch.me/68eb4aa4-e5e0-4767-b956-70031fbfb8a2/Gibberish_LOW.webm",
+		"Audio": "https://cdn.staging.glitch.me/68eb4aa4-e5e0-4767-b956-70031fbfb8a2/Gibberish.ogg"
+	},
+	"HitTheRoad": {
+		"LOW": "https://cdn.staging.glitch.me/68eb4aa4-e5e0-4767-b956-70031fbfb8a2/HitTheRoad_LOW.webm",
+		"MID": "https://cdn.staging.glitch.me/68eb4aa4-e5e0-4767-b956-70031fbfb8a2/HitTheRoad_LOW.webm",
+		"HIGH": "https://cdn.staging.glitch.me/68eb4aa4-e5e0-4767-b956-70031fbfb8a2/HitTheRoad_LOW.webm",
+		"ULTRA": "https://cdn.staging.glitch.me/68eb4aa4-e5e0-4767-b956-70031fbfb8a2/HitTheRoad_LOW.webm",
+		"Audio": "https://cdn.staging.glitch.me/68eb4aa4-e5e0-4767-b956-70031fbfb8a2/HitTheRoad.ogg"
+	},
+	"ColaSongALT": {
+		"LOW": "https://cdn.staging.glitch.me/68eb4aa4-e5e0-4767-b956-70031fbfb8a2/ColaSongALT_LOW.webm",
+		"MID": "https://cdn.staging.glitch.me/68eb4aa4-e5e0-4767-b956-70031fbfb8a2/ColaSongALT_LOW.webm",
+		"HIGH": "https://cdn.staging.glitch.me/68eb4aa4-e5e0-4767-b956-70031fbfb8a2/ColaSongALT_LOW.webm",
+		"ULTRA": "https://cdn.staging.glitch.me/68eb4aa4-e5e0-4767-b956-70031fbfb8a2/ColaSongALT_LOW.webm",
+		"Audio": "https://cdn.staging.glitch.me/68eb4aa4-e5e0-4767-b956-70031fbfb8a2/ColaSongALT.ogg"
+	},
+	"Conversation": {
+		"LOW": "https://cdn.staging.glitch.me/68eb4aa4-e5e0-4767-b956-70031fbfb8a2/Conversation_LOW.webm",
+		"MID": "https://cdn.staging.glitch.me/68eb4aa4-e5e0-4767-b956-70031fbfb8a2/Conversation_LOW.webm",
+		"HIGH": "https://cdn.staging.glitch.me/68eb4aa4-e5e0-4767-b956-70031fbfb8a2/Conversation_LOW.webm",
+		"ULTRA": "https://cdn.staging.glitch.me/68eb4aa4-e5e0-4767-b956-70031fbfb8a2/Conversation_LOW.webm",
+		"Audio": "https://cdn.staging.glitch.me/68eb4aa4-e5e0-4767-b956-70031fbfb8a2/Conversation.ogg"
+	},
+	"Dare": {
+		"LOW": "https://cdn.staging.glitch.me/68eb4aa4-e5e0-4767-b956-70031fbfb8a2/Dare_LOW.webm",
+		"MID": "https://cdn.staging.glitch.me/68eb4aa4-e5e0-4767-b956-70031fbfb8a2/Dare_LOW.webm",
+		"HIGH": "https://cdn.staging.glitch.me/68eb4aa4-e5e0-4767-b956-70031fbfb8a2/Dare_LOW.webm",
+		"ULTRA": "https://cdn.staging.glitch.me/68eb4aa4-e5e0-4767-b956-70031fbfb8a2/Dare_LOW.webm",
+		"Audio": "https://cdn.staging.glitch.me/68eb4aa4-e5e0-4767-b956-70031fbfb8a2/Dare.ogg"
+	},
+	"JerkItOut": {
+		"LOW": "https://cdn.staging.glitch.me/68eb4aa4-e5e0-4767-b956-70031fbfb8a2/Dare_LOW.webm",
+		"MID": "https://cdn.staging.glitch.me/68eb4aa4-e5e0-4767-b956-70031fbfb8a2/Dare_LOW.webm",
+		"HIGH": "https://cdn.staging.glitch.me/68eb4aa4-e5e0-4767-b956-70031fbfb8a2/Dare_LOW.webm",
+		"ULTRA": "https://cdn.staging.glitch.me/68eb4aa4-e5e0-4767-b956-70031fbfb8a2/Dare_LOW.webm",
+		"Audio": "https://cdn.staging.glitch.me/68eb4aa4-e5e0-4767-b956-70031fbfb8a2/JerkItOut.ogg"
+	},
+	"ILikeToMoveIt": {
+		"LOW": "https://cdn.staging.glitch.me/68eb4aa4-e5e0-4767-b956-70031fbfb8a2/ILikeToMoveIt_LOW.webm",
+		"MID": "https://cdn.staging.glitch.me/68eb4aa4-e5e0-4767-b956-70031fbfb8a2/ILikeToMoveIt_MID.webm",
+		"HIGH": "https://cdn.staging.glitch.me/68eb4aa4-e5e0-4767-b956-70031fbfb8a2/ILikeToMoveIt_HIGH.webm",
+		"ULTRA": "https://cdn.staging.glitch.me/68eb4aa4-e5e0-4767-b956-70031fbfb8a2/ILikeToMoveIt_ULTRA.webm",
+		"Audio": "https://cdn.staging.glitch.me/68eb4aa4-e5e0-4767-b956-70031fbfb8a2/ILikeToMoveIt.ogg"
+	},
+	"GAndB": {
+		"LOW": "https://cdn.staging.glitch.me/68eb4aa4-e5e0-4767-b956-70031fbfb8a2/GAndB_LOW.webm",
+		"MID": "https://cdn.staging.glitch.me/68eb4aa4-e5e0-4767-b956-70031fbfb8a2/GAndB_MID.webm",
+		"HIGH": "https://cdn.staging.glitch.me/68eb4aa4-e5e0-4767-b956-70031fbfb8a2/GAndB_HIGH.webm",
+		"ULTRA": "https://cdn.staging.glitch.me/68eb4aa4-e5e0-4767-b956-70031fbfb8a2/GAndB_ULTRA.webm",
+		"Audio": "https://cdn.staging.glitch.me/68eb4aa4-e5e0-4767-b956-70031fbfb8a2/GAndB.ogg"
+	},
+	"CantStopTheFeeling": {
+		"LOW": "https://cdn.staging.glitch.me/68eb4aa4-e5e0-4767-b956-70031fbfb8a2/CantStopTheFeeling_LOW.webm",
+		"MID": "https://cdn.staging.glitch.me/68eb4aa4-e5e0-4767-b956-70031fbfb8a2/CantStopTheFeeling_MID.webm",
+		"HIGH": "https://cdn.staging.glitch.me/68eb4aa4-e5e0-4767-b956-70031fbfb8a2/CantStopTheFeeling_HIGH.webm",
+		"ULTRA": "https://cdn.staging.glitch.me/68eb4aa4-e5e0-4767-b956-70031fbfb8a2/CantStopTheFeeling_HIGH.webm",
+		"Audio": "https://cdn.staging.glitch.me/68eb4aa4-e5e0-4767-b956-70031fbfb8a2/CantStopTheFeeling.ogg"
+	},
+	"CantGetYou": {
+		"LOW": "https://cdn.glitch.me/9e1ad83f-77ef-44fa-bf11-d68c9c199460/CantGetYou_LOW.webm",
+		"MID": "https://cdn.glitch.me/9e1ad83f-77ef-44fa-bf11-d68c9c199460/CantGetYou_LOW.webm",
+		"HIGH": "https://cdn.glitch.me/9e1ad83f-77ef-44fa-bf11-d68c9c199460/CantGetYou_LOW.webm",
+		"ULTRA": "https://cdn.glitch.me/9e1ad83f-77ef-44fa-bf11-d68c9c199460/CantGetYou_LOW.webm",
+		"Audio": "https://cdn.staging.glitch.me/68eb4aa4-e5e0-4767-b956-70031fbfb8a2/CantGetYou.ogg"
+	},
+	"CantTouchThis": {
+		"LOW": "https://cdn.staging.glitch.me/68eb4aa4-e5e0-4767-b956-70031fbfb8a2/Dare_LOW.webm",
+		"MID": "https://cdn.staging.glitch.me/68eb4aa4-e5e0-4767-b956-70031fbfb8a2/Dare_LOW.webm",
+		"HIGH": "https://cdn.staging.glitch.me/68eb4aa4-e5e0-4767-b956-70031fbfb8a2/Dare_LOW.webm",
+		"ULTRA": "https://cdn.staging.glitch.me/68eb4aa4-e5e0-4767-b956-70031fbfb8a2/Dare_LOW.webm",
+		"Audio": "https://cdn.staging.glitch.me/68eb4aa4-e5e0-4767-b956-70031fbfb8a2/CantTouchThis.ogg"
+	},
+	"Cotton": {
+		"ULTRA": "https://cdn.glitch.com/83d93f9b-c51b-4770-86ea-278f457fb7a4%2FCotton_ULTRA.webm",
+		"MID": "https://cdn.glitch.com/83d93f9b-c51b-4770-86ea-278f457fb7a4%2FCotton_MID.webm",
+		"LOW": "https://cdn.glitch.com/83d93f9b-c51b-4770-86ea-278f457fb7a4%2FCotton_LOW.webm",
+		"HIGH": "https://cdn.glitch.com/83d93f9b-c51b-4770-86ea-278f457fb7a4%2FCotton_HIGH.webm",
+		"Audio": "https://cdn.glitch.com/83d93f9b-c51b-4770-86ea-278f457fb7a4%2FCotton_AUDIO.ogg"
+	},
+	"Acceptable": {
+		"ULTRA": "https://cdn.glitch.com/83d93f9b-c51b-4770-86ea-278f457fb7a4%2FAcceptable_ULTRA.webm",
+		"MID": "https://cdn.glitch.com/83d93f9b-c51b-4770-86ea-278f457fb7a4%2FAcceptable_MID.webm",
+		"LOW": "https://cdn.glitch.com/83d93f9b-c51b-4770-86ea-278f457fb7a4%2FAcceptable_LOW.webm",
+		"HIGH": "https://cdn.glitch.com/83d93f9b-c51b-4770-86ea-278f457fb7a4%2FAcceptable_HIGH.webm",
+		"Audio": "https://cdn.glitch.com/83d93f9b-c51b-4770-86ea-278f457fb7a4%2FAcceptable_AUDIO.ogg"
+	},
+	"Fame": {
+		"ULTRA": "https://cdn.glitch.com/83d93f9b-c51b-4770-86ea-278f457fb7a4%2FFame_ULTRA.webm",
+		"MID": "https://cdn.glitch.com/83d93f9b-c51b-4770-86ea-278f457fb7a4%2FFame_MID.webm",
+		"LOW": "https://cdn.glitch.com/83d93f9b-c51b-4770-86ea-278f457fb7a4%2FFame_LOW.webm",
+		"HIGH": "https://cdn.glitch.com/83d93f9b-c51b-4770-86ea-278f457fb7a4%2FFame_HIGH.webm",
+		"Audio": "https://cdn.glitch.com/83d93f9b-c51b-4770-86ea-278f457fb7a4%2FFame_AUDIO.ogg"
+	},
+	"HeartOfGlass": {
+		"ULTRA": "https://cdn.glitch.com/83d93f9b-c51b-4770-86ea-278f457fb7a4%2FHeartOfGlass_ULTRA.webm",
+		"MID": "https://cdn.glitch.com/83d93f9b-c51b-4770-86ea-278f457fb7a4%2FHeartOfGlass_MID.webm",
+		"LOW": "https://cdn.glitch.com/83d93f9b-c51b-4770-86ea-278f457fb7a4%2FHeartOfGlass_LOW.webm",
+		"HIGH": "https://cdn.glitch.com/83d93f9b-c51b-4770-86ea-278f457fb7a4%2FHeartOfGlass_HIGH.webm",
+		"Audio": "https://cdn.glitch.com/83d93f9b-c51b-4770-86ea-278f457fb7a4%2FHeartOfGlass_AUDIO.ogg"
+	},
+	"HotNCold": {
+		"ULTRA": "https://cdn.glitch.com/83d93f9b-c51b-4770-86ea-278f457fb7a4%2FHotNCold_ULTRA.webm",
+		"MID": "https://cdn.glitch.com/83d93f9b-c51b-4770-86ea-278f457fb7a4%2FHotNCold_MID.webm",
+		"LOW": "https://cdn.glitch.com/83d93f9b-c51b-4770-86ea-278f457fb7a4%2FHotNCold_LOW.webm",
+		"HIGH": "https://cdn.glitch.com/83d93f9b-c51b-4770-86ea-278f457fb7a4%2FHotNCold_HIGH.webm",
+		"Audio": "https://cdn.glitch.com/83d93f9b-c51b-4770-86ea-278f457fb7a4%2FHotNCold_AUDIO.ogg"
+	},
+	"GetAround": {
+		"ULTRA": "https://cdn.glitch.com/83d93f9b-c51b-4770-86ea-278f457fb7a4%2FGetAround_ULTRA.webm",
+		"MID": "https://cdn.glitch.com/83d93f9b-c51b-4770-86ea-278f457fb7a4%2FGetAround_MID.webm",
+		"LOW": "https://cdn.glitch.com/83d93f9b-c51b-4770-86ea-278f457fb7a4%2FGetAround_LOW.webm",
+		"HIGH": "https://cdn.glitch.com/83d93f9b-c51b-4770-86ea-278f457fb7a4%2FGetAround_HIGH.webm",
+		"Audio": "https://cdn.glitch.com/83d93f9b-c51b-4770-86ea-278f457fb7a4%2FGetAround_AUDIO.ogg"
+	},
+	"LeFreak": {
+		"ULTRA": "https://cdn.glitch.com/83d93f9b-c51b-4770-86ea-278f457fb7a4%2FLeFreak_ULTRA.webm",
+		"MID": "https://cdn.glitch.com/83d93f9b-c51b-4770-86ea-278f457fb7a4%2FLeFreak_MID.webm",
+		"LOW": "https://cdn.glitch.com/83d93f9b-c51b-4770-86ea-278f457fb7a4%2FLeFreak_LOW.webm",
+		"HIGH": "https://cdn.glitch.com/83d93f9b-c51b-4770-86ea-278f457fb7a4%2FLeFreak_HIGH.webm",
+		"Audio": "https://cdn.glitch.com/83d93f9b-c51b-4770-86ea-278f457fb7a4%2FLeFreak_AUDIO.ogg"
+	},
+	"Louie": {
+		"ULTRA": "https://cdn.glitch.com/83d93f9b-c51b-4770-86ea-278f457fb7a4%2FLouie_ULTRA.webm",
+		"MID": "https://cdn.glitch.com/83d93f9b-c51b-4770-86ea-278f457fb7a4%2FLouie_MID.webm",
+		"LOW": "https://cdn.glitch.com/83d93f9b-c51b-4770-86ea-278f457fb7a4%2FLouie_LOW.webm",
+		"HIGH": "https://cdn.glitch.com/83d93f9b-c51b-4770-86ea-278f457fb7a4%2FLouie_HIGH.webm",
+		"Audio": "https://cdn.glitch.com/83d93f9b-c51b-4770-86ea-278f457fb7a4%2FLouie_AUDIO.ogg"
+	},
+	"SurfinBird": {
+		"LOW": "https://cdn.staging.glitch.me/68eb4aa4-e5e0-4767-b956-70031fbfb8a2/SurfinBird_LOW.webm",
+		"MID": "https://cdn.staging.glitch.me/68eb4aa4-e5e0-4767-b956-70031fbfb8a2/SurfinBird_LOW.webm",
+		"HIGH": "https://cdn.staging.glitch.me/68eb4aa4-e5e0-4767-b956-70031fbfb8a2/SurfinBird_LOW.webm",
+		"ULTRA": "https://cdn.staging.glitch.me/68eb4aa4-e5e0-4767-b956-70031fbfb8a2/SurfinBird_LOW.webm",
+		"Audio": "https://cdn.staging.glitch.me/68eb4aa4-e5e0-4767-b956-70031fbfb8a2/SurfinBird.ogg"
+	},
+	"Lump": {
+		"ULTRA": "https://cdn.glitch.com/83d93f9b-c51b-4770-86ea-278f457fb7a4%2FLump_ULTRA.webm",
+		"MID": "https://cdn.glitch.com/83d93f9b-c51b-4770-86ea-278f457fb7a4%2FLump_MID.webm",
+		"LOW": "https://cdn.glitch.com/83d93f9b-c51b-4770-86ea-278f457fb7a4%2FLump_LOW.webm",
+		"HIGH": "https://cdn.glitch.com/83d93f9b-c51b-4770-86ea-278f457fb7a4%2FLump_HIGH.webm",
+		"Audio": "https://cdn.glitch.com/83d93f9b-c51b-4770-86ea-278f457fb7a4%2FLump_AUDIO.ogg"
+	},
+	"Potato": {
+		"ULTRA": "https://cdn.glitch.com/83d93f9b-c51b-4770-86ea-278f457fb7a4%2FPotato_ULTRA.webm",
+		"MID": "https://cdn.glitch.com/83d93f9b-c51b-4770-86ea-278f457fb7a4%2FPotato_MID.webm",
+		"LOW": "https://cdn.glitch.com/83d93f9b-c51b-4770-86ea-278f457fb7a4%2FPotato_LOW.webm",
+		"HIGH": "https://cdn.glitch.com/83d93f9b-c51b-4770-86ea-278f457fb7a4%2FPotato_HIGH.webm",
+		"Audio": "https://cdn.glitch.com/83d93f9b-c51b-4770-86ea-278f457fb7a4%2FPotato_AUDIO.ogg"
+	},
+   "JinGoLoBa": {
+		"LOW": "https://cdn.staging.glitch.me/68eb4aa4-e5e0-4767-b956-70031fbfb8a2/JinGoLoBa_LOW.webm",
+		"MID": "https://cdn.staging.glitch.me/68eb4aa4-e5e0-4767-b956-70031fbfb8a2/JinGoLoBa_LOW.webm",
+		"HIGH": "https://cdn.staging.glitch.me/68eb4aa4-e5e0-4767-b956-70031fbfb8a2/JinGoLoBa_LOW.webm",
+		"ULTRA": "https://cdn.staging.glitch.me/68eb4aa4-e5e0-4767-b956-70031fbfb8a2/JinGoLoBa_LOW.webm",
+		"Audio": "https://cdn.staging.glitch.me/68eb4aa4-e5e0-4767-b956-70031fbfb8a2/JinGoLoBa.ogg"
+  },
+   "KidsInA": {
+		"LOW": "https://cdn.staging.glitch.me/68eb4aa4-e5e0-4767-b956-70031fbfb8a2/KidsInA_LOW.webm",
+		"MID": "https://cdn.staging.glitch.me/68eb4aa4-e5e0-4767-b956-70031fbfb8a2/KidsInA_LOW.webm",
+		"HIGH": "https://cdn.staging.glitch.me/68eb4aa4-e5e0-4767-b956-70031fbfb8a2/KidsInA_LOW.webm",
+		"ULTRA": "https://cdn.staging.glitch.me/68eb4aa4-e5e0-4767-b956-70031fbfb8a2/KidsInA_LOW.webm",
+		"Audio": "https://cdn.staging.glitch.me/68eb4aa4-e5e0-4767-b956-70031fbfb8a2/KidsInA.ogg"
+  },
+   "Funplex": {
+		"LOW": "https://cdn.staging.glitch.me/68eb4aa4-e5e0-4767-b956-70031fbfb8a2/Funplex_LOW.webm",
+		"MID": "https://cdn.staging.glitch.me/68eb4aa4-e5e0-4767-b956-70031fbfb8a2/Funplex_LOW.webm",
+		"HIGH": "https://cdn.staging.glitch.me/68eb4aa4-e5e0-4767-b956-70031fbfb8a2/Funplex_LOW.webm",
+		"ULTRA": "https://cdn.staging.glitch.me/68eb4aa4-e5e0-4767-b956-70031fbfb8a2/Funplex_LOW.webm",
+		"Audio": "https://cdn.staging.glitch.me/68eb4aa4-e5e0-4767-b956-70031fbfb8a2/Funplex.ogg"
+  },
+   "RingMyBell": {
+		"LOW": "https://cdn.staging.glitch.me/68eb4aa4-e5e0-4767-b956-70031fbfb8a2/RingMyBell_LOW.webm",
+		"MID": "https://cdn.staging.glitch.me/68eb4aa4-e5e0-4767-b956-70031fbfb8a2/RingMyBell_MID.webm",
+		"HIGH": "https://cdn.staging.glitch.me/68eb4aa4-e5e0-4767-b956-70031fbfb8a2/RingMyBell_HIGH.webm",
+		"ULTRA": "https://cdn.staging.glitch.me/68eb4aa4-e5e0-4767-b956-70031fbfb8a2/RingMyBell_ULTRA.webm",
+		"Audio": "https://cdn.staging.glitch.me/68eb4aa4-e5e0-4767-b956-70031fbfb8a2/RingMyBell.ogg"
+  },
+   "Delite": {
+		"LOW": "https://cdn.staging.glitch.me/68eb4aa4-e5e0-4767-b956-70031fbfb8a2/Delite_LOW.webm",
+		"MID": "https://cdn.staging.glitch.me/68eb4aa4-e5e0-4767-b956-70031fbfb8a2/Delite_MID.webm",
+		"HIGH": "https://cdn.staging.glitch.me/68eb4aa4-e5e0-4767-b956-70031fbfb8a2/Delite_HIGH.webm",
+		"ULTRA": "https://cdn.staging.glitch.me/68eb4aa4-e5e0-4767-b956-70031fbfb8a2/Delite_ULTRA.webm",
+		"Audio": "https://cdn.staging.glitch.me/68eb4aa4-e5e0-4767-b956-70031fbfb8a2/Delite.ogg"
+  },
+   "Toxic": {
+		"LOW": "https://cdn.staging.glitch.me/68eb4aa4-e5e0-4767-b956-70031fbfb8a2/Toxic_LOW.webm",
+		"MID": "https://cdn.staging.glitch.me/68eb4aa4-e5e0-4767-b956-70031fbfb8a2/Toxic_LOW.webm",
+		"HIGH": "https://cdn.staging.glitch.me/68eb4aa4-e5e0-4767-b956-70031fbfb8a2/Toxic_LOW.webm",
+		"ULTRA": "https://cdn.staging.glitch.me/68eb4aa4-e5e0-4767-b956-70031fbfb8a2/Toxic_LOW.webm",
+		"Audio": "https://cdn.staging.glitch.me/68eb4aa4-e5e0-4767-b956-70031fbfb8a2/Toxic.ogg"
+  },
+   "LightsMU": {
+		"LOW": "https://cdn.staging.glitch.me/68eb4aa4-e5e0-4767-b956-70031fbfb8a2/Toxic_LOW.webm",
+		"MID": "https://cdn.staging.glitch.me/68eb4aa4-e5e0-4767-b956-70031fbfb8a2/Toxic_LOW.webm",
+		"HIGH": "https://cdn.staging.glitch.me/68eb4aa4-e5e0-4767-b956-70031fbfb8a2/Toxic_LOW.webm",
+		"ULTRA": "https://cdn.staging.glitch.me/68eb4aa4-e5e0-4767-b956-70031fbfb8a2/Toxic_LOW.webm",
+		"Audio": "https://cdn.discordapp.com/attachments/685517864706637965/1028404511804497961/lightsmu.ogg"
+  },
+   "Unholy": {
+		"LOW": "https://cdn.staging.glitch.me/68eb4aa4-e5e0-4767-b956-70031fbfb8a2/Unholy_LOW.webm",
+		"MID": "https://cdn.staging.glitch.me/68eb4aa4-e5e0-4767-b956-70031fbfb8a2/Unholy_MID.webm",
+		"HIGH": "https://cdn.staging.glitch.me/68eb4aa4-e5e0-4767-b956-70031fbfb8a2/Unholy_HIGH.webm",
+		"ULTRA": "https://cdn.staging.glitch.me/68eb4aa4-e5e0-4767-b956-70031fbfb8a2/Unholy_ULTRA.webm",
+		"Audio": "https://cdn.staging.glitch.me/68eb4aa4-e5e0-4767-b956-70031fbfb8a2/Unholy.ogg"
+  },
+   "IGotYou": {
+		"LOW": "https://cdn.staging.glitch.me/68eb4aa4-e5e0-4767-b956-70031fbfb8a2/IGotYou_LOW.webm",
+		"MID": "https://cdn.staging.glitch.me/68eb4aa4-e5e0-4767-b956-70031fbfb8a2/IGotYou_MID.webm",
+		"HIGH": "https://cdn.staging.glitch.me/68eb4aa4-e5e0-4767-b956-70031fbfb8a2/IGotYou_HIGH.webm",
+		"ULTRA": "https://cdn.staging.glitch.me/68eb4aa4-e5e0-4767-b956-70031fbfb8a2/IGotYou_ULTRA.webm",
+		"Audio": "https://cdn.staging.glitch.me/68eb4aa4-e5e0-4767-b956-70031fbfb8a2/IGotYou.ogg"
+  }
+}

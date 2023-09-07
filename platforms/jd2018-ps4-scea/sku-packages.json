@@ -1,0 +1,602 @@
+{
+    "ABBAAsGoodAsNew_mapContent": {
+        "md5": "5d61526adf4f3b92cf7917c73442f724",
+        "storageType": 0,
+        "url": "https://jd-s3.akamaized.net/public/map/ABBAAsGoodAsNew/ps4/ABBAAsGoodAsNew_MAIN_SCENE_ORBIS.zip/5d61526adf4f3b92cf7917c73442f724.zip",
+        "version": 0
+    },
+    "AboutThatBass_mapContent": {
+        "md5": "a2fce837d55429993efb339fe8dec7c6",
+        "storageType": 0,
+        "url": "https://cdn.discordapp.com/attachments/1007656228836626472/1007662837621067846/orbis_ba7752459dbb402192468755e24e1c29.zip",
+        "version": 2
+    },
+    "AintNoOtherMan_mapContent": {
+        "md5": "114f7f1ed6e7414336e1eed6dca1650d",
+        "storageType": 0,
+        "url": "https://jd-s3.akamaized.net/public/map/AintNoOtherMan/ps4/AintNoOtherMan_MAIN_SCENE_ORBIS.zip/114f7f1ed6e7414336e1eed6dca1650d.zip",
+        "version": 4
+    },
+    "AmericanBoy_mapContent": {
+        "md5": "9745e5a134b442248bda1fd79b191a6d",
+        "storageType": 0,
+        "url": "https://cdn.discordapp.com/attachments/1008800215890919544/1008800335894171799/AmericanBoy_MAIN_SCENE_ORBIS_9745e5a134b442248bda1fd79b191a6d.zip",
+        "version": 2
+    },
+    "Americano_mapContent": {
+        "md5": "af5e189edfc27ad5a685caea7ad2a1ea",
+        "storageType": 0,
+        "url": "https://cdn.discordapp.com/attachments/1007656228836626472/1007681711968108594/orbis_af5e189edfc27ad5a685caea7ad2a1ea.zip",
+        "version": 2
+    },
+    "AmericanoFAN_mapContent": {
+        "md5": "925b4ec483fd3d9fda8670aff4b53363",
+        "storageType": 0,
+        "url": "https://cdn.discordapp.com/attachments/1007656228836626472/1007679883150889080/orbis_925b4ec483fd3d9fda8670aff4b53363.zip",
+        "version": 2
+    },
+    "AmIWrong_mapContent": {
+        "md5": "5465177734765845beb6e8b265313264",
+        "storageType": 0,
+        "url": "https://cdn.discordapp.com/attachments/1007656228836626472/1007839124503400458/5465177734765845beb6e8b265313264.zip",
+        "version": 2
+    },
+    "AngryBirds_mapContent": {
+        "md5": "3042ca44d3fa39f37ab5f42101bbe58f",
+        "storageType": 0,
+        "url": "https://cdn.discordapp.com/attachments/1007656228836626472/1007690299730046986/orbis_3042ca44d3fa39f37ab5f42101bbe58f.zip",
+        "version": 2
+    },
+    "Animals_mapContent": {
+        "md5": "105b80e1b25fd20cb7eb4773c8881bfd",
+        "storageType": 0,
+        "url": "https://cdn.discordapp.com/attachments/1007656228836626472/1008869669714788412/105b80e1b25fd20cb7eb4773c8881bfd.zip",
+        "version": 2
+    },
+    "AnimalsALT_mapContent": {
+        "md5": "7ab1c6fc783ead8bb1a3cfba30b16eaa",
+        "storageType": 0,
+        "url": "https://cdn.discordapp.com/attachments/1007656228836626472/1007694601815076975/7ab1c6fc783ead8bb1a3cfba30b16eaa.zip",
+        "version": 2
+    },
+    "Apache_mapContent": {
+        "md5": "6ef63bf3b505fb869af2b49ac8ef5be2",
+        "storageType": 0,
+        "url": "https://cdn.discordapp.com/attachments/1007520438156541954/1007528470248689784/orbis.zip",
+        "version": 2
+    },
+    "AThousandDances_mapContent": {
+        "md5": "b4ae0988a59871833ea957ac8a408450",
+        "storageType": 0,
+        "url": "https://cdn.discordapp.com/attachments/1007656228836626472/1007656269265506324/orbis_b4ae0988a59871833ea957ac8a408450.zip",
+        "version": 2
+    },
+    "BadRomance_mapContent": {
+        "md5": "97d6f2574254530915278ab7edd4253a",
+        "storageType": 0,
+        "url": "https://cdn.discordapp.com/attachments/1007656228836626472/1007859878812979252/97d6f2574254530915278ab7edd4253a.zip",
+        "version": 2
+    },
+    "BeautifulLiar_mapContent": {
+        "md5": "4e508e9973e6ceda926b684a888da2c6",
+        "storageType": 0,
+        "url": "https://jd-s3.akamaized.net/public/map/BeautifulLiar/ps4/BeautifulLiar_MAIN_SCENE_ORBIS.zip/4e508e9973e6ceda926b684a888da2c6.zip",
+        "version": 4
+    },
+    "BetterWhen_mapContent": {
+        "md5": "8f9bd992e7a82ba1bca0141143a2cd33",
+        "storageType": 0,
+        "url": "https://cdn.discordapp.com/attachments/1007656228836626472/1007836035037802586/8f9bd992e7a82ba1bca0141143a2cd33.zip",
+        "version": 2
+    },
+    "Birthday_mapContent": {
+        "md5": "0abdd8b74a0c30888f6636c9583b2329",
+        "storageType": 0,
+        "url": "https://cdn.discordapp.com/attachments/1007656228836626472/1007854088886698066/0abdd8b74a0c30888f6636c9583b2329.zip",
+        "version": 2
+    },
+    "Blame_mapContent": {
+        "md5": "30e36bdaee5d3ea8b34c15fe41a69406",
+        "storageType": 0,
+        "url": "https://cdn.discordapp.com/attachments/1007656228836626472/1007698273903067176/30e36bdaee5d3ea8b34c15fe41a69406.zip",
+        "version": 2
+    },
+    "BoomDLC_mapContent": {
+        "md5": "5c8390d1a5b82069dd5e3a462c03a79b",
+        "storageType": 0,
+        "url": "https://cdn.discordapp.com/attachments/1007656228836626472/1008596438902652969/0bfd56559ac685d465c68d8cfcb6fae0.zip",
+        "version": 2
+    },
+    "CantGetYou_mapContent": {
+        "md5": "515d408d9ab6ea661dbb32a8077e4e9e",
+        "storageType": 0,
+        "url": "https://cdn.discordapp.com/attachments/685517864706637965/1020613525376335943/515d408d9ab6ea661dbb32a8077e4e9e.zip",
+        "version": 2
+    },
+    "CantHurryLove_mapContent": {
+        "md5": "71f3bb244672633233a83cee4f0f5ab0",
+        "storageType": 0,
+        "url": "https://cdn.discordapp.com/attachments/1007656228836626472/1008598239433457684/71f3bb244672633233a83cee4f0f5ab0.zip",
+        "version": 2
+    },
+    "CantStopTheFeeling_mapContent": {
+        "md5": "a8a9a02abac8126418903466b7cf860b",
+        "storageType": 0,
+        "url": "https://cdn.discordapp.com/attachments/1017895497131888660/1020227035622297610/a8a9a02abac8126418903466b7cf860b.zip",
+        "version": 2
+    },
+    "CantTouchThis_mapContent": {
+        "md5": "5b760dacd4d97bb7c503fba4dd34fe2f",
+        "storageType": 0,
+        "url": "https://cdn.discordapp.com/attachments/685517864706637965/1020616737634398208/5b760dacd4d97bb7c503fba4dd34fe2f.zip",
+        "version": 2
+    },
+    "CircusALT_mapContent": {
+        "md5": "cc7032ba26f4288ae836e69168f2113c",
+        "storageType": 0,
+        "url": "https://cdn.discordapp.com/attachments/1007656228836626472/1007726191379230750/cc7032ba26f4288ae836e69168f2113c.zip",
+        "version": 2
+    },
+    "ColaSongALT_mapContent": {
+        "md5": "60f971e00f96eebe5a128214f43692ac",
+        "storageType": 0,
+        "url": "https://cdn.discordapp.com/attachments/1007656228836626472/1012589528143376404/60f971e00f96eebe5a128214f43692ac.zip",
+        "version": 2
+    },
+    "Conversation_mapContent": {
+        "md5": "5783685620188ab32bf9b61f3b87845b",
+        "storageType": 0,
+        "url": "https://cdn.discordapp.com/attachments/685517864706637965/1018545093566812251/orbis.zip",
+        "version": 2
+    },
+    "Dare_mapContent": {
+        "md5": "5efeefe470c40aba9a6495d89a2cfcd4",
+        "storageType": 0,
+        "url": "https://cdn.discordapp.com/attachments/1017895497131888660/1022815382861529098/orbis.zip",
+        "version": 2
+    },
+    "DontWorry_mapContent": {
+        "md5": "49b94caf002f9b1a5678256a18945c3e",
+        "storageType": 0,
+        "url": "https://cdn.discordapp.com/attachments/1007656228836626472/1008599883239936050/49b94caf002f9b1a5678256a18945c3e.zip",
+        "version": 2
+    },
+    "EyeOfTheTiger_mapContent": {
+        "md5": "9d49370fe701444fec267ef098800eb4",
+        "storageType": 0,
+        "url": "https://cdn.discordapp.com/attachments/1007656228836626472/1008005102432432188/9d49370fe701444fec267ef098800eb4.zip",
+        "version": 2
+    },
+    "FunHouseDLC_mapContent": {
+        "md5": "6e700845fdfa3c912ffc6176ad1021d8",
+        "storageType": 0,
+        "url": "https://cdn.discordapp.com/attachments/887991751778910238/992396964798931004/orbis_6e700845fdfa3c912ffc6176ad1021d8.zip",
+        "version": 1
+    },
+    "Funplex_mapContent": {
+        "md5": "748018db9f50febceb76c1cb307a6986",
+        "storageType": 0,
+        "url": "https://cdn.discordapp.com/attachments/1017895497131888660/1021741093949284382/orbis.zip",
+        "version": 2
+    },
+    "GAndB_mapContent": {
+        "md5": "6abdfd7d9ddc227df74608085d6619c5",
+        "storageType": 0,
+        "url": "https://cdn.discordapp.com/attachments/1017895497131888660/1020097420698320926/orbis.zip",
+        "version": 2
+    },
+    "Gibberish_mapContent": {
+        "md5": "a9551625e5266a7f925065ca417064a2",
+        "storageType": 0,
+        "url": "https://cdn.discordapp.com/attachments/1007656228836626472/1012583637100793906/a9551625e5266a7f925065ca417064a2.zip",
+        "version": 2
+    },
+    "GirlsJustWant_mapContent": {
+        "md5": "009ee88964e1cb35323495acc513d2f1",
+        "storageType": 0,
+        "url": "https://cdn.discordapp.com/attachments/1007656228836626472/1008006626055294986/009ee88964e1cb35323495acc513d2f1.zip",
+        "version": 2
+    },
+    "GonnaMake_mapContent": {
+        "md5": "87121dd0c6d10c3ea324660632bb077e",
+        "storageType": 0,
+        "url": "https://jd-s3.akamaized.net/public/map/GonnaMake/ps4/GonnaMake_MAIN_SCENE_ORBIS.zip/87121dd0c6d10c3ea324660632bb077e.zip",
+        "version": 1
+    },
+    "GotMeDancing_mapContent": {
+        "md5": "e39c620f20ca4bb2620883e7d2c73def",
+        "storageType": 0,
+        "url": "https://cdn.discordapp.com/attachments/1007656228836626472/1011257094713917542/orbis.zip",
+        "version": 22
+    },
+    "HandClapFAN_mapContent": {
+        "md5": "ce6c07f9dda3d29d3a225e9c3cb2f898",
+        "storageType": 0,
+        "url": "https://cdn.discordapp.com/attachments/1007656228836626472/1012581742764367922/ce6c07f9dda3d29d3a225e9c3cb2f898.zip",
+        "version": 2
+    },
+    "Hangover_mapContent": {
+        "md5": "91f35514958462ec3aea8e3bf1d8f52c",
+        "storageType": 0,
+        "url": "https://cdn.discordapp.com/attachments/1007656228836626472/1007841372503560293/91f35514958462ec3aea8e3bf1d8f52c.zip",
+        "version": 2
+    },
+    "HitTheRoad_mapContent": {
+        "md5": "426fbd877e7081e0b28ec57282bb9421",
+        "storageType": 0,
+        "url": "https://cdn.discordapp.com/attachments/1007656228836626472/1012585270673158184/426fbd877e7081e0b28ec57282bb9421.zip",
+        "version": 2
+    },
+    "IDidItAgainQUAT_mapContent": {
+        "md5": "941bef290a6f84c50478446ef36603d1",
+        "storageType": 0,
+        "url": "https://cdn.discordapp.com/attachments/887991751778910238/1012836501454852147/orbis_941bef290a6f84c50478446ef36603d1.zip",
+        "version": 2
+    },
+    "IGotAFeelingALT_mapContent": {
+        "md5": "d8f591b7aef4fe385385f7ac7bc72792",
+        "storageType": 0,
+        "url": "https://cdn.discordapp.com/attachments/1007656228836626472/1012240065428197396/d8f591b7aef4fe385385f7ac7bc72792.zip",
+        "version": 2
+    },
+    "ILikeToMoveIt_mapContent": {
+        "md5": "872a6bd83b0880fe57ca6bd7637d3d99",
+        "storageType": 0,
+        "url": "https://cdn.discordapp.com/attachments/1017895497131888660/1019939731531907162/orbis.zip",
+        "version": 2
+    },
+    "IWasMadeQUAT_mapContent": {
+        "md5": "b326b5c544c10f8ac31b83ecb15fde7f",
+        "storageType": 0,
+        "url": "https://cdn.discordapp.com/attachments/1007656228836626472/1009397109637787730/b326b5c544c10f8ac31b83ecb15fde7f.zip",
+        "version": 2
+    },
+    "JamboMambo_mapContent": {
+        "md5": "fabde5814571a171b077df3c93a1f7b6",
+        "storageType": 0,
+        "url": "https://cdn.discordapp.com/attachments/1007656228836626472/1009554096954552422/fabde5814571a171b077df3c93a1f7b6.zip",
+        "version": 2
+    },
+    "JDCGee_mapContent": {
+        "md5": "1f5cad46b962d0970777087c03a48101",
+        "storageType": 0,
+        "url": "https://jd-s3.akamaized.net/public/map/JDCGee/ps4/JDCGee_MAIN_SCENE_ORBIS.zip/1f5cad46b962d0970777087c03a48101.zip",
+        "version": 0
+    },
+    "JerkItOut_mapContent": {
+        "md5": "470b0622d7b0652cd67a3b52e63ec66a",
+        "storageType": 0,
+        "url": "https://cdn.discordapp.com/attachments/685517864706637965/1018565555038457856/orbis.zip",
+        "version": 2
+    },
+    "JinGoLoBa_mapContent": {
+        "md5": "21c7a480ff9965024cb43e3a56c82f12",
+        "storageType": 0,
+        "url": "https://cdn.discordapp.com/attachments/1017895497131888660/1021736229466800148/orbis.zip",
+        "version": 2
+    },
+    "JustDanceOSC_mapContent": {
+        "md5": "ba0161b546c7961e095344a528b67f8f",
+        "storageType": 0,
+        "url": "https://cdn.discordapp.com/attachments/1007656228836626472/1012242231131897876/ba0161b546c7961e095344a528b67f8f.zip",
+        "version": 2
+    },
+    "JustMaxBL_mapContent": {
+        "md5": "8f7696aee6dfc7dec8785b0042f99b69",
+        "storageType": 0,
+        "url": "https://cdn.discordapp.com/attachments/1007656228836626472/1012223889952210984/8f7696aee6dfc7dec8785b0042f99b69.zip",
+        "version": 2
+    },
+    "KIDSDayO_mapContent": {
+        "md5": "4a97ea5c0bd1bcf5fc6eb33e2480f925",
+        "storageType": 0,
+        "url": "https://cdn.discordapp.com/attachments/1007656228836626472/1012252997599899678/4a97ea5c0bd1bcf5fc6eb33e2480f925.zip",
+        "version": 2
+    },
+    "KidsInA_mapContent": {
+        "md5": "a4aa1964a4b7ee4f09047e358e567996",
+        "storageType": 0,
+        "url": "https://cdn.discordapp.com/attachments/1017895497131888660/1022491654294355989/orbis.zip",
+        "version": 2
+    },
+    "Kurio_mapContent": {
+        "md5": "bd703e9de8aea6a6544ee969e5b710dc",
+        "storageType": 0,
+        "url": "https://cdn.discordapp.com/attachments/1007520438156541954/1007631676748333228/orbis_bd703e9de8aea6a6544ee969e5b710dc.zip",
+        "version": 2
+    },
+    "LeanOnALT_mapContent": {
+        "md5": "b2824d003bc400a45b44bef7cd38e632",
+        "storageType": 0,
+        "url": "https://cdn.discordapp.com/attachments/1007656228836626472/1012247931799207936/b2824d003bc400a45b44bef7cd38e632.zip",
+        "version": 2
+    },
+    "LetItGoDLC_mapContent": {
+        "md5": "c46fa44ceeb17ab20d6e16ec3a7d0ccb",
+        "storageType": 0,
+        "url": "https://cdn.discordapp.com/attachments/1007656228836626472/1012237149321568316/c46fa44ceeb17ab20d6e16ec3a7d0ccb.zip",
+        "version": 2
+    },
+    "LightsOffMU_mapContent": {
+        "md5": "953e3aa8f2afdf9daee563861c707e5b",
+        "storageType": 0,
+        "url": "https://cdn.discordapp.com/attachments/833077639131955210/985255601292587039/LightsOffMU_MAIN_SCENE_ORBIS.zip",
+        "version": 4
+    },
+    "Lollipop_mapContent": {
+        "md5": "632396af92cf16038462d2224dd4192e",
+        "storageType": 0,
+        "url": "https://cdn.discordapp.com/attachments/1007656228836626472/1008008276400689242/632396af92cf16038462d2224dd4192e.zip",
+        "version": 2
+    },
+    "MoodALT_mapContent": {
+        "md5": "fdaa89a67df76467f3120657073986b4",
+        "storageType": 0,
+        "url": "https://cdn.discordapp.com/attachments/1007656228836626472/1009544839383228436/fdaa89a67df76467f3120657073986b4.zip",
+        "version": 2
+    },
+    "MugsyBaloney_mapContent": {
+        "md5": "1a0d45ffefdc5c5b574a1c0d1c773673",
+        "storageType": 0,
+        "url": "https://cdn.discordapp.com/attachments/1007520438156541954/1007628587152720002/orbis_1a0d45ffefdc5c5b574a1c0d1c773673.zip",
+        "version": 2
+    },
+    "Natoo_mapContent": {
+        "md5": "f3459f28f2ce3dba0e0c5f65e42e6f8e",
+        "storageType": 0,
+        "url": "https://cdn.discordapp.com/attachments/1007520438156541954/1007608628418711603/orbis_f3459f28f2ce3dba0e0c5f65e42e6f8e.zip",
+        "version": 2
+    },
+    "NoControl_mapContent": {
+        "md5": "94a4743515075117a15aa9252061f381",
+        "storageType": 0,
+        "url": "https://cdn.discordapp.com/attachments/1007656228836626472/1007705320270864465/94a4743515075117a15aa9252061f381.zip",
+        "version": 2
+    },
+    "Oath_mapContent": {
+        "md5": "e6689f4bddc5db3ba9bc5bc060e978de",
+        "storageType": 0,
+        "url": "https://cdn.discordapp.com/attachments/1007656228836626472/1009396851310600222/e6689f4bddc5db3ba9bc5bc060e978de.zip",
+        "version": 2
+    },
+    "OnaTanczyDlaMnie_mapContent": {
+        "md5": "5ebf7b94c109bfc65bffb55e3a6d7818",
+        "storageType": 0,
+        "url": "https://cdn.discordapp.com/attachments/1007656228836626472/1009548330637996094/5ebf7b94c109bfc65bffb55e3a6d7818.zip",
+        "version": 2
+    },
+    "OnNePortePas_mapContent": {
+        "md5": "16be20c8609a0a9fd5136d4b58092ffc",
+        "storageType": 0,
+        "url": "https://cdn.discordapp.com/attachments/1007656228836626472/1012260753992056842/16be20c8609a0a9fd5136d4b58092ffc.zip",
+        "version": 2
+    },
+    "ProfesseurDLC_mapContent": {
+        "md5": "7dc68b2470eb4b21bc43d9b197ada35b",
+        "storageType": 0,
+        "url": "https://cdn.discordapp.com/attachments/1007656228836626472/1008002645321056286/7dc68b2470eb4b21bc43d9b197ada35b.zip",
+        "version": 2
+    },
+    "PumpUpTheJam_mapContent": {
+        "md5": "99bf797b96980ed70fa39145e5dbe291",
+        "storageType": 0,
+        "url": "https://cdn.discordapp.com/attachments/887991751778910238/1005488391896432661/orbis_99bf797b96980ed70fa39145e5dbe291.zip",
+        "version": 2
+    },
+    "RunTheShow_mapContent": {
+        "md5": "69db868338ed70fb8a807b284f5302de",
+        "storageType": 0,
+        "url": "https://jd-s3.akamaized.net/public/map/RunTheShow/ps4/RunTheShow_MAIN_SCENE_ORBIS.zip/69db868338ed70fb8a807b284f5302de.zip",
+        "version": 0
+    },
+    "SaintPatrick_mapContent": {
+        "md5": "cc96b5742d2e744d76e87e171d66d8d9",
+        "storageType": 0,
+        "url": "https://cdn.discordapp.com/attachments/1007656228836626472/1008009872706641930/cc96b5742d2e744d76e87e171d66d8d9.zip",
+        "version": 2
+    },
+    "SavageLove_mapContent": {
+        "md5": "35feb52c71d841b77787287bd2a6ab22",
+        "storageType": 0,
+        "url": "https://jd-s3.akamaized.net/public/map/SavageLove/ps4/SavageLove_MAIN_SCENE_ORBIS.zip/35feb52c71d841b77787287bd2a6ab22.zip",
+        "version": 2
+    },
+    "SexyAndIKnowItDLC_mapContent": {
+        "md5": "cd4853418eb6139033986ca1d34ea1c2",
+        "storageType": 0,
+        "url": "https://cdn.discordapp.com/attachments/1007656228836626472/1008003794505838662/cd4853418eb6139033986ca1d34ea1c2.zip",
+        "version": 2
+    },
+    "SorryALT_mapContent": {
+        "md5": "a53b2f85ef7793e3b8808d46105dd8c8",
+        "storageType": 0,
+        "url": "https://cdn.discordapp.com/attachments/1007656228836626472/1008886662740320327/a53b2f85ef7793e3b8808d46105dd8c8.zip",
+        "version": 2
+    },
+    "SOS_mapContent": {
+        "md5": "c4a4dff97edda4579f2d76c97fb6601c",
+        "storageType": 0,
+        "url": "https://cdn.discordapp.com/attachments/833077639131955210/986727676322668554/SOS_MAIN_SCENE_ORBIS.zip",
+        "version": 8
+    },
+    "StarshipsALT_mapContent": {
+        "md5": "2dd2c1cdcc373963364a06322d0596cb",
+        "storageType": 0,
+        "url": "https://cdn.discordapp.com/attachments/1007656228836626472/1009544466383777802/2dd2c1cdcc373963364a06322d0596cb.zip",
+        "version": 2
+    },
+    "SummerALT_mapContent": {
+        "md5": "bf70107bfe9f9bff947c5150c93ef0c5",
+        "storageType": 0,
+        "url": "https://cdn.discordapp.com/attachments/1007656228836626472/1008868533708537886/bf70107bfe9f9bff947c5150c93ef0c5.zip",
+        "version": 25
+    },
+    "Superstition_mapContent": {
+        "md5": "51fc733d59e7d87fae4781765cbdeea7",
+        "storageType": 0,
+        "url": "https://cdn.discordapp.com/attachments/685517864706637965/997873512159121469/Superstition_MAIN_SCENE_ORBIS.zip",
+        "version": 2
+    },
+    "SurfinBird_mapContent": {
+        "md5": "7d6ff06f0086fac5da7000b0a081cd12",
+        "storageType": 0,
+        "url": "https://cdn.discordapp.com/attachments/1017895497131888660/1021368162777833513/7d6ff06f0086fac5da7000b0a081cd12.zip",
+        "version": 2
+    },
+    "SweetEscape_mapContent": {
+        "md5": "b161da6ee925c7169f841ea81bac5d4e",
+        "storageType": 0,
+        "url": "https://jd-s3.akamaized.net/public/map/SweetEscape/ps4/SweetEscape_MAIN_SCENE_ORBIS.zip/b161da6ee925c7169f841ea81bac5d4e.zip",
+        "version": 39
+    },
+    "SympathyDevil_mapContent": {
+        "md5": "93f3d1182c1c2f2744b9b2ae0af9222c",
+        "storageType": 0,
+        "url": "https://jd-s3.akamaized.net/public/map/SympathyDevil/ps4/SympathyDevil_MAIN_SCENE_ORBIS.zip/93f3d1182c1c2f2744b9b2ae0af9222c.zip",
+        "version": 0
+    },
+    "TeenageDream_mapContent": {
+        "md5": "426fbd877e7081e0b28ec57282bb9421",
+        "storageType": 0,
+        "url": "https://cdn.discordapp.com/attachments/1007656228836626472/1012579638616276992/426fbd877e7081e0b28ec57282bb9421.zip",
+        "version": 2
+    },
+    "ThatPowerOSCDLC_mapContent": {
+        "md5": "41e56920e35eff4c0bc872095ecbdf85",
+        "storageType": 0,
+        "url": "https://cdn.discordapp.com/attachments/1007656228836626472/1009565137528688770/41e56920e35eff4c0bc872095ecbdf85.zip",
+        "version": 2
+    },
+    "TheGreatest_mapContent": {
+        "md5": "b36e37ac75a584de6ef52bb0b2719fc3",
+        "storageType": 0,
+        "url": "https://cdn.discordapp.com/attachments/1007656228836626472/1012264071657181214/b36e37ac75a584de6ef52bb0b2719fc3.zip",
+        "version": 2
+    },
+    "TheLazySong_mapContent": {
+        "md5": "be2a379cee5b6660c13f36ae13718f44",
+        "storageType": 0,
+        "url": "https://cdn.discordapp.com/attachments/833077639131955210/985205691021152346/TheLazySong_MAIN_SCENE_ORBIS.zip",
+        "version": 4
+    },
+    "TheTimeOfMyLife_mapContent": {
+        "md5": "c7f4e12ac64d3cbfe20e7c142d26500b",
+        "storageType": 0,
+        "url": "https://jd-s3.akamaized.net/public/map/TheTimeOfMyLife/ps4/TheTimeOfMyLife_MAIN_SCENE_ORBIS.zip/c7f4e12ac64d3cbfe20e7c142d26500b.zip",
+        "version": 1
+    },
+    "ThisIsHow_mapContent": {
+        "md5": "4b3887db38cd4b6b422cccdf31b56380",
+        "storageType": 0,
+        "url": "https://cdn.discordapp.com/attachments/1007656228836626472/1007844671944392784/4b3887db38cd4b6b422cccdf31b56380.zip",
+        "version": 2
+    },
+    "ThisIsHowALT_mapContent": {
+        "md5": "a9d79f9282ea6c7eb5ca4952d3c6f05e",
+        "storageType": 0,
+        "url": "https://cdn.discordapp.com/attachments/1007656228836626472/1007846700393713674/a9d79f9282ea6c7eb5ca4952d3c6f05e.zip",
+        "version": 2
+    },
+    "Tightrope_mapContent": {
+        "md5": "7e31325542d24d7747bf6ee315d52e36",
+        "storageType": 0,
+        "url": "https://cdn.discordapp.com/attachments/887991751778910238/989271461300695140/Tightrope_mapContent.zip",
+        "version": 0
+    },
+    "ToTheMall_mapContent": {
+        "md5": "6c79919615562cae8076fc7bfff62b5f",
+        "storageType": 0,
+        "url": "https://cdn.discordapp.com/attachments/1007656228836626472/1009198572148904027/orbis_6c79919615562cae8076fc7bfff62b5f.zip",
+        "version": 5
+    },
+    "TurnUpTheLoveALT_mapContent": {
+        "md5": "b08df234cf97138de1f54ab049d43f58",
+        "storageType": 0,
+        "url": "https://cdn.discordapp.com/attachments/1007656228836626472/1012255376055476234/b08df234cf97138de1f54ab049d43f58.zip",
+        "version": 2
+    },
+    "TurnUpTheLoveFAN_mapContent": {
+        "md5": "258047d871b5028ff6fcc6f578bedee4",
+        "storageType": 0,
+        "url": "https://cdn.discordapp.com/attachments/1007656228836626472/1008603719245504593/258047d871b5028ff6fcc6f578bedee4.zip",
+        "version": 2
+    },
+    "WakaWakaALT_mapContent": {
+        "md5": "6f0a22a355862db2cba0ba32e57c27ed",
+        "storageType": 0,
+        "url": "https://cdn.discordapp.com/attachments/1007656228836626472/1012268227998535690/6f0a22a355862db2cba0ba32e57c27ed.zip",
+        "version": 2
+    },
+    "WalkThisWay_mapContent": {
+        "md5": "88cb7133b82cc16dec4ad99fb3621f82",
+        "storageType": 0,
+        "url": "https://cdn.discordapp.com/attachments/1007656228836626472/1007664705940230266/orbis_88cb7133b82cc16dec4ad99fb3621f82.zip",
+        "version": 2
+    },
+    "WalkThisWayALT_mapContent": {
+        "md5": "99dcfa2fe8044355cd8db5753d4e5ed5",
+        "storageType": 0,
+        "url": "https://cdn.discordapp.com/attachments/1007656228836626472/1007667144286281838/orbis_99dcfa2fe8044355cd8db5753d4e5ed5.zip",
+        "version": 2
+    },
+    "WantToWantMe_mapContent": {
+        "md5": "6662f0d66cb96a9dbc9ef54cfe7c2cbe",
+        "storageType": 0,
+        "url": "https://cdn.discordapp.com/attachments/1007656228836626472/1007703465826451626/6662f0d66cb96a9dbc9ef54cfe7c2cbe.zip",
+        "version": 2
+    },
+    "WhatMakesYouBeautiful_mapContent": {
+        "md5": "3a290af6c91ca585f1627796b8f73405",
+        "storageType": 0,
+        "url": "https://cdn.discordapp.com/attachments/887991751778910238/992390497752592394/orbis_3a290af6c91ca585f1627796b8f73405.zip",
+        "version": 1
+    },
+    "YoureTheOne_mapContent": {
+        "md5": "bfb1788c9920727d5f850d5c9dd6974d",
+        "storageType": 0,
+        "url": "https://cdn.discordapp.com/attachments/1007656228836626472/1012245927236489296/bfb1788c9920727d5f850d5c9dd6974d.zip",
+        "version": 2
+    },
+    "Delite_mapContent": {
+        "md5": "dee71f0e4ea08a63033097bb5e73c61c",
+        "storageType": 0,
+        "url": "https://cdn.discordapp.com/attachments/1017895497131888660/1022825615121985556/orbis.zip",
+        "version": 2
+    },
+    "Youth_mapContent": {
+        "md5": "2271972fbb1ae0c5db3dd2d51b99d934",
+        "storageType": 0,
+        "url": "https://cdn.discordapp.com/attachments/1007656228836626472/1012222036543807550/2271972fbb1ae0c5db3dd2d51b99d934.zip",
+        "version": 2
+    },
+    "RingMyBell_mapContent": {
+        "md5": "f425cb8487cde0a163b81e54e73a98b0",
+        "storageType": 0,
+        "url": "https://cdn.discordapp.com/attachments/1017895497131888660/1022819966036230195/orbis.zip",
+        "version": 2
+    },
+    "Toxic_mapContent": {
+        "md5": "ef497bcab9cee01cd3d9067ec4979a0b",
+        "storageType": 0,
+        "url": "https://cdn.discordapp.com/attachments/1017895497131888660/1027553062535053402/orbis.zip",
+        "version": 2
+    },
+    "LightsMU_mapContent": {
+        "md5": "2aa877442b9bb4fcc692f63a6f84af22",
+        "storageType": 0,
+        "url": "https://cdn.discordapp.com/attachments/685517864706637965/1028425437828890714/orbis.zip",
+        "version": 2
+    },
+    "Unholy_mapContent": {
+        "md5": "9504b47f0888a7b6204ea344fca0ecb7",
+        "storageType": 0,
+        "url": "https://cdn.discordapp.com/attachments/1017895497131888660/1030805973528498237/orbis.zip",
+        "version": 2
+    },
+    "IGotYou_mapContent": {
+        "md5": "c5aa2bdd0f77ca111920b7652ee9a954",
+        "storageType": 0,
+        "url": "https://cdn.discordapp.com/attachments/1017895497131888660/1036634259810689124/orbis.zip",
+        "version": 2
+    }
+}

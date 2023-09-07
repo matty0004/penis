@@ -1,0 +1,74 @@
+{
+    "SweetEscape_mapContent": {
+        "md5": "c50c80ccd4c5ba95c1824a96cf66b9b7",
+        "storageType": 0,
+        "url": "https://jd-s3.akamaized.net/public/map/SweetEscape/nx/SweetEscape_MAIN_SCENE_NX.zip/c50c80ccd4c5ba95c1824a96cf66b9b7.zip",
+        "version": 39
+		},
+    "GonnaMake_mapContent": {
+        "md5": "e4b42ec830ac4947f78abd6330e434bc",
+        "storageType": 0,
+        "url": "https://jd-s3.akamaized.net/public/map/GonnaMake/nx/GonnaMake_MAIN_SCENE_NX.zip/e4b42ec830ac4947f78abd6330e434bc.zip",
+        "version": 1
+		},
+    "JDCGee_mapContent": {
+        "md5": "bb1bcab434585b7d47ed477a8b0ef95b",
+        "storageType": 0,
+        "url": "https://jd-s3.akamaized.net/public/map/JDCGee/nx/JDCGee_MAIN_SCENE_NX.zip/bb1bcab434585b7d47ed477a8b0ef95b.zip",
+        "version": 2
+		},
+    "TheLazySong_mapContent": {
+        "md5": "9a2740037220ea11fc9517635f290261",
+        "storageType": 0,
+        "url": "https://cdn.discordapp.com/attachments/985517246162010163/986013640866037841/TheLazySong_MAIN_SCENE_NX.zip",
+        "version": 4
+		},
+    "BeautifulLiar_mapContent": {
+        "md5": "73bed2b92463345e75912138d0184e18",
+        "storageType": 0,
+        "url": "https://jd-s3.akamaized.net/public/map/BeautifulLiar/nx/BeautifulLiar_MAIN_SCENE_NX.zip/73bed2b92463345e75912138d0184e18.zip",
+        "version": 4
+    },
+    "RunTheShow_mapContent": {
+        "md5": "9eee7ac5883fa6c36b3d638c175b1ea0",
+        "storageType": 0,
+        "url": "https://jd-s3.akamaized.net/public/map/RunTheShow/nx/RunTheShow_MAIN_SCENE_NX.zip/9eee7ac5883fa6c36b3d638c175b1ea0.zip",
+        "version": 0
+		},
+    "AintNoOtherMan_mapContent": {
+        "md5": "c1658daea2d30973cd255ba08db6e419",
+        "storageType": 0,
+        "url": "https://cdn.discordapp.com/attachments/985517246162010163/985522795779850260/AintNoOtherMan_MAIN_SCENE_NX.zip",
+        "version": 4
+    },
+    "SOS_mapContent": {
+        "md5": "5ee7e26a5e609e536c9e663f8e624786",
+        "storageType": 0,
+        "url": "https://cdn.discordapp.com/attachments/833077639131955210/986687488921849866/SOS_MAIN_SCENE_NX.zip",
+        "version": 7
+		},
+    "SympathyDevil_mapContent": {
+        "md5": "4ea58c5bce1927cf15aa91776a4de489",
+        "storageType": 0,
+        "url": "https://jd-s3.akamaized.net/public/map/SympathyDevil/nx/SympathyDevil_MAIN_SCENE_NX.zip/4ea58c5bce1927cf15aa91776a4de489.zip",
+        "version": 0
+		},
+    "ABBAAsGoodAsNew_mapContent": {
+        "md5": "8cf023467c093581151a17bc2ec0f40e",
+        "storageType": 0,
+        "url": "https://jd-s3.akamaized.net/public/map/ABBAAsGoodAsNew/nx/ABBAAsGoodAsNew_MAIN_SCENE_NX.zip/8cf023467c093581151a17bc2ec0f40e.zip",
+        "version": 0
+		},
+    "JDCGee_mapContent": {
+        "md5": "bb1bcab434585b7d47ed477a8b0ef95b",
+        "storageType": 0,
+        "url": "https://jd-s3.akamaized.net/public/map/JDCGee/nx/JDCGee_MAIN_SCENE_NX.zip/bb1bcab434585b7d47ed477a8b0ef95b.zip",
+        "version": 0
+		},
+    "LightsOffMU_mapContent": {
+        "md5": "ef1f07913edbfce5f1aa399f43601b93",
+        "storageType": 0,
+        "url": "https://cdn.discordapp.com/attachments/985517246162010163/985524943053783110/LightsOffMU_MAIN_SCENE_NX.zip",
+        "version": 4
+      }
+}

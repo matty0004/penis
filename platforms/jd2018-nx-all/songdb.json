@@ -1,0 +1,580 @@
+{
+      "TheLazySong": {
+            "artist": "Bruno Mars",
+            "assets": {
+                  "banner_bkgImageUrl": "https://media.discordapp.net/attachments/833077639131955210/985172341749342208/TheLazySong_banner_bkg.png",
+                  "coach1ImageUrl": "https://media.discordapp.net/attachments/833077639131955210/985172926523404348/TheLazySong_Coach_1_Phone.png",
+                  "coverImageUrl": "https://media.discordapp.net/attachments/833077639131955210/985172454437699615/TheLazySong_Cover_Generic.png",
+                  "cover_smallImageUrl": "https://media.discordapp.net/attachments/833077639131955210/985172926221398016/TheLazySong_Cover_Online.png",
+                  "expandCoachImageUrl": "https://media.discordapp.net/attachments/833077639131955210/985173466045112330/Thelazysong_Cover_AlbumCoach.png",
+                  "phoneCoach1ImageUrl": "https://media.discordapp.net/attachments/833077639131955210/985172926523404348/TheLazySong_Coach_1_Phone.png",
+                  "phoneCoverImageUrl": "https://media.discordapp.net/attachments/833077639131955210/985172926913470504/TheLazySong_Cover__Phone.png"
+            },
+            "audioPreviewData": "{\"__class\":\"MusicTrackData\",\"structure\":{\"__class\":\"MusicTrackStructure\",\"markers\":[0,16560,34464,50544,67104,83616,100176,116736,133296,149760,166176,182640,199104,215568,231984,248448,264912,281376,297792,314400,331008,347616,364224,380832,397392,414000,430608,447216,463824,480432,496992,513600,530208,546816,563425,579985,596497,613057,629617,646177,662737,679297,695809,712369,728929,745489,762049,778609,795121,811681,828241,844801,861361,877921,894433,910993,927409,943825,960289,976705,993121,1009537,1025953,1043137,1060321,1076929,1093489,1110097,1126705,1143314,1159922,1176962,1194050,1209938,1225874,1242386,1258898,1275458,1291970,1308482,1324994,1341506,1358066,1374578,1391090,1407602,1424162],\"signatures\":[{\"__class\":\"MusicSignature\",\"marker\":0,\"beats\":4}],\"startBeat\":-2,\"endBeat\":300,\"fadeStartBeat\":0,\"useFadeStartBeat\":false,\"fadeEndBeat\":0,\"useFadeEndBeat\":false,\"videoStartTime\":0,\"previewEntry\":0,\"previewLoopStart\":0,\"previewLoopEnd\":48,\"volume\":0,\"fadeInDuration\":0,\"fadeInType\":0,\"fadeOutDuration\":0,\"fadeOutType\":0},\"path\":\"\",\"url\":\"jmcs://jd-contents/TheLazySong/TheLazySong_AudioPreview.ogg\"}",
+            "coachCount": 1,
+            "credits": "All rights of the producer and other rightholders to the recorded work reserved. Unless otherwise authorized, the duplication, rental, loan, exchange or use of this video game for public performance, broadcasting and online distribution to the public are prohibited.",
+            "difficulty": 1,
+            "jdmAttributes": [],
+            "lyricsColor": "FFFF00FF",
+            "lyricsType": 0,
+            "mainCoach": -1,
+            "mapLength": 184.898,
+            "mapName": "TheLazySong",
+            "mode": 6,
+            "originalJDVersion": 4,
+            "packages": {
+                  "mapContent": "TheLazySong_mapContent"
+            },
+            "parentMapName": "TheLazySong",
+            "skuIds": [],
+            "songColors": {
+                  "songColor_1A": "DF892DFF",
+                  "songColor_1B": "C67422FF",
+                  "songColor_2A": "6A1D0DFF",
+                  "songColor_2B": "571E0DFF"
+            },
+            "status": 3,
+            "sweatDifficulty": 1,
+            "tags": [],
+            "title": "The Lazy Song",
+            "urls": {
+                  "jmcs://jd-contents/TheLazySong/TheLazySong_AudioPreview.ogg": "https://cdn.discordapp.com/attachments/833077639131955210/985175766910271508/TheLazySong_AudioPreview.ogg"
+            },
+            "serverChangelist": 0
+      },
+      "WhatMakesYouBeautiful": {
+            "artist": "One Direction",
+            "assets": {
+                  "banner_bkgImageUrl": "https://cdn.discordapp.com/attachments/989826537643724821/989826852984078406/whatmakesyoubeautiful_banner_bkg.png",
+                  "coach1ImageUrl": "https://cdn.discordapp.com/attachments/989826537643724821/989826850824024095/whatmakesyoubeautiful_coach_1.png",
+                  "coach2ImageUrl": "https://cdn.discordapp.com/attachments/989826537643724821/989826851071467560/whatmakesyoubeautiful_coach_2.png",
+                  "coach3ImageUrl": "https://cdn.discordapp.com/attachments/989826537643724821/989826851276980224/whatmakesyoubeautiful_coach_3.png",
+                  "coach4ImageUrl": "https://cdn.discordapp.com/attachments/989826537643724821/989826851495100426/whatmakesyoubeautiful_coach_4.png",
+                  "coverImageUrl": "https://cdn.discordapp.com/attachments/989826537643724821/989826852220706836/whatmakesyoubeautiful_cover_generic.png",
+                  "cover_smallImageUrl": "https://cdn.discordapp.com/attachments/989826537643724821/989826852447191120/whatmakesyoubeautiful_cover_online.png",
+                  "expandCoachImageUrl": "https://cdn.discordapp.com/attachments/989826537643724821/989831424959983666/whatmakesyoubeautiful_cover_albumcoach.png",
+                  "phoneCoach1ImageUrl": "https://cdn.discordapp.com/attachments/989826537643724821/989832295835897936/WhatMakesYouBeautiful_Coach_1_Phone.png",
+                  "phoneCoach2ImageUrl": "https://cdn.discordapp.com/attachments/989826537643724821/989832296511197204/WhatMakesYouBeautiful_Coach_2_Phone.png",
+                  "phoneCoach3ImageUrl": "https://cdn.discordapp.com/attachments/989826537643724821/989832296276312124/WhatMakesYouBeautiful_Coach_3_Phone.png",
+                  "phoneCoach4ImageUrl": "https://cdn.discordapp.com/attachments/989826537643724821/989832296041422898/WhatMakesYouBeautiful_Coach_4_Phone.png",
+                  "phoneCoverImageUrl": "https://cdn.discordapp.com/attachments/989826537643724821/989831721912508446/unknown.png"
+            },
+            "audioPreviewData": "{\"__class\":\"MusicTrackData\",\"structure\":{\"__class\":\"MusicTrackStructure\",\"markers\":[0, 30863, 53903, 76943, 99983, 123023, 146063, 169103, 192143, 215183, 238223, 261263, 284303, 307343, 330383, 353423, 376463, 399503, 422543, 445583, 468623, 491663, 514703, 537743, 560783, 583823, 606863, 629903, 652943, 675983, 699023, 722063, 745103, 768143, 791183, 814223, 837263, 860303, 883343, 906383, 929423, 952463, 975502, 998542, 1021582, 1044622, 1067662, 1090702, 1113742, 1136782, 1159822, 1182862, 1205902, 1228942, 1251982, 1275022, 1298062, 1321102, 1344142, 1367182, 1390222, 1413262, 1436302, 1459342, 1482382, 1505422, 1528462, 1551502, 1574542, 1597582, 1620622, 1643662, 1666702, 1689742, 1712782, 1735822, 1758862, 1781902, 1804942, 1827982, 1851022, 1874062, 1897102, 1920142, 1943181, 1966221, 1989261, 2012301, 2035341, 2058381, 2081421, 2104461, 2127501, 2150541, 2173581, 2196621, 2219661, 2242701, 2265741, 2288781, 2311821, 2334861, 2357901, 2380941, 2403981, 2427021, 2450061, 2473101, 2496141, 2519181, 2542221, 2565261, 2588301, 2611341, 2634381, 2657421, 2680461, 2703501, 2726541, 2749581, 2772621, 2795661, 2818701, 2841741, 2864781, 2887821, 2910861, 2933900, 2956940, 2979980, 3003020, 3026060, 3049100, 3072140, 3095180, 3118220, 3141260, 3164300, 3187340, 3210380, 3233420, 3256460, 3279500, 3302540, 3325580, 3348620, 3371660, 3394700, 3417740, 3440780, 3463820, 3486860, 3509900, 3532940, 3555980, 3579020, 3602060, 3625100, 3648140, 3671180, 3694220, 3717260, 3740300, 3763340, 3786380, 3809420, 3832460, 3855500, 3878540, 3901579, 3924619, 3947659, 3970699, 3993739, 4016779, 4039819, 4062859, 4085899, 4108939, 4131979, 4155019, 4178059, 4201099, 4224139, 4247179, 4270219, 4293259, 4316299, 4339339, 4362379, 4385419, 4408459, 4431499, 4454539, 4477579, 4500619, 4523659, 4546699, 4569739, 4592779, 4615819, 4638859, 4661899, 4684939, 4707979, 4731019, 4754059, 4777099, 4800139, 4823179, 4846219, 4869258, 4892298, 4915338, 4938378, 4961418, 4984458, 5007498, 5030538, 5053578, 5076618, 5099658, 5122698, 5145738, 5168778, 5191818, 5214858, 5237898, 5260938, 5283978, 5307018, 5330058, 5353098, 5376138, 5399178, 5422218, 5445258, 5468298, 5491338, 5514378, 5537418, 5560458, 5583498, 5606538, 5629578, 5652618, 5675658, 5698698, 5721738, 5744778, 5767818, 5790858, 5813898, 5836937, 5859977, 5883017, 5906057, 5929097, 5952137, 5975177, 5998217, 6021257, 6044297, 6067337, 6090377, 6113417, 6136457, 6159497, 6182537, 6205577, 6228617, 6251657, 6274697, 6297737, 6320777, 6343817, 6366857, 6389897, 6412937, 6435977, 6459017, 6482057, 6505097, 6528137, 6551177, 6574217, 6597257, 6620297, 6643337, 6666377, 6689417, 6712457, 6735497, 6758537, 6781577, 6804616, 6827656, 6850696, 6873736, 6896776, 6919816, 6942856, 6965896, 6988936, 7011976, 7035016, 7058056, 7081096, 7104136, 7127176, 7150216, 7173256, 7196296, 7219336, 7242376, 7265416, 7288456, 7311496, 7334536, 7357576, 7380616, 7403656, 7426696, 7449736, 7472776, 7495816, 7518856, 7541896, 7564936, 7587976, 7611016, 7634056, 7657096, 7680136, 7703176, 7726216, 7749256, 7772295, 7795335, 7818375, 7841415, 7864455, 7887495, 7910535, 7933575, 7956615, 7979655, 8002695, 8025735, 8048775, 8071815, 8094855, 8117895, 8140935, 8163975, 8187015, 8210055, 8233095, 8256135, 8279175, 8302215, 8325255, 8348295, 8371335, 8394375, 8417415, 8440455, 8463495, 8486535, 8509575, 8532615, 8555655, 8578695, 8601735, 8624775, 8647815, 8670855, 8693895, 8716935, 8739975, 8763014, 8786054, 8809094, 8832134, 8855174, 8878214, 8901254, 8924294, 8947334, 8970374, 8993414, 9016454, 9039494, 9062534, 9085574, 9108614, 9131654, 9154694, 9177734, 9200774, 9223814, 9246854, 9269894, 9292934, 9315974, 9339014, 9362054, 9385094, 9408134, 9431174, 9454214, 9477254, 9500294, 9523334, 9546374, 9569414, 9592454, 9615494, 9638534, 9661574, 9684614, 9707654, 9714854],\"signatures\":[{\"__class\":\"MusicSignature\",\"marker\":0,\"beats\":4}],\"startBeat\":-2,\"endBeat\":300,\"fadeStartBeat\":0,\"useFadeStartBeat\":false,\"fadeEndBeat\":0,\"useFadeEndBeat\":false,\"videoStartTime\":0,\"previewEntry\":0,\"previewLoopStart\":0,\"previewLoopEnd\":48,\"volume\":0,\"fadeInDuration\":0,\"fadeInType\":0,\"fadeOutDuration\":0,\"fadeOutType\":0},\"path\":\"\",\"url\":\"jmcs://jd-contents/WhatMakesYouBeautiful/WhatMakesYouBeautiful_AudioPreview.ogg\"}",
+            "coachCount": 4,
+            "credits": "",
+            "difficulty": 1,
+            "jdmAttributes": [],
+            "lyricsColor": "5431e0FF",
+            "lyricsType": 0,
+            "mainCoach": -1,
+            "mapLength": 184.898,
+            "mapName": "WhatMakesYouBeautiful",
+            "mode": 6,
+            "originalJDVersion": 4,
+            "packages": {
+                  "mapContent": "WhatMakesYouBeautiful_mapContent"
+            },
+            "parentMapName": "WhatMakesYouBeautiful",
+            "skuIds": [],
+            "songColors": {
+                  "songColor_1A": "221D54FF",
+                  "songColor_1B": "2D2770FF",
+                  "songColor_2A": "3F7AC6FF",
+                  "songColor_2B": "5C8BC4FF"
+            },
+            "status": 3,
+            "sweatDifficulty": 1,
+            "tags": [],
+            "title": "What Makes You Beautiful",
+            "urls": {
+                  "jmcs://jd-contents/WhatMakesYouBeautiful/WhatMakesYouBeautiful_AudioPreview.ogg": "https://cdn.discordapp.com/attachments/989826537643724821/989833085728194600/WhatMakesYouBeautiful.ogg"
+            },
+            "serverChangelist": 0
+      },
+      "RunTheShow": {
+            "artist": "Kat DeLuna Ft. Busta Rhymes",
+            "assets": {
+                  "banner_bkgImageUrl": "https://cdn.discordapp.com/attachments/887991751778910238/989544695795437678/runtheshow_banner_bkg.png",
+                  "coach1ImageUrl": "https://jd-s3.akamaized.net/public/map/RunTheShow/RunTheShow_Coach_1.png/a8209d935e091664a682ecd19b137340.png",
+                  "coach2ImageUrl": "https://jd-s3.akamaized.net/public/map/RunTheShow/RunTheShow_Coach_2.png/ec97b7096c92fdcf6f9835069bd163b0.png",
+                  "coverImageUrl": "https://jd-s3.akamaized.net/public/map/RunTheShow/RunTheShow_Cover_Generic.jpg/bdd33578dd9edaa9f6a70ea9858961d0.jpg",
+                  "cover_smallImageUrl": "https://jd-s3.akamaized.net/public/map/RunTheShow/RunTheShow_Cover_Online.jpg/474c481b604a761fea22ac0cf1bffcd1.jpg",
+                  "expandCoachImageUrl": "https://jd-s3.akamaized.net/public/map/RunTheShow/RunTheShow_Cover_AlbumCoach.png/825f46992625378e64ac3f16d5694706.png",
+                  "phoneCoach1ImageUrl": "https://jd-s3.akamaized.net/public/map/RunTheShow/RunTheShow_Coach_1_Phone.png/50bd0a543dc90c2e613c153933505c68.png",
+                  "phoneCoach2ImageUrl": "https://jd-s3.akamaized.net/public/map/RunTheShow/RunTheShow_Coach_2_Phone.png/1c9cacae031ff9b148727cbcb2d83054.png",
+                  "phoneCoverImageUrl": "https://jd-s3.akamaized.net/public/map/RunTheShow/RunTheShow_Cover_Phone.jpg/474c481b604a761fea22ac0cf1bffcd1.jpg"
+            },
+            "audioPreviewData": "{\"__class\":\"MusicTrackData\",\"structure\":{\"__class\":\"MusicTrackStructure\",\"markers\":[0, 33366, 66732, 100099, 127528, 154957, 182385, 209814, 237242, 264671, 292099, 319528, 346957, 374385, 401814, 429242, 456671, 484099, 511528, 538957, 566385, 593814, 621242, 648671, 676099, 703528, 730957, 758385, 785814, 813242, 840671, 868099, 895528, 922957, 950385, 977814, 1005242, 1032671, 1060099, 1087528, 1114957, 1142385, 1169814, 1197242, 1224671, 1252099, 1279528, 1306957, 1334385, 1361814, 1389242, 1416671, 1444099, 1471528, 1498957, 1526385, 1553814, 1581242, 1608671, 1636099, 1663528, 1690957, 1718385, 1745814, 1773242, 1800671, 1828099, 1855528, 1882957, 1910385, 1937814, 1965242, 1992671, 2020099, 2047528, 2074957, 2102385, 2129814, 2157242, 2184671, 2212099, 2239528, 2266957, 2294385, 2321814, 2349242, 2376671, 2404099, 2431528, 2458957, 2486385, 2513814, 2541242, 2568671, 2596099, 2623528, 2650957, 2678385, 2705814, 2733242, 2760671, 2788099, 2815528, 2842957, 2870385, 2897814, 2925242, 2952671, 2980099, 3007528, 3034957, 3062385, 3089814, 3117242, 3144671, 3172099, 3199528, 3226957, 3254385, 3281814, 3309242, 3336671, 3364099, 3391528, 3418957, 3446385, 3473814, 3501242, 3528671, 3556099, 3583528, 3610957, 3638385, 3665814, 3693242, 3720671, 3748099, 3775528, 3802957, 3830385, 3857814, 3885242, 3912671, 3940099, 3967528, 3994957, 4022385, 4049814, 4077242, 4104671, 4132099, 4159528, 4186957, 4214385, 4241814, 4269242, 4296671, 4324099, 4351528, 4378957, 4406385, 4433814, 4461242, 4488671, 4516099, 4543528, 4570957, 4598385, 4625814, 4653242, 4680671, 4708099, 4735528, 4762957, 4790385, 4817814, 4845242, 4872671, 4900099, 4927528, 4954957, 4982385, 5009814, 5037242, 5064671, 5092099, 5119528, 5146957, 5174385, 5201814, 5229242, 5256671, 5284099, 5311528, 5338957, 5366385, 5393814, 5421242, 5448671, 5476099, 5503528, 5530957, 5558385, 5585814, 5613242, 5640671, 5668099, 5695528, 5722957, 5750385, 5777814, 5805242, 5832671, 5860099, 5887528, 5914957, 5942385, 5969814, 5997242, 6024671, 6052099, 6079528, 6106957, 6134385, 6161814, 6189242, 6216671, 6244099, 6271528, 6298957, 6326385, 6353814, 6381242, 6408671, 6436099, 6463528, 6490957, 6518385, 6545814, 6573242, 6600671, 6628099, 6655528, 6682957, 6710385, 6737814, 6765242, 6792671, 6820099, 6847528, 6874957, 6902385, 6929814, 6957242, 6984671, 7012099, 7039528, 7066957, 7094385, 7121814, 7149242, 7176671, 7204099, 7231528, 7258957, 7286385, 7313814, 7341242, 7368671, 7396099, 7423528, 7450957, 7478385, 7505814, 7533242, 7560671, 7588099, 7615528, 7642957, 7670385, 7697814, 7725242, 7752671, 7780099, 7807528, 7834957, 7862385, 7889814, 7917242, 7944671, 7972099, 7999528, 8026957, 8054385, 8081814, 8109242, 8136671, 8164099, 8191528, 8218957, 8246385, 8273814, 8301242, 8328671, 8356099, 8383528, 8410957, 8438385, 8465814, 8493242, 8520671, 8548099, 8575528, 8602957, 8630385, 8657814, 8685242, 8712671, 8740099, 8767528, 8794957, 8822385, 8849814, 8877242, 8904671, 8932099, 8959528, 8986957, 9014385, 9041814, 9069242, 9096671, 9124099, 9151528, 9178957, 9206385, 9233814, 9261242, 9288671, 9316099, 9343528, 9370957, 9398385, 9425814, 9453242, 9480671, 9508099, 9535528, 9562957, 9590385, 9617814, 9645242, 9672671, 9700099, 9727528, 9754957, 9782385, 9809814, 9837242, 9864671, 9892099, 9919528, 9946957, 9974385, 10001814, 10029242, 10056671, 10084099, 10111528, 10138957, 10166385, 10193814, 10221242, 10248671, 10276099, 10303528, 10330957, 10358385, 10385814, 10416560, 10447306, 10478052, 10508798],\"signatures\":[{\"__class\":\"MusicSignature\",\"marker\":0,\"beats\":4}],\"startBeat\":-2,\"endBeat\":300,\"fadeStartBeat\":0,\"useFadeStartBeat\":false,\"fadeEndBeat\":0,\"useFadeEndBeat\":false,\"videoStartTime\":0,\"previewEntry\":0,\"previewLoopStart\":0,\"previewLoopEnd\":48,\"volume\":0,\"fadeInDuration\":0,\"fadeInType\":0,\"fadeOutDuration\":0,\"fadeOutType\":0},\"path\":\"\",\"url\":\"jmcs://jd-contents/RunTheShow/RunTheShow_AudioPreview.ogg\"}",
+            "coachCount": 2,
+            "credits": "Written by Jane't Sewell-Ulepic, Kat DeLuna, Shaka Dee, Trevor Smith and Nadir Khyat. Published by EMI April Music Inc. (ASCAP) / Delunatunes LLC (BMI)/ Songs of Redone (BMI)/ Sony/ATV Songs LLC (BMI). All Rights Reserved. Used by Permission. Courtesy of Epic Records. By arrangement with Sony Music Licensing. Busta Rhymes appears courtesy of Aftermath/Interscope Records under license from Universal Music Enterprises.",
+            "difficulty": 2,
+            "jdmAttributes": [],
+            "lyricsColor": "00A87DFF",
+            "lyricsType": 0,
+            "mainCoach": -1,
+            "mapLength": 184.898,
+            "mapName": "RunTheShow",
+            "mapPreviewMpd": "<?xml version=\"1.0\"?>\r\n<MPD xmlns:xsi=\"http://www.w3.org/2001/XMLSchema-instance\" xmlns=\"urn:mpeg:DASH:schema:MPD:2011\" xsi:schemaLocation=\"urn:mpeg:DASH:schema:MPD:2011\" type=\"static\" mediaPresentationDuration=\"PT30S\" minBufferTime=\"PT1S\" profiles=\"urn:webm:dash:profile:webm-on-demand:2012\">\r\n\t<Period id=\"0\" start=\"PT0S\" duration=\"PT30S\">\r\n\t\t<AdaptationSet id=\"0\" mimeType=\"video/webm\" codecs=\"vp9\" lang=\"eng\" maxWidth=\"720\" maxHeight=\"370\" subsegmentAlignment=\"true\" subsegmentStartsWithSAP=\"1\" bitstreamSwitching=\"true\">\r\n\t\t\t<Representation id=\"0\" bandwidth=\"647267\">\r\n\t\t\t\t<BaseURL>jmcs://jd-contents/RunTheShow/RunTheShow_MapPreviewNoSoundCrop_LOW.vp9.webm</BaseURL>\r\n\t\t\t\t<SegmentBase indexRange=\"639-1129\">\r\n\t\t\t\t\t<Initialization range=\"0-639\" />\r\n\t\t\t\t</SegmentBase>\r\n\t\t\t</Representation>\r\n\t\t\t<Representation id=\"1\" bandwidth=\"1489308\">\r\n\t\t\t\t<BaseURL>jmcs://jd-contents/RunTheShow/RunTheShow_MapPreviewNoSoundCrop_MID.vp9.webm</BaseURL>\r\n\t\t\t\t<SegmentBase indexRange=\"639-1129\">\r\n\t\t\t\t\t<Initialization range=\"0-639\" />\r\n\t\t\t\t</SegmentBase>\r\n\t\t\t</Representation>\r\n\t\t\t<Representation id=\"2\" bandwidth=\"2964832\">\r\n\t\t\t\t<BaseURL>jmcs://jd-contents/RunTheShow/RunTheShow_MapPreviewNoSoundCrop_HIGH.vp9.webm</BaseURL>\r\n\t\t\t\t<SegmentBase indexRange=\"639-1129\">\r\n\t\t\t\t\t<Initialization range=\"0-639\" />\r\n\t\t\t\t</SegmentBase>\r\n\t\t\t</Representation>\r\n\t\t\t<Representation id=\"3\" bandwidth=\"5892907\">\r\n\t\t\t\t<BaseURL>jmcs://jd-contents/RunTheShow/RunTheShow_MapPreviewNoSoundCrop_ULTRA.vp9.webm</BaseURL>\r\n\t\t\t\t<SegmentBase indexRange=\"639-1136\">\r\n\t\t\t\t\t<Initialization range=\"0-639\" />\r\n\t\t\t\t</SegmentBase>\r\n\t\t\t</Representation>\r\n\t\t</AdaptationSet>\r\n\t</Period>\r\n</MPD>\r\n",
+            "mode": 6,
+            "originalJDVersion": 4,
+            "packages": {
+                  "mapContent": "RunTheShow_mapContent"
+            },
+            "parentMapName": "RunTheShow",
+            "skuIds": [],
+            "songColors": {
+                  "songColor_1A": "00B68FFF",
+                  "songColor_1B": "19FAD3FF",
+                  "songColor_2A": "0C68E3FF",
+                  "songColor_2B": "226CCCFF"
+            },
+            "status": 3,
+            "sweatDifficulty": 1,
+            "tags": [],
+            "title": "Run The Show",
+            "urls": {
+                  "jmcs://jd-contents/RunTheShow/RunTheShow_AudioPreview.ogg": "https://cdn.discordapp.com/attachments/887991751778910238/989545996377796678/RunTheShow.ogg"
+            },
+            "serverChangelist": 0
+   },
+      "Tightrope": {
+            "artist": "Janelle Monae",
+            "assets": {
+                  "banner_bkgImageUrl": "https://jd-s3.akamaized.net/public/map/Tightrope/Tightrope_map_bkg.jpg/5e1315ef8f7c1f7d2fa6b23d97adc9ce.jpg",
+                  "coach1ImageUrl": "https://jd-s3.akamaized.net/public/map/Tightrope/Tightrope_Coach_1.png/639a2c23c46a6f395e0e78aed0879857.png",
+                  "coverImageUrl": "https://jd-s3.akamaized.net/public/map/Tightrope/Tightrope_Cover_Generic.jpg/c8db70415ad2cc49c73b19b9c8cf97ed.jpg",
+                  "cover_smallImageUrl": "https://jd-s3.akamaized.net/public/map/Tightrope/Tightrope_Cover_Online.jpg/a4788181eb67d76acf3b7d50bd58db40.jpg",
+                  "expandCoachImageUrl": "https://jd-s3.akamaized.net/public/map/Tightrope/Tightrope_Cover_AlbumCoach.png/7795b342b2018843ae8c1867d1f35051.png",
+                  "phoneCoach1ImageUrl": "https://jd-s3.akamaized.net/public/map/Tightrope/Tightrope_Coach_1_Phone.png/63cf9b598008d278aedbb3ecdd3ffd21.png",
+                  "phoneCoverImageUrl": "https://jd-s3.akamaized.net/public/map/Tightrope/Tightrope_Cover_Phone.jpg/a4788181eb67d76acf3b7d50bd58db40.jpg"
+            },
+            "audioPreviewData": "{\"__class\":\"MusicTrackData\",\"structure\":{\"__class\":\"MusicTrackStructure\",\"markers\":[0, 23621, 40764, 57906, 75049, 92192, 109335, 126478, 143621, 160764, 177906, 195049, 212192, 229335, 246478, 263621, 280764, 297906, 315049, 332192, 349335, 366478, 383621, 400764, 417906, 435049, 452192, 469335, 486478, 503621, 520764, 537906, 555049, 572192, 589335, 606478, 623621, 640764, 657906, 675049, 692192, 709335, 726478, 743621, 760764, 777906, 795049, 812192, 829335, 846478, 863621, 880764, 897906, 915049, 932192, 949335, 966478, 983621, 1000764, 1017906, 1035049, 1052192, 1069335, 1086478, 1103621, 1120764, 1137906, 1155049, 1172192, 1189335, 1206478, 1223621, 1240764, 1257906, 1275049, 1292192, 1309335, 1326478, 1343621, 1360764, 1377906, 1395049, 1412192, 1429335, 1446478, 1463621, 1480764, 1497906, 1515049, 1532192, 1549335, 1566478, 1583621, 1600764, 1617906, 1635049, 1652192, 1669335, 1686478, 1703621, 1720764, 1737906, 1755049, 1772192, 1789335, 1806478, 1823621, 1840764, 1857906, 1875049, 1892192, 1909335, 1926478, 1943621, 1960764, 1977906, 1995049, 2012192, 2029335, 2046478, 2063621, 2080764, 2097906, 2115049, 2132192, 2149335, 2166478, 2183621, 2200764, 2217906, 2235049, 2252192, 2269335, 2286478, 2303621, 2320764, 2337906, 2355049, 2372192, 2389335, 2406478, 2423621, 2440764, 2457906, 2475049, 2492192, 2509335, 2526478, 2543621, 2560764, 2577906, 2595049, 2612192, 2629335, 2646478, 2663621, 2680764, 2697906, 2715049, 2732192, 2749335, 2766478, 2783621, 2800764, 2817906, 2835049, 2852192, 2869335, 2886478, 2903621, 2920764, 2937906, 2955049, 2972192, 2989335, 3006478, 3023621, 3040764, 3057906, 3075049, 3092192, 3109335, 3126478, 3143621, 3160764, 3177906, 3195049, 3212192, 3229335, 3246478, 3263621, 3280764, 3297906, 3315049, 3332192, 3349335, 3366478, 3383621, 3400764, 3417906, 3435049, 3452192, 3469335, 3486478, 3503621, 3520764, 3537906, 3555049, 3572192, 3589335, 3606478, 3623621, 3640764, 3657906, 3675049, 3692192, 3709335, 3726478, 3743621, 3760764, 3777906, 3795049, 3812192, 3829335, 3846478, 3863621, 3880764, 3897906, 3915049, 3932192, 3949335, 3966478, 3983621, 4000764, 4017906, 4035049, 4052192, 4069335, 4086478, 4103621, 4120764, 4137906, 4155049, 4172192, 4189335, 4206478, 4223621, 4240764, 4257906, 4275049, 4292192, 4309335, 4326478, 4343621, 4360764, 4377906, 4395049, 4412192, 4429335, 4446478, 4463621, 4480764, 4497906, 4515049, 4532192, 4549335, 4566478, 4583621, 4600764, 4617906, 4635049, 4652192, 4669335, 4686478, 4703621, 4720764, 4737906, 4755049, 4772192, 4789335, 4806478, 4823621, 4840764, 4857906, 4875049, 4892192, 4909335, 4926478, 4943621, 4960764, 4977906, 4995049, 5012192, 5029335, 5046478, 5063621, 5080764, 5097906, 5115049, 5132192, 5149335, 5166478, 5183621, 5200764, 5217906, 5235049, 5252192, 5269335, 5286478, 5303621, 5320764, 5337906, 5355049, 5372192, 5389335, 5406478, 5423621, 5440764, 5457906, 5475049, 5492192, 5509335, 5526478, 5543621, 5560764, 5577906, 5595049, 5612192, 5629335, 5646478, 5663621, 5680764, 5697906, 5715049, 5732192, 5749335, 5766478, 5783621, 5800764, 5817906, 5835049, 5852192, 5869335, 5886478, 5903621, 5920764, 5937906, 5955049, 5972192, 5989335, 6006478, 6023621, 6040764, 6057906, 6075049, 6092192, 6109335, 6126478, 6143621, 6160764, 6177906, 6195049, 6212192, 6229335, 6246478, 6263621, 6280764, 6297906, 6315049, 6332192, 6349335, 6366478, 6383621, 6400764, 6417906, 6435049, 6452192, 6469335, 6486478, 6503621, 6520764, 6537906, 6555049, 6572192, 6589335, 6606478, 6623621, 6640764, 6657906, 6675049, 6692192, 6709335, 6726478, 6743621, 6760764, 6777906, 6795049, 6812192, 6829335, 6846478, 6863621, 6880764, 6897906, 6915049, 6932192, 6949335, 6966478, 6983621, 7000764, 7017906, 7035049, 7052192, 7069335, 7086478, 7103621, 7120764, 7137906, 7155049, 7172192, 7189335, 7206478, 7223621, 7240764, 7257906, 7275049, 7292192, 7309335, 7326478, 7343621, 7360764, 7377906, 7395049, 7412192, 7429335, 7446478, 7463621, 7480764, 7497906, 7515049, 7532192, 7549335, 7566478, 7583621, 7600764, 7617906, 7635049, 7652192, 7669335, 7686478, 7703621, 7720764, 7737906, 7755049, 7772192, 7789335, 7806478, 7823621, 7840764, 7857906, 7875049, 7892192, 7909335, 7926478, 7943621, 7960764, 7977906, 7995049, 8012192, 8029335, 8046478, 8063621, 8080764, 8097906, 8115049, 8132192, 8149335, 8166478, 8183621, 8200764, 8217906, 8235049, 8252192, 8269335, 8286478, 8303621, 8320764, 8337906, 8355049, 8372192, 8389335, 8406478, 8423621, 8440764, 8457906, 8475049, 8492192, 8509335, 8526478, 8543621, 8560764, 8577906, 8595049, 8612192, 8629335, 8646478, 8663621, 8680764, 8697906, 8715049, 8732192, 8749335, 8766478, 8783621, 8800764, 8817906, 8835049, 8852192, 8869335, 8886478, 8903621, 8920764, 8937906, 8955049, 8972192, 8989335, 9006478, 9023621, 9040764, 9057906, 9075049, 9092192, 9109335, 9126478, 9143621, 9160764, 9177906, 9195049, 9212192, 9229335, 9246478, 9263621, 9280764, 9297906, 9315049, 9332192, 9349335, 9366478, 9383621, 9400764, 9417906, 9435049, 9452192, 9469335, 9486478, 9503621, 9520764, 9537906, 9555049, 9572192, 9589335, 9606478, 9623621, 9640764, 9657906, 9675049, 9692192, 9709335, 9726478, 9743621, 9760764, 9777906, 9795049, 9812192, 9829335, 9846478, 9863621, 9880764, 9897906, 9915049, 9932192, 9949335, 9966478, 9983621, 10000764, 10017906, 10035049, 10052192, 10069335, 10086478, 10103621, 10120764, 10137906, 10155049, 10172192, 10189335, 10206478, 10223621, 10240764, 10257906, 10275049, 10292192, 10309335, 10326478, 10343621, 10360764, 10377906, 10395049, 10412192, 10429335, 10446478, 10463621, 10480764, 10497906, 10515049, 10532192, 10549335, 10566478, 10583621, 10600764, 10617906, 10635049, 10652192, 10669335, 10686478, 10703621, 10720764, 10737906, 10755049, 10772192, 10789335, 10806478, 10823621, 10840765],\"signatures\":[{\"__class\":\"MusicSignature\",\"marker\":0,\"beats\":4}],\"startBeat\":-2,\"endBeat\":300,\"fadeStartBeat\":0,\"useFadeStartBeat\":false,\"fadeEndBeat\":0,\"useFadeEndBeat\":false,\"videoStartTime\":0,\"previewEntry\":0,\"previewLoopStart\":0,\"previewLoopEnd\":48,\"volume\":0,\"fadeInDuration\":0,\"fadeInType\":0,\"fadeOutDuration\":0,\"fadeOutType\":0},\"path\":\"\",\"url\":\"jmcs://jd-contents/Tightrope/Tightrope_AudioPreview.ogg\"}",
+            "coachCount": 1,
+            "credits": "Written by Antwan Patton, Nathaniel Irvin, Janelle Monae Robinson and Charles Joseph. Published by Chrysalis Songs on behalf of itself and Polar Bear Toenails Music, Inc. (BMI) and Wondaland Arts Society. All rights reserved. Used by permission. Courtesy of Bad Boy Records, LLC. Courtesy of Warner Music Canada Co.  All rights of the producer and other rightholders to the recorded work reserved. Unless otherwise authorized, the duplication, rental, loan, exchange or use of this video game for public performance, broadcasting and online distribution to the public are prohibited.",
+            "difficulty": 2,
+            "jdmAttributes": [],
+            "lyricsColor": "FF7604FF",
+            "lyricsType": 0,
+            "mainCoach": -1,
+            "mapLength": 184.898,
+            "mapName": "Tightrope",
+            "mode": 6,
+            "originalJDVersion": 3,
+            "packages": {
+                  "mapContent": "Tightrope_mapContent"
+            },
+            "parentMapName": "Tightrope",
+            "skuIds": [],
+            "songColors": {
+                  "songColor_1A": "6EB7DDFF",
+                  "songColor_1B": "C7E2FCFF",
+                  "songColor_2A": "C43A5BFF",
+                  "songColor_2B": "E6465EFF"
+            },
+            "status": 3,
+            "sweatDifficulty": 1,
+            "tags": [],
+            "title": "Tightrope (Solo Version)",
+            "urls": {
+                  "jmcs://jd-contents/Tightrope/Tightrope_AudioPreview.ogg": "https://cdn.discordapp.com/attachments/685517864706637965/989191878094250104/Tightrope.ogg"
+            },
+            "serverChangelist": 0
+   },
+   "SympathyDevil": {
+       "artist": "The Rolling Stones",
+       "assets": {
+           "banner_bkgImageUrl": "https://media.discordapp.net/attachments/980566129946791946/981284430599553104/SympathyDevil_banner_bkg.png",
+           "coach1ImageUrl": "https://jd-s3.akamaized.net/public/map/SympathyDevil/SympathyDevil_Coach_1.png/78e62b87f69c6fab5898237fb7894d18.png",
+           "coverImageUrl": "https://jd-s3.akamaized.net/public/map/SympathyDevil/SympathyDevil_Cover_Generic.jpg/89eafb2e513f5ce24bf86cc140642798.jpg",
+           "cover_smallImageUrl": "https://jd-s3.akamaized.net/public/map/SympathyDevil/SympathyDevil_Cover_Online.jpg/12f321b7304c5558ffbd4ccedf2708ad.jpg",
+           "expandCoachImageUrl": "https://jd-s3.akamaized.net/public/map/SympathyDevil/SympathyDevil_Cover_AlbumCoach.png/99866e11d4c2ac77fc652fba7c4006c1.png",
+           "phoneCoach1ImageUrl": "https://jd-s3.akamaized.net/public/map/SympathyDevil/SympathyDevil_Coach_1_Phone.png/e71bbe95d2f6cb35ddcc54d4d18294e0.png",
+           "phoneCoverImageUrl": "https://jd-s3.akamaized.net/public/map/SympathyDevil/SympathyDevil_Cover_Phone.jpg/12f321b7304c5558ffbd4ccedf2708ad.jpg"
+       },
+       "audioPreviewData": "{\"__class\":\"MusicTrackData\",\"structure\":{\"__class\":\"MusicTrackStructure\",\"markers\":[0, 39652, 69946, 95990, 120362, 139336, 163255, 187976, 212696, 237417, 262137, 286858, 311578, 336299, 361019, 385740, 410460, 435181, 459902, 484622, 509343, 534063, 558784, 583504, 608225, 632945, 657666, 682386, 707107, 731828, 756548, 781269, 805989, 830710, 855430, 880151, 904871, 929592, 954312, 979033, 1003754, 1028474, 1053195, 1077915, 1102636, 1127356, 1152077, 1176797, 1201518, 1226238, 1250959, 1275680, 1300400, 1325121, 1349841, 1374562, 1399282, 1424003, 1448723, 1473444, 1498164, 1522885, 1547605, 1572326, 1597047, 1621767, 1646488, 1671208, 1695929, 1720649, 1745370, 1770090, 1794811, 1819531, 1844252, 1868973, 1893693, 1918414, 1943134, 1967855, 1992575, 2017296, 2042016, 2066737, 2091457, 2116178, 2140899, 2165619, 2190340, 2215060, 2240695, 2265416, 2290136, 2314857, 2339577, 2364298, 2389018, 2413739, 2438459, 2463180, 2487900, 2512621, 2537342, 2562062, 2586783, 2611503, 2635218, 2659939, 2684659, 2709380, 2734100, 2758821, 2783541, 2808262, 2832982, 2857703, 2882423, 2907144, 2931865, 2956585, 2981306, 3006026, 3030747, 3055467, 3080188, 3104908, 3129629, 3154349, 3179070, 3203791, 3228511, 3253232, 3277952, 3302673, 3327393, 3352114, 3376834, 3401555, 3426275, 3450996, 3475717, 3500437, 3525158, 3549878, 3574599, 3599319, 3624040, 3648760, 3673481, 3698201, 3722922, 3747642, 3772363, 3797084, 3821804, 3846525, 3871245, 3895966, 3920686, 3945407, 3970127, 3994848, 4019568, 4044289, 4069010, 4093730, 4118451, 4143171, 4167892, 4192612, 4217333, 4242053, 4266774, 4291494, 4316215, 4340936, 4365656, 4390377, 4415097, 4439818, 4464538, 4489259, 4513979, 4538700, 4563420, 4588141, 4612862, 4637582, 4662303, 4687023, 4711744, 4736464, 4761185, 4785905, 4810626, 4835346, 4860067, 4884788, 4909508, 4934229, 4958949, 4983670, 5008390, 5033111, 5057831, 5082552, 5107272, 5131993, 5156714, 5181434, 5206155, 5230875, 5255596, 5280316, 5305037, 5329757, 5354478, 5379198, 5403919, 5428640, 5453360, 5478081, 5502801, 5527522, 5552242, 5576963, 5601683, 5626404, 5651124, 5675845, 5700565, 5725286, 5750007, 5774727, 5799448, 5824168, 5848889, 5873609, 5898330, 5923050, 5947771, 5972491, 5997212, 6021933, 6046653, 6071374, 6096094, 6120815, 6145535, 6170256, 6194976, 6219697, 6244417, 6269138, 6293859, 6318579, 6343300, 6368020, 6392741, 6417461, 6442182, 6466902, 6491623, 6516343, 6541064, 6565785, 6590505, 6615226, 6639946, 6664667, 6689387, 6714108, 6738828, 6763549, 6788269, 6812990, 6837711, 6862431, 6887152, 6911872, 6936593, 6961313, 6986034, 7010754, 7035475, 7060195, 7084916, 7109637, 7134357, 7159078, 7183977, 7208697, 7233418, 7258138, 7282859, 7307579, 7332300, 7357020, 7381741, 7406462, 7431182, 7455903, 7480623, 7505344, 7530064, 7554785, 7579505, 7604226, 7628946, 7653667, 7678388, 7703108, 7727829, 7752549, 7777270, 7801990, 7826711, 7851431, 7876152, 7900872, 7925593, 7950314, 7975034, 7999755, 8024475, 8049196, 8073916, 8098637, 8123357, 8148078, 8172798, 8197519, 8222240, 8246960, 8271681, 8296401, 8321122, 8345842, 8370563, 8395283, 8420004, 8444724, 8469445, 8494165, 8518886, 8543607, 8568327, 8593048, 8617768, 8642489, 8667209, 8691930, 8716650, 8741074, 8765794, 8790515, 8815235, 8839956, 8864677, 8889397, 8914118, 8938838, 8963559, 8988279, 9013000, 9037720, 9062441, 9087161, 9111882, 9136602, 9161323, 9186044, 9210764, 9235485, 9260205, 9284926, 9309646, 9334367, 9359087, 9383808, 9408528, 9433249, 9457970, 9482690, 9507411, 9532131, 9556852, 9581572, 9606293, 9631013, 9655734, 9680454, 9705175, 9729896, 9754616, 9779337, 9804057, 9828778, 9853498, 9878219, 9902939, 9927660, 9952380, 9977101, 10001822, 10026542, 10051263, 10075983, 10100704, 10125424, 10150145, 10174865, 10199586, 10224306, 10249027, 10273748, 10298468, 10323189, 10347909, 10372630, 10397350, 10422071, 10446791, 10471512, 10496232, 10520953, 10545674, 10570394, 10595115, 10619835, 10644556, 10669276, 10693997, 10718717, 10743438, 10768158, 10792879, 10817600, 10842320, 10867041, 10891761, 10916482, 10941202, 10965923, 10990643, 11015364, 11040084, 11064805, 11089525, 11114246, 11138967, 11163687, 11188408, 11213128, 11237849, 11262569, 11287290, 11312010, 11336731, 11361451, 11386172, 11410893, 11435613, 11460334, 11485054, 11509775, 11534495, 11559216, 11583936, 11608657, 11633377, 11658098, 11682819, 11707539, 11732260, 11756980, 11781701, 11806421, 11831142, 11855862, 11880583, 11905303, 11930024, 11954745, 11979465, 12004186, 12030460, 12055181, 12079902, 12104622, 12129343, 12154063, 12178784, 12204555, 12230326, 12256097, 12281868, 12307639, 12333410],\"signatures\":[{\"__class\":\"MusicSignature\",\"marker\":0,\"beats\":4}],\"startBeat\":-5,\"endBeat\":503,\"fadeStartBeat\":0,\"useFadeStartBeat\":false,\"fadeEndBeat\":0,\"useFadeEndBeat\":false,\"videoStartTime\":0,\"previewEntry\":0,\"previewLoopStart\":0,\"previewLoopEnd\":65,\"volume\":0,\"fadeInDuration\":0,\"fadeInType\":0,\"fadeOutDuration\":0,\"fadeOutType\":0},\"path\":\"\",\"url\":\"jmcs://jd-contents/SympathyDevil/SympathyDevil_AudioPreview.ogg\"}",
+       "coachCount": 1,
+       "credits": "Written by Mick Jagger and Keith Richards. Published by ABKCO Music, Inc. Courtesy of ABKCO Music & Records, Inc.  All rights of the producer and other rightholders to the recorded work reserved. Unless otherwise authorized, the duplication, rental, loan, exchange or use of this video game for public performance, broadcasting and online distribution to the public are prohibited.",
+       "difficulty": 2,
+       "doubleScoringType": -1,
+       "jdmAttributes": [],
+       "lyricsColor": "ff0000FF",
+       "lyricsType": 0,
+       "mainCoach": -1,
+       "mapLength": 231.243,
+       "mapName": "SympathyDevil",
+       "mode": 6,
+       "originalJDVersion": 2,
+       "packages": {
+           "mapContent": "SympathyDevil_mapContent"
+       },
+       "parentMapName": "SympathyDevil",
+       "skuIds": ["jd2017-nx-all", "jd2017-pc-ww", "jd2017-ps4-scea", "jd2017-ps4-scee", "jd2017-wiiu-noa", "jd2017-wiiu-noe", "jd2017-xone-emea", "jd2017-xone-ncsa"],
+       "songColors": {
+           "songColor_1A": "2E011CFF",
+           "songColor_1B": "75046FFF",
+           "songColor_2A": "1C154EFF",
+           "songColor_2B": "2E4888FF"
+       },
+       "status": 3,
+       "tags": ["Main", "subscribedSong"],
+       "title": "Sympathy For The Devil (Fatboy Slim Remix)",
+       "urls": {
+           "jmcs://jd-contents/SympathyDevil/SympathyDevil_AudioPreview.ogg": "https://jd-s3.akamaized.net/public/map/SympathyDevil/SympathyDevil_AudioPreview.ogg/39acf45683ded490e81d6fa0a39ce5da.ogg"
+       },
+       "serverChangelist": 350335
+	},
+	"ABBAAsGoodAsNew": {
+		"artist": "ABBA",
+		"assets": {
+			"banner_bkgImageUrl": "https://media.discordapp.net/attachments/833077639131955210/949063167739322388/ABBAAsGoodAsNew_banner_bkg.png",
+			"coach1ImageUrl": "https://media.discordapp.net/attachments/833077639131955210/949063168045510666/ABBAAsGoodAsNew_Coach_1.png",
+			"coverImageUrl": "https://media.discordapp.net/attachments/833077639131955210/949063168775315486/ABBAAsGoodAsNew_Cover_Generic.png",
+			"cover_smallImageUrl": "https://media.discordapp.net/attachments/833077639131955210/949063168968257536/ABBAAsGoodAsNew_Cover_Online.jpg",
+			"expandCoachImageUrl": "https://media.discordapp.net/attachments/833077639131955210/949063168553025546/ABBAAsGoodAsNew_Cover_AlbumCoach.png",
+			"phoneCoach1ImageUrl": "https://media.discordapp.net/attachments/833077639131955210/949063168292962396/ABBAAsGoodAsNew_Coach_1_Phone.png",
+			"phoneCoverImageUrl": "https://media.discordapp.net/attachments/833077639131955210/949063167516999751/ABBAAsGoodAsNew_Cover_Phone.jpg"
+		},
+		"audioPreviewData": "{\"__class\":\"MusicTrackData\",\"structure\":{\"__class\":\"MusicTrackStructure\",\"markers\":[0, 28895, 49631, 70367, 91055, 111791, 132527, 153215, 173951, 194687, 215375, 236111, 256847, 277535, 298271, 319007, 339695, 360431, 381167, 401855, 422591, 443279, 464015, 484751, 505439, 526175, 546911, 567599, 588335, 609071, 629759, 650494, 671230, 691918, 712654, 733390, 753646, 773950, 794254, 814558, 836110, 857710, 878398, 899134, 919870, 940558, 961294, 982030, 1002718, 1023454, 1044142, 1064878, 1085614, 1106302, 1127038, 1147774, 1168462, 1189198, 1209022, 1228894, 1249438, 1270029, 1290621, 1311501, 1332381, 1353261, 1374189, 1395069, 1415949, 1436829, 1457709, 1478589, 1499517, 1520397, 1541277, 1562157, 1583037, 1603917, 1624845, 1645725, 1666605, 1687485, 1708365, 1729293, 1750173, 1771053, 1791933, 1812765, 1833549, 1854381, 1875213, 1896044, 1916828, 1937660, 1958492, 1979276, 2000108, 2020940, 2041724, 2062556, 2083388, 2104172, 2125004, 2145836, 2166668, 2187452, 2208284, 2229116, 2249900, 2270732, 2291564, 2312348, 2333180, 2354012, 2374844, 2395628, 2416460, 2437292, 2458076, 2478908, 2499740, 2520140, 2540587, 2561035, 2581435, 2601883, 2622331, 2642731, 2663563, 2684395, 2705179, 2726011, 2746843, 2767675, 2788459, 2808859, 2829259, 2849659, 2870059, 2890459, 2910859, 2931259, 2951659, 2972059, 2992459, 3012859, 3033739, 3054619, 3075499, 3096379, 3117259, 3137947, 3158634, 3179322, 3200010, 3220698, 3241386, 3262074, 3282762, 3303450, 3324186, 3344874, 3365562, 3386250, 3406938, 3427626, 3448314, 3469002, 3489690, 3510378, 3531066, 3551754, 3572442, 3593130, 3613818, 3634554, 3655242, 3675930, 3696618, 3717306, 3737802, 3758346, 3778842, 3799337, 3819881, 3840377, 3860921, 3881417, 3901913, 3922457, 3942953, 3963497, 3983993, 4004537, 4025033, 4045529, 4066073, 4086569, 4107113, 4128041, 4148969, 4169897, 4190825, 4211753, 4232681, 4253609, 4274537, 4295465, 4316105, 4336745, 4357433, 4378073, 4398713, 4419401, 4440040, 4460728, 4481368, 4502008, 4522696, 4543336, 4563976, 4584664, 4605304, 4625992, 4646632, 4667272, 4687960, 4708600, 4729240, 4749928, 4770568, 4791208, 4811896, 4832536, 4853224, 4873864, 4894504, 4915192, 4936072, 4957000, 4977880, 4998808, 5019736, 5040616, 5061543, 5082423, 5103351, 5124231, 5145159, 5166087, 5186967, 5207895, 5228775, 5249703, 5270583, 5291511, 5312391, 5333319, 5354247, 5375127, 5396151, 5417127, 5438151, 5459127, 5480151, 5501127, 5522103, 5543127, 5564103, 5585127, 5606103, 5627127, 5648103, 5669127, 5690102, 5711126, 5731622, 5752166, 5772710, 5793206, 5813750, 5834294, 5854790, 5875334, 5895878, 5916374, 5936918, 5957462, 5977958, 5998502, 6019046, 6039590, 6060086, 6080630, 6101510, 6122390, 6143222, 6164102, 6184982, 6205862, 6226742, 6247622, 6268502, 6289382, 6310214, 6331093, 6351973, 6372853, 6393733, 6414613, 6435493, 6456325, 6477205, 6498085, 6518965, 6539845, 6560725, 6581605, 6602485, 6623317, 6644293, 6665221, 6686197, 6707125, 6728101, 6749029, 6770005, 6790933, 6811909, 6832837, 6853813, 6874741, 6895717, 6916645, 6937621, 6958548, 6979284, 7000068, 7020804, 7041540, 7062276, 7083060, 7103796, 7124532, 7145268, 7166052, 7186788, 7207524, 7228260, 7249044, 7269780, 7290516, 7311300, 7332036, 7352772, 7373748, 7394724, 7415700, 7436676, 7457652, 7478628, 7499556, 7520532, 7541508, 7562484, 7583459, 7604435, 7625411, 7646387, 7667363, 7688339, 7709171, 7730051, 7750931, 7771763, 7792643, 7813523, 7834355, 7855235, 7876115, 7896947, 7917827, 7938707, 7959539, 7980419, 8001251, 8022131, 8043011, 8063843, 8084723, 8105603, 8126435, 8147315, 8168195, 8189027, 8209906, 8230786, 8251618, 8272498, 8293378, 8314210, 8335090, 8355970, 8376802, 8397490, 8418178, 8438914, 8459602, 8480290, 8500978, 8521666, 8542354, 8563042, 8583730, 8604418, 8625154, 8645842, 8666530, 8687218, 8707906, 8728594, 8749282, 8770210, 8791138, 8812114, 8833042, 8853969, 8874897, 8895825, 8916753, 8937681, 8958609, 8979585, 9000513, 9021441, 9042369, 9063297, 9084225, 9105153, 9126081, 9146865, 9167601, 9188337, 9209073, 9229809, 9250545, 9271281, 9292017, 9312753, 9333489, 9354225, 9374961, 9395697, 9416433, 9437169, 9457953, 9479072, 9500192, 9521312, 9542480, 9563600, 9584720, 9605888, 9627008, 9647888, 9668816, 9689696, 9710624, 9731504, 9752432, 9773312, 9794240, 9815120, 9836048, 9856976, 9877856, 9898784, 9919664, 9940592, 9961472, 9982400, 10003280, 10024208, 10045088, 10066016, 10086896, 10102784],\"signatures\":[{\"__class\":\"MusicSignature\",\"marker\":0,\"beats\":4}],\"startBeat\":0,\"endBeat\":411,\"fadeStartBeat\":0,\"useFadeStartBeat\":false,\"fadeEndBeat\":0,\"useFadeEndBeat\":false,\"videoStartTime\":0,\"previewEntry\":0,\"previewLoopStart\":0,\"previewLoopEnd\":74,\"volume\":0,\"fadeInDuration\":0,\"fadeInType\":0,\"fadeOutDuration\":0,\"fadeOutType\":0},\"path\":\"\",\"url\":\"jmcs://jd-contents/abbaasgoodasnew/abbaasgoodasnew_AudioPreview.ogg\"}",
+		"coachCount": 1,
+		"credits": "Empty Credits",
+		"difficulty": 2,
+		"doubleScoringType": -1,
+		"jdmAttributes": [],
+		"lyricsColor": "0000FF",
+		"lyricsType": 0,
+		"mainCoach": -1,
+		"mapLength": 167.048,
+		"mapName": "ABBAAsGoodAsNew",
+		"mode": 6,
+		"originalJDVersion": 4884,
+		"packages": {
+			"mapContent": "ABBAAsGoodAsNew_mapContent"
+		},
+		"parentMapName": "ABBAAsGoodAsNew",
+		"skuIds": [],
+		"songColors": {
+			"songColor_1A": "FEB500FF",
+			"songColor_1B": "333333FF",
+			"songColor_2A": "FEC800FF",
+			"songColor_2B": "CD4F00FF"
+		},
+		"status": 3,
+		"sweatDifficulty": 1,
+		"tags": ["Main", "JDABBA", "subscribedSong", "ExcludedFromWDF", "ExcludedFromWDF-PC", "Quartet", "ABBA: You Can Dance", "Easy", "Sweat Low"],
+		"title": "As Good as New",
+		"urls": {
+			"jmcs://jd-contents/ABBAAsGoodAsNew/ABBAAsGoodAsNew_AudioPreview.ogg": "https://jd-s3.akamaized.net/public/map/ABBAAsGoodAsNew/ABBAAsGoodAsNew_AudioPreview.ogg/9a50b66f394f4e144add77835cf0f744.ogg"
+		},
+		"serverChangelist": 550935
+	},
+	"JDCGee": {
+		"artist": "Girls' Generation",
+		"assets": {
+			"banner_bkgImageUrl": "https://media.discordapp.net/attachments/833077639131955210/950509632022011925/JDCGee_banner_bkg.png",
+			"coach1ImageUrl": "https://jd-s3.akamaized.net/public/map/JDCGee/JDCGee_Coach_1.png/e67e46be62d00b1069eee205f015c8fe.png",
+			"coach2ImageUrl": "https://jd-s3.akamaized.net/public/map/JDCGee/JDCGee_Coach_2.png/bf1c2d191fae755606503c67b4f74e42.png",
+			"coach3ImageUrl": "https://media.discordapp.net/attachments/833077639131955210/950509979138424912/JDCGee_coach_3.png",
+			"coverImageUrl": "https://jd-s3.akamaized.net/public/map/JDCGee/JDCGee_Cover_Generic.jpg/5959f0e6fb304494e951d6c61c6f62cf.jpg",
+			"cover_smallImageUrl": "https://jd-s3.akamaized.net/public/map/JDCGee/JDCGee_Cover_Online.jpg/6433de42e30ebf3736e2bd71ac7d6891.jpg",
+			"expandCoachImageUrl": "https://jd-s3.akamaized.net/public/map/JDCGee/JDCGee_Cover_AlbumCoach.png/8183500b26b0ade53080f1dc14c35ed8.png",
+			"phoneCoach1ImageUrl": "https://jd-s3.akamaized.net/public/map/JDCGee/JDCGee_Coach_1_Phone.png/47f30ae299f05c0fe82471f59178193a.png",
+			"phoneCoach2ImageUrl": "https://jd-s3.akamaized.net/public/map/JDCGee/JDCGee_Coach_2_Phone.png/27b8946c6ef0cdb2c2da241fccd09b2b.png",
+			"phoneCoach3ImageUrl": "https://jd-s3.akamaized.net/public/map/JDCGee/JDCGee_Coach_3_Phone.png/ab0930ddc2a4bc9a8469397a0bb50dc8.png",
+			"phoneCoverImageUrl": "https://jd-s3.akamaized.net/public/map/JDCGee/JDCGee_Cover_Phone.jpg/6433de42e30ebf3736e2bd71ac7d6891.jpg"
+		},
+		"audioPreviewData": "{\"__class\":\"MusicTrackData\",\"structure\":{\"__class\":\"MusicTrackStructure\",\"markers\":[0, 28800, 57600, 86400, 115200, 144000, 172800, 201600, 230400, 259200, 288000, 316800, 345600, 374400, 403200, 432000, 460800, 489600, 518400, 547200, 576000, 604800, 633600, 662400, 691200, 720000, 748800, 777600, 806400, 835200, 864000, 892800, 921600, 950400, 979200, 1008000, 1036800, 1065600, 1094400, 1123200, 1152000, 1180800, 1209600, 1238400, 1267200, 1296000, 1324800, 1353600, 1382400, 1411200, 1440000, 1468800, 1497600, 1526400, 1555200, 1584000, 1612800, 1641600, 1670400, 1699200, 1728000, 1756800, 1785600, 1814400, 1843200, 1872000, 1900800, 1929600, 1958400, 1987200, 2016000, 2044800, 2073600, 2102400, 2131200, 2160000, 2188800, 2217600, 2246400, 2275200, 2304000, 2332800, 2361600, 2390400, 2419200, 2448000, 2476800, 2505600, 2534400, 2563200, 2592000, 2620800, 2649600, 2678400, 2707200, 2736000, 2764800, 2793600, 2822400, 2851200, 2880000, 2908800, 2937600, 2966400, 2995200],\"signatures\":[{\"__class\":\"MusicSignature\",\"marker\":0,\"beats\":4}],\"startBeat\":-5,\"endBeat\":280,\"fadeStartBeat\":0,\"useFadeStartBeat\":false,\"fadeEndBeat\":0,\"useFadeEndBeat\":false,\"videoStartTime\":0,\"previewEntry\":0,\"previewLoopStart\":0,\"previewLoopEnd\":45,\"volume\":0,\"fadeInDuration\":0,\"fadeInType\":0,\"fadeOutDuration\":0,\"fadeOutType\":0},\"path\":\"\",\"url\":\"jmcs://jd-contents/JDCGee/JDCGee_AudioPreview.ogg\"}",
+		"coachCount": 3,
+		"credits": "TO BE FILLED",
+		"difficulty": 2,
+		"doubleScoringType": -1,
+		"jdmAttributes": [],
+		"lyricsColor": "1584c6FF",
+		"lyricsType": 0,
+		"mainCoach": -1,
+		"mapLength": 300,
+		"mapName": "JDCGee",
+		"mapPreviewMpd": "<?xml version=\"1.0\"?>\r\n<MPD xmlns:xsi=\"http://www.w3.org/2001/XMLSchema-instance\" xmlns=\"urn:mpeg:DASH:schema:MPD:2011\" xsi:schemaLocation=\"urn:mpeg:DASH:schema:MPD:2011\" type=\"static\" mediaPresentationDuration=\"PT30S\" minBufferTime=\"PT1S\" profiles=\"urn:webm:dash:profile:webm-on-demand:2012\">\r\n\t<Period id=\"0\" start=\"PT0S\" duration=\"PT30S\">\r\n\t\t<AdaptationSet id=\"0\" mimeType=\"video/webm\" codecs=\"vp9\" lang=\"eng\" maxWidth=\"720\" maxHeight=\"370\" subsegmentAlignment=\"true\" subsegmentStartsWithSAP=\"1\" bitstreamSwitching=\"true\">\r\n\t\t\t<Representation id=\"0\" bandwidth=\"648877\">\r\n\t\t\t\t<BaseURL>jmcs://jd-contents/JDCGee/JDCGee_MapPreviewNoSoundCrop_LOW.vp9.webm</BaseURL>\r\n\t\t\t\t<SegmentBase indexRange=\"641-1131\">\r\n\t\t\t\t\t<Initialization range=\"0-641\" />\r\n\t\t\t\t</SegmentBase>\r\n\t\t\t</Representation>\r\n\t\t\t<Representation id=\"1\" bandwidth=\"1493834\">\r\n\t\t\t\t<BaseURL>jmcs://jd-contents/JDCGee/JDCGee_MapPreviewNoSoundCrop_MID.vp9.webm</BaseURL>\r\n\t\t\t\t<SegmentBase indexRange=\"641-1131\">\r\n\t\t\t\t\t<Initialization range=\"0-641\" />\r\n\t\t\t\t</SegmentBase>\r\n\t\t\t</Representation>\r\n\t\t\t<Representation id=\"2\" bandwidth=\"2984420\">\r\n\t\t\t\t<BaseURL>jmcs://jd-contents/JDCGee/JDCGee_MapPreviewNoSoundCrop_HIGH.vp9.webm</BaseURL>\r\n\t\t\t\t<SegmentBase indexRange=\"641-1131\">\r\n\t\t\t\t\t<Initialization range=\"0-641\" />\r\n\t\t\t\t</SegmentBase>\r\n\t\t\t</Representation>\r\n\t\t\t<Representation id=\"3\" bandwidth=\"5932938\">\r\n\t\t\t\t<BaseURL>jmcs://jd-contents/JDCGee/JDCGee_MapPreviewNoSoundCrop_ULTRA.vp9.webm</BaseURL>\r\n\t\t\t\t<SegmentBase indexRange=\"641-1138\">\r\n\t\t\t\t\t<Initialization range=\"0-641\" />\r\n\t\t\t\t</SegmentBase>\r\n\t\t\t</Representation>\r\n\t\t</AdaptationSet>\r\n\t</Period>\r\n</MPD>\r\n",
+		"mode": 6,
+		"originalJDVersion": 2017,
+		"packages": {
+			"mapContent": "JDCGee_mapContent"
+		},
+		"parentMapName": "JDCGee",
+		"skuIds": [],
+		"songColors": {
+			"songColor_1A": "E452C4FF",
+			"songColor_1B": "FC81ECFF",
+			"songColor_2A": "E7815CFF",
+			"songColor_2B": "F2AD87FF"
+		},
+		"status": 3,
+		"sweatDifficulty": 2,
+		"tags": ["Main", "subscribedSong"],
+		"title": "Gee",
+		"urls": {
+			"jmcs://jd-contents/JDCGee/JDCGee_AudioPreview.ogg": "https://cdn.discordapp.com/attachments/833077639131955210/950510790320988221/JDCGee_AudioPreview.ogg"
+		},
+		"serverChangelist": 0
+   },
+   "SOS": {
+       "artist": "Rihanna",
+       "assets": {
+           "banner_bkgImageUrl": "https://media.discordapp.net/attachments/833077639131955210/969316631887085648/SOS_banner_bkg.png",
+           "coach1ImageUrl": "https://media.discordapp.net/attachments/833077639131955210/969316632142950440/SOS_Coach_1.png",
+           "coverImageUrl": "https://media.discordapp.net/attachments/833077639131955210/969316632633675786/SOS_Cover_Generic.png",
+           "cover_smallImageUrl": "https://media.discordapp.net/attachments/833077639131955210/969316632633675786/SOS_Cover_Generic.png",
+           "expandCoachImageUrl": "https://media.discordapp.net/attachments/833077639131955210/969325520170913802/SOS_Cover_AlbumCoach.png",
+           "phoneCoach1ImageUrl": "https://media.discordapp.net/attachments/833077639131955210/969316632142950440/SOS_Coach_1.png",
+           "phoneCoverImageUrl": "https://media.discordapp.net/attachments/833077639131955210/969316632633675786/SOS_Cover_Generic.png"
+       },
+       "audioPreviewData": "{\"__class\":\"MusicTrackData\",\"structure\":{\"__class\":\"MusicTrackStructure\",\"markers\":[0,24000,48000,72000,96000,117072,138192,159264,180432,201360,222672,243408,264864,285456,306864,327504,348960,369552,390864,411600,433008,453936,475344,495648,517344,538176,559200,579744,601200,621792,643248,663840,685296,705936,727344,747936,769344,790368,811392,832416,853440,872736,895440,916176,937488,958176,979536,1000176,1021536,1041744,1063584,1084272,1105680,1126320,1147632,1168368,1189680,1210416,1231728,1252464,1273776,1294752,1315776,1336800,1357824,1378560,1399872,1420656,1442064,1462656,1485360,1504704,1525680,1546752,1567968,1588992,1610016,1630848,1652352,1672896,1694064,1714944,1736304,1756992,1778352,1799040,1820448,1841184,1862640,1883088,1904448,1925280,1946640,1967184,1988304,2009328,2030352,2051376,2072640,2093328,2114400,2135424,2156448,2177472,2198496,2219520,2240496,2261520,2282976,2303568,2324976,2345616,2367168,2387616,2409072,2429664,2451168,2471712,2493120,2513760,2534880,2555808,2577168,2597808,2619312,2639904,2661168,2681952,2703408,2724000,2745360,2766048,2787552,2808336,2829456,2850000,2871024,2892048,2913552,2934048,2955696,2976288,2997696,3018288,3039840,3060336,3081696,3102384,3123888,3144240,3165792,3186480,3208320,3228480,3249888,3270528,3291984,3312384,3333888,3354384,3375888,3396672,3418032,3438720,3460224,3480768,3502320,3523008,3543888,3564864,3585216,3606912,3628368,3648960,3670368,3691008,3712080,3733056,3754368,3775056,3796608,3817152,3838608,3859200,3880704,3901248,3922224,3943248,3964752,3985296,4006752,4027488,4048800,4069392,4090800,4111440,4131360,4153008,4174032,4195056,4216512,4237104,4258800,4279584,4301040,4321632,4342944,4363632,4385136,4405824,4426848,4447632,4468560,4489824,4511376,4532016,4553376,4573920,4594992,4615968,4637472,4657968,4679472,4700352,4721520,4742112,4763568,4784352,4805568,4826208,4847616,4868256,4889664,4910448,4933680,4952352,4975296,4994448,5017680,5036400,5057808,5078496,5099952,5120448,5141856,5162496,5183904,5204544,5225904,5246592,5267952,5288640,5310000,5331024,5352000,5373024,5394048,5414832,5436096,5456832,5478096,5499120,5520144,5540928,5562192,5582928,5604240,5624976,5646240,5667024,5688288,5709312,5730336,5751648,5772336,5793120,5814576,5835216,5856432,5877264,5898432,5919456,5940480,5961360,5982528,6003408,6024528,6045552,6066576,6087600,6108624,6129456,6150672,6171600,6192912,6213600,6234432,6255408,6276768,6298176,6319200,6339744,6361296,6381840,6402864,6423840,6444864,6465888,6487344,6507936,6529296,6549984,6571872,6591984,6613008,6634032,6655584,6676080,6697488,6718080,6739536,6760176,6781440,6802224,6823200,6844176,6865680,6886320,6907248,6928272,6949536,6970368,6991824,7012464,7033728,7054368,7075872,7096416,7117776,7138608,7159440,7180608,7202016,7222512,7243824,7264512,7285776,7306560,7328112,7348752,7369632,7390608,7411632,7432848,7454160,7474704,7495920,7516944,7538352,7558992,7580016,7600800,7622304,7643040,7664448,7685088,7706496,7726896,7748496,7769328,7790448,7811280,7832784,7853376,7874832,7895376,7916832,7937040,7958832,7979328,8000880,8021520,8043024,8063664,8084688,8105520,8126928,8148000,8169120,8189616,8211168,8231664,8252688,8273760,8294880,8315760,8336352,8357808,8378400,8399808,8421504,8441952,8463648,8484000,8505072,8526048,8546544,8568000,8589312,8610576,8631600,8652144,8673600,8694240,8715648,8736240,8757696,8778288,8799696,8820336,8841744,8862672,8882448,8904432,8925456,8946432,8967840,8988528,9009888,9030624,9051936,9072576,9093936,9114624,9135984,9156624,9178032,9198720,9220032,9241056,9262080,9282816,9304128,9324864,9346128,9367152,9388176,9409200,9430224,9451008,9472224,9493248,9514272,9535056,9556320,9577344,9598368,9619152,9640368,9661200,9682416,9703440,9724464,9745440,9766464,9787488,9808512,9829536,9850560,9871440,9892944,9913440,9935136,9955488,9976656,9997680,10019184,10039584,10061040,10081632,10102752,10123680,10145136,10165776,10186800,10207680,10229232,10249872,10270896,10291824,10313184,10333920,10355616,10375968,10397472,10417968,10439472,10460016,10481376,10502064,10523520,10544112,10565568,10586160,10607760,10628160,10649472,10670256,10691808,10712256,10733616,10754256,10775664,10796304,10817808,10838592,10859904,10880592,10901856,10922496,10943568,10965264,10985856,11006736,11028144,11048832,11069856,11090928,11112336,11133024,11154192,11174784,11196336,11216640,11238336,11258832,11280336,11301264,11322528,11342976,11364576,11384976,11406384,11427168,11448288,11469072,11490384,11511120,11532432,11553456,11574240,11595600,11617776,11640000],\"signatures\":[{\"__class\":\"MusicSignature\",\"marker\":0,\"beats\":4}],\"startBeat\":-5,\"endBeat\":503,\"fadeStartBeat\":0,\"useFadeStartBeat\":false,\"fadeEndBeat\":0,\"useFadeEndBeat\":false,\"videoStartTime\":0,\"previewEntry\":0,\"previewLoopStart\":0,\"previewLoopEnd\":65,\"volume\":0,\"fadeInDuration\":0,\"fadeInType\":0,\"fadeOutDuration\":0,\"fadeOutType\":0},\"path\":\"\",\"url\":\"jmcs://jd-contents/SOS/SOS_AudioPreview.ogg\"}",
+       "coachCount": 1,
+       "credits": "TO BE FILLED",
+       "difficulty": 2,
+       "doubleScoringType": -1,
+       "jdmAttributes": [],
+       "lyricsColor": "30D5C8FF",
+       "lyricsType": 0,
+       "mainCoach": -1,
+       "mapLength": 231.243,
+       "mapName": "SOS",
+       "mode": 6,
+       "originalJDVersion": 2,
+       "packages": {
+           "mapContent": "SOS_mapContent"
+       },
+       "parentMapName": "SOS",
+       "skuIds": ["jd2017-nx-all", "jd2017-pc-ww", "jd2017-ps4-scea", "jd2017-ps4-scee", "jd2017-wiiu-noa", "jd2017-wiiu-noe", "jd2017-xone-emea", "jd2017-xone-ncsa"],
+       "songColors": {
+           "songColor_1A": "3A2B6DFF",
+           "songColor_1B": "5C3EA5FF",
+           "songColor_2A": "141476FF",
+           "songColor_2B": "292FBFFF"
+       },
+       "status": 3,
+       "tags": ["Main", "subscribedSong"],
+       "title": "S.O.S.",
+       "urls": {
+           "jmcs://jd-contents/SOS/SOS_AudioPreview.ogg": "https://cdn.discordapp.com/attachments/833077639131955210/969316632801452042/SOS_AudioPreview.ogg"
+       },
+       "serverChangelist": 350335
+      },
+      "BeautifulLiar": {
+            "artist": "Countdown Mix Masters",
+            "assets": {
+                  "banner_bkgImageUrl": "https://media.discordapp.net/attachments/833077639131955210/985508815350927360/BeautifulLiar_banner_bkg.png",
+                  "coach1ImageUrl": "https://jd-s3.akamaized.net/public/map/BeautifulLiar/BeautifulLiar_Coach_1.png/1da425a9caf39f9b40f7fa7017d729b7.png",
+                  "coach2ImageUrl": "https://jd-s3.akamaized.net/public/map/BeautifulLiar/BeautifulLiar_Coach_2.png/27c179017d9dc2a602e019db7e634ec7.png",
+                  "coverImageUrl": "https://jd-s3.akamaized.net/public/map/BeautifulLiar/BeautifulLiar_Cover_Generic.jpg/9a1eb45c8cb114a36409ceb4b0813995.jpg",
+                  "cover_smallImageUrl": "https://jd-s3.akamaized.net/public/map/BeautifulLiar/BeautifulLiar_Cover_Online.jpg/0dcf68a4f608805b7de6bbba799d1241.jpg",
+                  "expandCoachImageUrl": "https://jd-s3.akamaized.net/public/map/BeautifulLiar/BeautifulLiar_Cover_AlbumCoach.png/a77b200b3fbd958d87800d5eb231bb71.png",
+                  "phoneCoach1ImageUrl": "https://jd-s3.akamaized.net/public/map/BeautifulLiar/BeautifulLiar_Coach_1_Phone.png/a82d3e67243bb5f73fc1eb58ebd718e5.png",
+                  "phoneCoach2ImageUrl": "https://jd-s3.akamaized.net/public/map/BeautifulLiar/BeautifulLiar_Coach_2_Phone.png/645ef694bd876d986c6053062a78244a.png",
+                  "phoneCoverImageUrl": "https://jd-s3.akamaized.net/public/map/BeautifulLiar/BeautifulLiar_Cover_Phone.jpg/0dcf68a4f608805b7de6bbba799d1241.jpg"
+            },
+            "audioPreviewData": "{\"__class\":\"MusicTrackData\",\"structure\":{\"__class\":\"MusicTrackStructure\",\"markers\":[0, 33460, 66921, 98224, 129528, 160831, 192134, 223438, 254741, 286045, 317348, 348652, 379955, 411258, 442562, 473865, 505169, 536472, 567775, 599079, 630382, 661686, 692989, 724292, 755596, 786899, 818203, 849506, 880809, 912113, 943416, 974720, 1006023, 1037326, 1068630, 1099933, 1131237, 1162540, 1193843, 1225147, 1256450, 1287754, 1319057, 1350360, 1381664, 1412967, 1444271, 1475574, 1506877, 1538181, 1569484, 1600788, 1632091, 1663394, 1694698, 1726001, 1757305, 1788608, 1819912, 1851215, 1882518, 1913822, 1945125, 1976429, 2007732, 2039035, 2070339, 2101642, 2132946, 2164249, 2195552, 2226856, 2258159, 2289463, 2320766, 2352069, 2383373, 2414676, 2445980, 2477283, 2508586, 2539890, 2571193, 2602497, 2633800, 2665103, 2696407, 2727710, 2759014, 2790317, 2821620, 2852924, 2884227, 2915531, 2946834, 2978137, 3009441, 3040744, 3072048, 3103351, 3134654, 3165958, 3197261, 3228565, 3259868, 3291171, 3322475, 3353778, 3385082, 3416385, 3447689, 3478992, 3510295, 3541599, 3572902, 3604206, 3635509, 3666812, 3698116, 3729419, 3760723, 3792026, 3823329, 3854633, 3885936, 3917240, 3948543, 3979846, 4011150, 4042453, 4073757, 4105060, 4136363, 4167667, 4198970, 4230274, 4261577, 4292880, 4324184, 4355487, 4386791, 4418094, 4449397, 4480701, 4512004, 4543308, 4574611, 4605914, 4637218, 4668521, 4699825, 4731128, 4762431, 4793735, 4825038, 4856342, 4887645, 4918949, 4950252, 4981555, 5012859, 5044162, 5075466, 5106769, 5138072, 5169376, 5200679, 5231983, 5263286, 5294589, 5325893, 5357196, 5388500, 5419803, 5451106, 5482410, 5513713, 5545017, 5576320, 5607623, 5638927, 5670230, 5701573, 5732837, 5764140, 5795444, 5826747, 5858051, 5889354, 5920657, 5951961, 5983264, 6014568, 6045871, 6077174, 6108478, 6139781, 6171085, 6202388, 6233691, 6264995, 6296298, 6327602, 6358905, 6390209, 6421512, 6452894, 6484119, 6515422, 6546726, 6578029, 6609332, 6640636, 6671939, 6703317, 6734546, 6765849, 6797153, 6828456, 6859760, 6891063, 6922366, 6953670, 6984973, 7016277, 7047580, 7078883, 7110187, 7141490, 7172794, 7204097, 7235400, 7266704, 7298007, 7329311, 7360614, 7391917, 7423221, 7454524, 7485828, 7517131, 7548434, 7579738, 7611041, 7642345, 7673648, 7704951, 7736255, 7767558, 7798862, 7830165, 7861469, 7892772, 7924075, 7955379, 7986682, 8017986, 8049289, 8080592, 8111896, 8143199, 8174503, 8205806, 8237109, 8268413, 8299716, 8331020, 8362323, 8393626, 8424930, 8456233, 8487537, 8518840, 8550143, 8581447, 8612750, 8644054, 8675357, 8706660, 8737964, 8769267, 8800571, 8831874, 8863177, 8894481, 8925784, 8957088, 8988391, 9019694, 9050998, 9082301, 9113605, 9144908, 9176211, 9207515, 9238818, 9270122, 9301425, 9332729, 9364032, 9395335, 9426639, 9457942, 9489246, 9520549, 9551852, 9583156, 9614459, 9645763, 9677066, 9708369, 9739673, 9784052, 9828431],\"signatures\":[{\"__class\":\"MusicSignature\",\"marker\":0,\"beats\":4}],\"startBeat\":-2,\"endBeat\":300,\"fadeStartBeat\":0,\"useFadeStartBeat\":false,\"fadeEndBeat\":0,\"useFadeEndBeat\":false,\"videoStartTime\":0,\"previewEntry\":0,\"previewLoopStart\":0,\"previewLoopEnd\":48,\"volume\":0,\"fadeInDuration\":0,\"fadeInType\":0,\"fadeOutDuration\":0,\"fadeOutType\":0},\"path\":\"\",\"url\":\"jmcs://jd-contents/BeautifulLiar/BeautifulLiar_AudioPreview.ogg\"}",
+            "coachCount": 2,
+            "credits": "Written by Amanda Ghost, Ian Alec Dench, Tor Erik Hermansen, Mikkel Storleer Eriksen, Beyonce Gisselle Knowles. . Published by Sony/ATV Music Publishing (UK) Ltd (PRS), Sony/ATV Music Publishing Canada (SOCAN), EMI April Music Inc. (ASCAP) and EMI Blackwood Music Inc. (BMI), Kobalt Music Services Ltd and David Platz Music (BMI) administered by The Royalty Network, Inc. All rights reserved. Used by permission. Courtesy of Countdown Media GmbH.  All rights of the producer and other rightholders to the recorded work reserved. Unless otherwise authorized, the duplication, rental, loan, exchange or use of this video game for public performance, broadcasting and online distribution to the public are prohibited.",
+            "difficulty": 2,
+            "jdmAttributes": [],
+            "lyricsColor": "fe00b7FF",
+            "lyricsType": 0,
+            "mainCoach": -1,
+            "mapLength": 184.898,
+            "mapName": "BeautifulLiar",
+            "mode": 6,
+            "originalJDVersion": 3,
+            "packages": {
+                  "mapContent": "BeautifulLiar_mapContent"
+            },
+            "parentMapName": "BeautifulLiar",
+            "skuIds": [],
+            "songColors": {
+                  "songColor_1A": "E79501FF",
+                  "songColor_1B": "B33D00FF",
+                  "songColor_2A": "A60183FF",
+                  "songColor_2B": "56036BFF"
+            },
+            "status": 3,
+            "sweatDifficulty": 1,
+            "tags": [],
+            "title": "Beautiful Liar",
+            "urls": {
+                  "jmcs://jd-contents/BeautifulLiar/BeautifulLiar_AudioPreview.ogg": "https://jd-s3.akamaized.net/public/map/BeautifulLiar/BeautifulLiar_AudioPreview.ogg/7d00780954abb5f709f309a5f3de5555.ogg"
+            },
+            "serverChangelist": 0
+      },
+      "AintNoOtherMan": {
+            "artist": "The Girly Team",
+            "assets": {
+                  "banner_bkgImageUrl": "https://jd-s3.akamaized.net/public/map/AintNoOtherMan/AintNoOtherMan_banner_bkg.jpg/326517639c73aef5a9cecbdf3216ca79.jpg",
+                  "coach1ImageUrl": "https://jd-s3.akamaized.net/public/map/AintNoOtherMan/AintNoOtherMan_Coach_1.png/36f1b6ea33895c22a0a6f8bff64fd79e.png",
+                  "coverImageUrl": "https://jd-s3.akamaized.net/public/map/AintNoOtherMan/AintNoOtherMan_Cover_Generic.jpg/b7cfe0d8d809c51a1b76e81460eac3ac.jpg",
+                  "cover_smallImageUrl": "https://jd-s3.akamaized.net/public/map/AintNoOtherMan/AintNoOtherMan_Cover_Online.jpg/48080faa3c80884e1b2124d39ae024d8.jpg",
+                  "expandCoachImageUrl": "https://jd-s3.akamaized.net/public/map/AintNoOtherMan/AintNoOtherMan_Cover_AlbumCoach.png/d28a0ea5bd1ffc0af959f65d8fd65915.png",
+                  "phoneCoach1ImageUrl": "https://jd-s3.akamaized.net/public/map/AintNoOtherMan/AintNoOtherMan_Coach_1_Phone.png/57bf3aa49cdf05c9e19addc79ae1823f.png",
+                  "phoneCoverImageUrl": "https://jd-s3.akamaized.net/public/map/AintNoOtherMan/AintNoOtherMan_Cover_Phone.jpg/f061986a9971a462e7fd8f8833dd8e36.jpg"
+            },
+            "audioPreviewData": "{\"__class\":\"MusicTrackData\",\"structure\":{\"__class\":\"MusicTrackStructure\",\"markers\":[0, 34996, 66643, 98291, 129938, 161585, 193233, 224880, 256527, 288175, 319822, 351469, 383117, 414764, 446411, 478059, 509706, 541353, 573001, 604648, 636296, 667943, 699590, 731238, 762885, 794532, 852734, 875233, 897732, 920231, 942730, 965229, 987728, 1010227, 1032727, 1055226, 1077725, 1100224, 1122723, 1145222, 1167721, 1190220, 1212719, 1235218, 1257717, 1280216, 1302715, 1325214, 1347713, 1370212, 1392711, 1415210, 1437709, 1460208, 1482707, 1505207, 1527706, 1550205, 1572704, 1595203, 1617702, 1640201, 1662700, 1685199, 1707698, 1730197, 1752696, 1775195, 1797694, 1820193, 1842692, 1865191, 1887690, 1910189, 1932688, 1955186, 1977686, 2000186, 2022685, 2045184, 2067683, 2090182, 2112681, 2135180, 2157679, 2180178, 2202677, 2225176, 2247675, 2270174, 2292673, 2315172, 2337671, 2360170, 2382669, 2405168, 2427666, 2450166, 2472666, 2495165, 2517664, 2540163, 2562662, 2585161, 2607660, 2630159, 2652658, 2675157, 2697656, 2720155, 2742654, 2765153, 2787652, 2810151, 2832650, 2855149, 2877648, 2900146, 2922645, 2945145, 2967645, 2990144, 3012643, 3035142, 3057641, 3080140, 3102639, 3125138, 3147637, 3170136, 3192635, 3215134, 3237633, 3260132, 3282631, 3305130, 3327629, 3350128, 3372626, 3395125, 3417624, 3440125, 3462624, 3485123, 3507622, 3530121, 3552620, 3575119, 3597618, 3620117, 3642616, 3665115, 3687614, 3710113, 3732612, 3755111, 3777610, 3800109, 3822608, 3845106, 3867605, 3890104, 3912604, 3935104, 3957603, 3980102, 4002601, 4025100, 4047599, 4070098, 4092597, 4115096, 4137595, 4160094, 4182593, 4205092, 4227591, 4250090, 4272589, 4295088, 4317586, 4340085, 4362584, 4385083, 4407584, 4430083, 4452582, 4475081, 4497580, 4520079, 4542578, 4565077, 4587576, 4610075, 4632574, 4655073, 4677572, 4700071, 4722570, 4745069, 4767568, 4790066, 4812565, 4835064, 4857563, 4880062, 4902563, 4925062, 4947561, 4970060, 4992559, 5015058, 5037557, 5060056, 5082555, 5105054, 5127553, 5150052, 5172551, 5195050, 5217549, 5240048, 5262546, 5285045, 5307544, 5330043, 5352542, 5375043, 5397542, 5420041, 5442540, 5465039, 5487538, 5510037, 5532536, 5555035, 5577534, 5600033, 5622532, 5645031, 5667530, 5690029, 5712528, 5735026, 5757525, 5780024, 5802523, 5825022, 5847521, 5870022, 5892521, 5915020, 5937519, 5960018, 5982517, 6005016, 6027515, 6050014, 6072513, 6095012, 6117511, 6140010, 6162509, 6185008, 6207506, 6230005, 6252504, 6275003, 6297502, 6320001, 6342502, 6365001, 6387500, 6409999, 6432498, 6454997, 6477496, 6499995, 6522494, 6544993, 6567492, 6589991, 6612490, 6634989, 6657488, 6679986, 6702485, 6724984, 6747483, 6769982, 6792481, 6814980, 6837481, 6859980, 6882479, 6904978, 6927477, 6949976, 6972475, 6994974, 7017473, 7039972, 7062471, 7084970, 7107469, 7129968, 7152466, 7174965, 7197464, 7219963, 7242462, 7264961, 7287460, 7309959, 7332460, 7354959, 7377458, 7399957, 7422456, 7444955, 7467454, 7489953, 7512452, 7534951, 7557450, 7579949, 7602448, 7624946, 7647445, 7669944, 7692443, 7714942, 7737441, 7759940, 7782439, 7804940, 7827439, 7849938, 7872437, 7894936, 7917435, 7939934, 7962433, 7984932, 8007431, 8029930, 8052429, 8074928, 8097426, 8119925, 8142424, 8164923, 8187422, 8209921, 8232420, 8254919, 8277418, 8299919, 8322418, 8344917, 8367416, 8389915, 8412414, 8434913, 8457412, 8479911, 8502410, 8524909, 8547408, 8569906, 8592405, 8614904, 8637403, 8659902, 8682401, 8704900, 8727399, 8749898, 8772397, 8794898, 8817397, 8839896, 8862395, 8884894, 8907393, 8929892, 8952391, 8974890, 8997389, 9019888, 9042386, 9064885, 9087384, 9109883, 9132382, 9154881, 9177380, 9199879, 9222378, 9244877, 9267378, 9289877, 9312376, 9334875, 9357374, 9379873, 9402372, 9424871, 9447370, 9469869, 9492368, 9514866, 9537365, 9559864, 9582363, 9604862, 9627361, 9649860, 9672359, 9694858, 9717357, 9739856, 9762357, 9784856, 9807355, 9829854, 9852353, 9874852, 9897351, 9919850, 9942349, 9964848, 9987346, 10009845, 10032344, 10054843, 10077342, 10099841, 10122340, 10144839, 10167338, 10189837, 10212336, 10234835, 10257336, 10279835, 10302334, 10324833, 10347332, 10369831, 10392330, 10414829, 10437328, 10459826, 10482325, 10504824, 10527323, 10549822, 10572321, 10594820, 10617319, 10639818, 10662317, 10684816, 10707315, 10729816, 10752315, 10774814, 10797313, 10819812, 10842311, 10864810, 10887309, 10909808, 10932306, 10954805, 10977304, 10999803, 11022302, 11044801, 11067601, 11090401, 11113201, 11136001, 11158801, 11181601],\"signatures\":[{\"__class\":\"MusicSignature\",\"marker\":0,\"beats\":4}],\"startBeat\":-2,\"endBeat\":300,\"fadeStartBeat\":0,\"useFadeStartBeat\":false,\"fadeEndBeat\":0,\"useFadeEndBeat\":false,\"videoStartTime\":0,\"previewEntry\":0,\"previewLoopStart\":0,\"previewLoopEnd\":48,\"volume\":0,\"fadeInDuration\":0,\"fadeInType\":0,\"fadeOutDuration\":0,\"fadeOutType\":0},\"path\":\"\",\"url\":\"jmcs://jd-contents/AintNoOtherMan/AintNoOtherMan_AudioPreview.ogg\"}",
+            "coachCount": 1,
+            "credits": "TBD",
+            "difficulty": 2,
+            "jdmAttributes": [],
+            "lyricsColor": "e653acFF",
+            "lyricsType": 0,
+            "mainCoach": -1,
+            "mapLength": 184.898,
+            "mapName": "AintNoOtherMan",
+            "mode": 6,
+            "originalJDVersion": 4,
+            "packages": {
+                  "mapContent": "AintNoOtherMan_mapContent"
+            },
+            "parentMapName": "AintNoOtherMan",
+            "skuIds": [],
+            "songColors": {
+                  "songColor_1A": "DD6502FF",
+                  "songColor_1B": "6D1601FF",
+                  "songColor_2A": "0031EEFF",
+                  "songColor_2B": "01037CFF"
+            },
+            "status": 3,
+            "sweatDifficulty": 1,
+            "tags": [],
+            "title": "Ain't No Other Man",
+            "urls": {
+                  "jmcs://jd-contents/AintNoOtherMan/AintNoOtherMan_AudioPreview.ogg": "https://jd-s3.akamaized.net/public/map/AintNoOtherMan/AintNoOtherMan_AudioPreview.ogg/48c2f4060945589fdc832a1a01f91683.ogg"
+            },
+            "serverChangelist": 0
+   },
+   "LightsOffMU": {
+       "artist": "We Are Domi",
+       "assets": {
+           "banner_bkgImageUrl": "https://media.discordapp.net/attachments/833077639131955210/973674933286764604/LightsOffMU_banner_bkg.png",
+           "coach1ImageUrl": "https://jd-s3.akamaized.net/public/map/FreedFromDesire/FreedFromDesire_Coach_1.png/9827dfe22f1e9a11a00871fb1e4651dd.png",
+           "coverImageUrl": "https://media.discordapp.net/attachments/833077639131955210/973675536452821092/LightsOffMU_Cover_Generic.jpg",
+           "cover_smallImageUrl": "https://media.discordapp.net/attachments/833077639131955210/973675535987265546/LightsOffMU_Cover_Online.jpg",
+           "expandCoachImageUrl": "https://jd-s3.akamaized.net/public/map/FreedFromDesire/FreedFromDesire_Cover_AlbumCoach.png/6a20802898bf0348b7b0f7d109394f98.png",
+           "phoneCoach1ImageUrl": "https://jd-s3.akamaized.net/public/map/FreedFromDesire/FreedFromDesire_Coach_1_Phone.png/61dcc78cf3fde31a400ba70f4cdbfcd4.png",
+           "phoneCoverImageUrl": "https://media.discordapp.net/attachments/833077639131955210/973675536222150737/LightsOffMU_Cover_Phone.jpg"
+       },
+       "audioPreviewData": "{\"__class\":\"MusicTrackData\",\"structure\":{\"__class\":\"MusicTrackStructure\",\"markers\":[0,23040,46080,69120,92160,115200,138240,161280,184320,207360,230400,253440,276480,299520,322560,345600,368640,391680,414720,437760,460800,483840,506880,529920,552960,576000,599040,622080,645120,668160,691200,714240,737280,760320,783360,806400,829440,852480,875520,898560,921600,944640,967680,990720,1013760,1036800,1059840,1082880,1105920,1128960,1152000,1175040,1198080,1221120,1244160,1267200,1290240,1313280,1336320,1359360,1382400,1405440,1428480,1451520,1474560,1497600,1520640,1543680,1566720,1589760,1612800,1635840,1658880,1681920,1704960,1728000,1751040,1774080,1797120,1820160,1843200,1866240,1889280,1912320,1935360,1958400,1981440,2004480,2027520,2050560,2073600,2096640,2119680,2142720,2165760,2188800,2211840,2234880,2257920,2280960,2304000,2327040,2350080,2373120,2396160,2419200,2442240,2465280,2488320,2511360,2534400,2557440,2580480,2603520,2626560,2649600,2672640,2695680,2718720,2741760,2764800,2787840,2810880,2833920,2856960,2880000,2903040,2926080,2949120,2972160,2995200,3018240,3041280,3064320,3087360,3110400,3133440,3156480,3179520,3202560,3225600,3248640,3271680,3294720,3317760,3340800,3363840,3386880,3409920,3432960,3456000,3479040,3502080,3525120,3548160,3571200,3594240,3617280,3640320,3663360,3686400,3709440,3732480,3755520,3778560,3801600,3824640,3847680,3870720,3893760,3916800,3939840,3962880,3985920,4008960,4032000,4055040,4078080,4101120,4124160,4147200,4170240,4193280,4216320,4239360,4262400,4285440,4308480,4331520,4354560,4377600,4400640,4423680,4446720,4469760,4492800,4515840,4538880,4561920,4584960,4608000,4631040,4654080,4677120,4700160,4723200,4746240,4769280,4792320,4815360,4838400,4861440,4884480,4907520,4930560,4953600,4976640,4999680,5022720,5045760,5068800,5091840,5114880,5137920,5160960,5184000,5207040,5230080,5253120,5276160,5299200,5322240,5345280,5368320,5391360,5414400,5437440,5460480,5483520,5506560,5529600,5552640,5575680,5598720,5621760,5644800,5667840,5690880,5713920,5736960,5760000,5783040,5806080,5829120,5852160,5875200,5898240,5921280,5944320,5967360,5990400,6013440,6036480,6059520,6082560,6105600,6128640,6151680,6174720,6197760,6220800,6243840,6266880,6289920,6312960,6336000,6359040,6382080,6405120,6428160,6451200,6474240,6497280,6520320,6543360,6566400,6589440,6612480,6635520,6658560,6681600,6704640,6727680,6750720,6773760,6796800,6819840,6842880,6865920,6888960,6912000,6935040,6958080,6981120,7004160,7027200,7050240,7073280,7096320,7119360,7142400,7165440,7188480,7211520,7234560,7257600,7280640,7303680,7326720,7349760,7372800,7395840,7418880,7441920,7464960,7488000,7511040,7534080,7557120,7580160,7603200,7626240,7649280,7672320,7695360,7718400,7741440,7764480,7787520,7810560,7833600,7856640,7879680,7902720,7925760,7948800,7971840,7994880,8017920,8040960,8064000,8087040,8110080,8133120,8156160,8179200,8202240,8225280,8248320,8271360,8294400,8317440,8340480,8363520,8386560,8409600,8432640,8455680,8478720,8501760,8524800,8547840,8570880,8593920,8616960,8640000,8663040,8686080,8709120,8732160],\"signatures\":[{\"__class\":\"MusicSignature\",\"marker\":0,\"beats\":4}],\"startBeat\":-5,\"endBeat\":503,\"fadeStartBeat\":0,\"useFadeStartBeat\":false,\"fadeEndBeat\":0,\"useFadeEndBeat\":false,\"videoStartTime\":0,\"previewEntry\":0,\"previewLoopStart\":0,\"previewLoopEnd\":65,\"volume\":0,\"fadeInDuration\":0,\"fadeInType\":0,\"fadeOutDuration\":0,\"fadeOutType\":0},\"path\":\"\",\"url\":\"jmcs://jd-contents/LightsOffMU/LightsOffMU_AudioPreview.ogg\"}",
+       "coachCount": 1,
+       "credits": "CREDIT STRING TO BE FILLED",
+       "difficulty": 2,
+       "doubleScoringType": -1,
+       "jdmAttributes": [],
+       "lyricsColor": "4BCA7CFF",
+       "lyricsType": 0,
+       "mainCoach": -1,
+       "mapLength": 231.243,
+       "mapName": "LightsOffMU",
+       "mode": 6,
+       "originalJDVersion": 2022,
+       "packages": {
+           "mapContent": "LightsOffMU_mapContent"
+       },
+       "parentMapName": "LightsOffMU",
+       "skuIds": [],
+       "songColors": {
+           "songColor_1A": "3326A9FF",
+           "songColor_1B": "295C93FF",
+           "songColor_2A": "1D1B67FF",
+           "songColor_2B": "0F0F2CFF"
+       },
+       "status": 3,
+       "tags": ["Main", "subscribedSong"],
+       "title": "Lights Off",
+       "urls": {
+           "jmcs://jd-contents/LightsOffMU/LightsOffMU_AudioPreview.ogg": "https://cdn.discordapp.com/attachments/833077639131955210/973676703987691591/LightsOffMU_AudioPreview.ogg"
+       },
+       "serverChangelist": 350335
+		},
+    "GonnaMake": {
+        "artist": "Sweat Invaders",
+        "assets": {
+            "banner_bkgImageUrl": "https://cdn.discordapp.com/attachments/928674832239984710/928753928798093372/GonnaMake_banner_bkg.png",
+            "coach1ImageUrl": "https://jd-s3.akamaized.net/public/map/GonnaMake/GonnaMake_Coach_1.png/2401245056954a1b3ad5c586fc2dab0c.png",
+            "coverImageUrl": "https://jd-s3.akamaized.net/public/map/GonnaMake/GonnaMake_Cover_Generic.jpg/fcbb0a5556e9d154aee8e71e15f277c3.jpg",
+            "cover_smallImageUrl": "https://jd-s3.akamaized.net/public/map/GonnaMake/GonnaMake_Cover_Online.jpg/b9934d907ec10e89dae9fa3bd7b0ee62.jpg",
+            "expandCoachImageUrl": "https://jd-s3.akamaized.net/public/map/GonnaMake/GonnaMake_Cover_AlbumCoach.png/e37ccfa026a57e86d73cf57ae24f1529.png",
+            "phoneCoach1ImageUrl": "https://jd-s3.akamaized.net/public/map/GonnaMake/GonnaMake_Coach_1_Phone.png/97a5607677d9a25921a2950b98c271fd.png",
+            "phoneCoverImageUrl": "https://jd-s3.akamaized.net/public/map/GonnaMake/GonnaMake_Cover_Phone.jpg/b9934d907ec10e89dae9fa3bd7b0ee62.jpg"
+        },
+        "audioPreviewData": "{\"__class\":\"MusicTrackData\",\"structure\":{\"__class\":\"MusicTrackStructure\",\"markers\":[0,25043,50086,75129,100171,125214,150257,175299,200342,225385,250428,275470,300513,325556,350598,375641,400684,425727,450769,475812,500855,525898,550940,575983,601026,626068,651111,676154,701197,726239,751282,776325,801367,826410,851453,876496,901538,926581,951624,976666,1001709,1026752,1051795,1076837,1101880,1126923,1151966,1177008,1202051,1227094,1252136,1277179,1302222,1327265,1352307,1377350,1402393,1427435],\"signatures\":[{\"__class\":\"MusicSignature\",\"marker\":0,\"beats\":4}],\"startBeat\":0,\"endBeat\":403,\"fadeStartBeat\":0,\"useFadeStartBeat\":false,\"fadeEndBeat\":0,\"useFadeEndBeat\":false,\"videoStartTime\":0,\"previewEntry\":0,\"previewLoopStart\":0,\"previewLoopEnd\":57,\"volume\":0,\"fadeInDuration\":0,\"fadeInType\":0,\"fadeOutDuration\":0,\"fadeOutType\":0},\"path\":\"\",\"url\":\"jmcs://jd-contents/gonnamake/gonnamake_AudioPreview.ogg\"}",
+        "coachCount": 1,
+        "credits": "Written by Frederick Williams and Robert Clivilles. . Published by Spirit Two Music, Inc. o/b/o Spirit Services holdings, S.à.r.l., WB Music Corp. (ASCAP). All rights reserved. Courtesy of Ubisoft Music.  All rights of the producer and other rightholders to the recorded work reserved. Unless otherwise authorized, the duplication, rental, loan, exchange or use of this video game for public performance, broadcasting and online distribution to the public are prohibited.",
+        "difficulty": 2,
+        "jdmAttributes": [],
+        "lyricsColor": "05DFF4FF",
+        "lyricsType": 0,
+        "mainCoach": -1,
+        "mapLength": 210.60299999999998,
+        "mapName": "GonnaMake",
+        "mode": 6,
+        "originalJDVersion": 3,
+        "packages": {
+            "mapContent": "GonnaMake_mapContent"
+        },
+        "parentMapName": "GonnaMake",
+        "songColors": {
+            "songColor_1A": "1B0090FF",
+            "songColor_1B": "1B0090FF",
+            "songColor_2A": "2CL55fFF",
+            "songColor_2B": "1B0090FF"
+        },
+        "status": 3,
+        "sweatDifficulty": 1,
+        "tags": ["Main", "subscribedSong"],
+        "title": "Gonna Make You Sweat (Everybody Dance Now)",
+        "urls": {
+            "jmcs://jd-contents/GonnaMake/GonnaMake_AudioPreview.ogg": "https://jd-s3.akamaized.net/public/map/GonnaMake/GonnaMake_AudioPreview.ogg/d0a98b48265febc2beaa2d123877a564.ogg"
+        },
+        "serverChangelist": 0
+	},
+	"SweetEscape": {
+		"artist": "Gwen Stefani Ft. Akon",
+		"assets": {
+			"banner_bkgImageUrl": "https://jd-s3.akamaized.net/public/map/SweetEscape/SweetEscape_banner_bkg.jpg/a11650acb9cd9e2b0a7b6735c46a3785.jpg",
+			"coach1ImageUrl": "https://jd-s3.akamaized.net/public/map/SweetEscape/SweetEscape_Coach_1.png/537ca6f06326d001813b8d1fc9204966.png",
+			"coverImageUrl": "https://jd-s3.akamaized.net/public/map/SweetEscape/SweetEscape_Cover_Generic.jpg/38738171784f97f79f17e8a504bae72a.jpg",
+			"cover_smallImageUrl": "https://jd-s3.akamaized.net/public/map/SweetEscape/SweetEscape_Cover_Online.jpg/74a3ad448f9714b702e5a041a76971ff.jpg",
+			"expandCoachImageUrl": "https://jd-s3.akamaized.net/public/map/SweetEscape/SweetEscape_Cover_AlbumCoach.png/a26ac869900dcf91d465a64019dbdb8a.png",
+			"phoneCoach1ImageUrl": "https://jd-s3.akamaized.net/public/map/SweetEscape/SweetEscape_Coach_1_Phone.png/256dcdd940360124f0456fbc70ff06f0.png",
+			"phoneCoverImageUrl": "https://jd-s3.akamaized.net/public/map/SweetEscape/SweetEscape_Cover_Phone.jpg/74a3ad448f9714b702e5a041a76971ff.jpg"
+		},
+		"audioPreviewData": "{\"__class\":\"MusicTrackData\",\"structure\":{\"__class\":\"MusicTrackStructure\",\"markers\":[0, 24000, 48000, 72000, 96000, 120000, 144000, 168000, 192000, 216000, 240000, 264000, 288000, 312000, 336000, 360000, 384000, 408000, 432000, 456000, 480000, 504000, 528000, 552000, 576000, 600000, 624000, 648000, 672000, 696000, 720000, 744000, 768000, 792000, 816000, 840000, 864000, 888000, 912000, 936000, 960000, 984000, 1008000, 1032000, 1056000, 1080000, 1104000, 1128000, 1152000, 1176000, 1200000, 1224000, 1248000, 1272000, 1296000, 1320000, 1344000, 1368000, 1392000, 1416000, 1440000, 1464000, 1488000, 1512000, 1536000, 1560000, 1584000, 1608000, 1632000, 1656000, 1680000, 1704000, 1728000, 1752000, 1776000, 1800000, 1824000, 1848000, 1872000, 1896000, 1920000, 1944000, 1968000, 1992000, 2016000, 2040000, 2064000, 2088000, 2112000, 2136000, 2160000, 2184000, 2208000, 2232000, 2256000, 2280000, 2304000, 2328000, 2352000, 2376000, 2400000, 2424000, 2448000, 2472000, 2496000, 2520000, 2544000, 2568000, 2592000, 2616000, 2640000, 2664000, 2688000, 2712000, 2736000, 2760000, 2784000, 2808000, 2832000, 2856000, 2880000, 2904000, 2928000, 2952000, 2976000, 3000000, 3024000, 3048000, 3072000, 3096000, 3120000, 3144000, 3168000, 3192000, 3216000, 3240000, 3264000, 3288000, 3312000, 3336000, 3360000, 3384000, 3408000, 3432000, 3456000, 3480000, 3504000, 3528000, 3552000, 3576000, 3600000, 3624000, 3648000, 3672000, 3696000, 3720000, 3744000, 3768000, 3792000, 3816000, 3840000, 3864000, 3888000, 3912000, 3936000, 3960000, 3984000, 4008000, 4032000, 4056000, 4080000, 4104000, 4128000, 4152000, 4176000, 4200000, 4224000, 4248000, 4272000, 4296000, 4320000, 4344000, 4368000, 4392000, 4416000, 4440000, 4464000, 4488000, 4512000, 4536000, 4560000, 4584000, 4608000, 4632000, 4656000, 4680000, 4704000, 4728000, 4752000, 4776000, 4800000, 4824000, 4848000, 4872000, 4896000, 4920000, 4944000, 4968000, 4992000, 5016000, 5040000, 5064000, 5088000, 5112000, 5136000, 5160000, 5184000, 5208000, 5232000, 5256000, 5280000, 5304000, 5328000, 5352000, 5376000, 5400000, 5424000, 5448000, 5472000, 5496000, 5520000, 5544000, 5568000, 5592000, 5616000, 5640000, 5664000, 5688000, 5712000, 5736000, 5760000, 5784000, 5808000, 5832000, 5856000, 5880000, 5904000, 5928000, 5952000, 5976000, 6000000, 6024000, 6048000, 6072000, 6096000, 6120000, 6144000, 6168000, 6192000, 6216000, 6240000, 6264000, 6288000, 6312000, 6336000, 6360000, 6384000, 6408000, 6432000, 6456000, 6480000, 6504000, 6528000, 6552000, 6576000, 6600000, 6624000, 6648000, 6672000, 6696000, 6720000, 6744000, 6768000, 6792000, 6816000, 6840000, 6864000, 6888000, 6912000, 6936000, 6960000, 6984000, 7008000, 7032000, 7056000, 7080000, 7104000, 7128000, 7152000, 7176000, 7200000, 7224000, 7248000, 7272000, 7296000, 7320000, 7344000, 7368000, 7392000, 7416000, 7440000, 7464000, 7488000, 7512000, 7536000, 7560000, 7584000, 7608000, 7632000, 7656000, 7680000, 7704000, 7728000, 7752000, 7776000, 7800000, 7824000, 7848000, 7872000, 7896000, 7920000, 7944000, 7968000, 7992000, 8016000, 8040000, 8064000, 8088000, 8112000, 8136000, 8160000, 8184000, 8208000, 8232000, 8256000, 8280000, 8304000, 8328000, 8352000, 8376000, 8400000, 8424000, 8448000, 8472000, 8496000, 8520000, 8544000, 8568000, 8592000, 8616000, 8640000, 8664000, 8688000, 8712000, 8736000, 8760000, 8784000, 8808000, 8832000, 8856000, 8880000, 8904000, 8928000, 8952000, 8976000, 9000000, 9024000, 9048000, 9072000, 9096000, 9120000, 9144000, 9168000, 9192000, 9216000, 9240000, 9264000, 9288000, 9312000, 9336000, 9360000, 9384000, 9408000, 9432000, 9456000, 9480000, 9504000, 9528000, 9552000, 9576000, 9600000, 9624000, 9648000, 9672000, 9696000, 9720000, 9744000, 9768000, 9792000, 9816000, 9840000, 9864000, 9888000, 9912000, 9936000, 9960000, 9984000, 10008000, 10032000, 10056000, 10080000, 10104000, 10128000, 10152000, 10176000, 10200000, 10224000, 10248000, 10272000, 10296000, 10320000, 10344000, 10368000, 10392000, 10416000, 10440000, 10463999],\"signatures\":[{\"__class\":\"MusicSignature\",\"marker\":0,\"beats\":4}],\"startBeat\":-5,\"endBeat\":280,\"fadeStartBeat\":0,\"useFadeStartBeat\":false,\"fadeEndBeat\":0,\"useFadeEndBeat\":false,\"videoStartTime\":0,\"previewEntry\":0,\"previewLoopStart\":0,\"previewLoopEnd\":45,\"volume\":0,\"fadeInDuration\":0,\"fadeInType\":0,\"fadeOutDuration\":0,\"fadeOutType\":0},\"path\":\"\",\"url\":\"jmcs://jd-contents/SweetEscape/SweetEscape_AudioPreview.ogg\"}",
+		"coachCount": 1,
+		"credits": "Written by Gwen Stefani, Aliaune Thiam and Giorgio Tuinfort. Published by Byefall Productions Inc. (ASCAP) / Sony/ATV Harmony (ASCAP) / Sony/ATV Songs LLC (BMI) / Break Out My Cocoon d/b/a Harajuku Lover Music. All rights reserved. Used with permission. Courtesy of Interscope Records under license from Universal Music Enterprises.",
+		"difficulty": 2,
+		"doubleScoringType": -1,
+		"jdmAttributes": [],
+		"lyricsColor": "fa71e2FF",
+		"lyricsType": 0,
+		"mainCoach": -1,
+		"mapLength": 300,
+		"mapName": "SweetEscape",
+		"mapPreviewMpd": "<?xml version=\"1.0\"?>\r\n<MPD xmlns:xsi=\"http://www.w3.org/2001/XMLSchema-instance\" xmlns=\"urn:mpeg:DASH:schema:MPD:2011\" xsi:schemaLocation=\"urn:mpeg:DASH:schema:MPD:2011\" type=\"static\" mediaPresentationDuration=\"PT30S\" minBufferTime=\"PT1S\" profiles=\"urn:webm:dash:profile:webm-on-demand:2012\">\r\n\t<Period id=\"0\" start=\"PT0S\" duration=\"PT30S\">\r\n\t\t<AdaptationSet id=\"0\" mimeType=\"video/webm\" codecs=\"vp9\" lang=\"eng\" maxWidth=\"720\" maxHeight=\"370\" subsegmentAlignment=\"true\" subsegmentStartsWithSAP=\"1\" bitstreamSwitching=\"true\">\r\n\t\t\t<Representation id=\"0\" bandwidth=\"648877\">\r\n\t\t\t\t<BaseURL>jmcs://jd-contents/SweetEscape/SweetEscape_MapPreviewNoSoundCrop_LOW.vp9.webm</BaseURL>\r\n\t\t\t\t<SegmentBase indexRange=\"641-1131\">\r\n\t\t\t\t\t<Initialization range=\"0-641\" />\r\n\t\t\t\t</SegmentBase>\r\n\t\t\t</Representation>\r\n\t\t\t<Representation id=\"1\" bandwidth=\"1493834\">\r\n\t\t\t\t<BaseURL>jmcs://jd-contents/SweetEscape/SweetEscape_MapPreviewNoSoundCrop_MID.vp9.webm</BaseURL>\r\n\t\t\t\t<SegmentBase indexRange=\"641-1131\">\r\n\t\t\t\t\t<Initialization range=\"0-641\" />\r\n\t\t\t\t</SegmentBase>\r\n\t\t\t</Representation>\r\n\t\t\t<Representation id=\"2\" bandwidth=\"2984420\">\r\n\t\t\t\t<BaseURL>jmcs://jd-contents/SweetEscape/SweetEscape_MapPreviewNoSoundCrop_HIGH.vp9.webm</BaseURL>\r\n\t\t\t\t<SegmentBase indexRange=\"641-1131\">\r\n\t\t\t\t\t<Initialization range=\"0-641\" />\r\n\t\t\t\t</SegmentBase>\r\n\t\t\t</Representation>\r\n\t\t\t<Representation id=\"3\" bandwidth=\"5932938\">\r\n\t\t\t\t<BaseURL>jmcs://jd-contents/SweetEscape/SweetEscape_MapPreviewNoSoundCrop_ULTRA.vp9.webm</BaseURL>\r\n\t\t\t\t<SegmentBase indexRange=\"641-1138\">\r\n\t\t\t\t\t<Initialization range=\"0-641\" />\r\n\t\t\t\t</SegmentBase>\r\n\t\t\t</Representation>\r\n\t\t</AdaptationSet>\r\n\t</Period>\r\n</MPD>\r\n",
+		"mode": 6,
+		"originalJDVersion": 2021,
+		"packages": {
+			"mapContent": "SweetEscape_mapContent"
+		},
+		"parentMapName": "SweetEscape",
+		"skuIds": [],
+		"songColors": {
+            "songColor_1A": "5D10ADFF",
+            "songColor_1B": "BD52DDFF",
+            "songColor_2A": "3C55CFFF",
+            "songColor_2B": "666ADBFF"
+		},
+		"status": 3,
+		"sweatDifficulty": 2,
+		"tags": ["Main", "subscribedSong"],
+		"title": "The Sweet Escape",
+		"urls": {
+			"jmcs://jd-contents/SweetEscape/SweetEscape_AudioPreview.ogg": "https://jd-s3.akamaized.net/public/map/SweetEscape/SweetEscape_AudioPreview.ogg/c1ab8fa5f708edbaa362563250fbed57.ogg"
+		},
+		"serverChangelist": 0
+      }
+}
